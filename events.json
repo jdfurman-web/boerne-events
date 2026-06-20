@@ -1,10 +1,10 @@
 {
-  "generated": "2026-06-20T01:13:18",
+  "generated": "2026-06-20T01:33:49",
   "window": {
     "start": "2026-06-19",
     "end": "2026-08-04"
   },
-  "count": 199,
+  "count": 156,
   "events": [
     {
       "date": "2026-06-19",
@@ -12,7 +12,7 @@
       "area": "Gruene",
       "category": "Music",
       "act": "Jace Nunnelly",
-      "time": "12:00pm–4:00pm",
+      "time": "12pm",
       "ticket": "https://gruenehall.com/event/jace-nunnelly-2/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
@@ -24,7 +24,7 @@
       "area": "Gruene",
       "category": "Music",
       "act": "Friday Afternoon Club",
-      "time": "4:00pm–7:00pm",
+      "time": "4pm",
       "ticket": "https://gruenehall.com/event/friday-afternoon-club-13/2026-06-19/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
@@ -40,6 +40,18 @@
       "ticket": "https://theboernelife.com/events/das-festival-of-kendall-2026-at-main-plaza-park/2026-06-19/",
       "source": "https://theboernelife.com/events/",
       "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-06-19",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Friday Live Music – John Prather",
+      "time": "6:00pm",
+      "ticket": "https://www.freeroambrewing.com/events/friday-live-music--john-prather",
+      "source": "https://www.freeroambrewing.com/events",
+      "price": "Free",
       "group": "Boerne"
     },
     {
@@ -64,6 +76,18 @@
       "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "price": "Free",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-06-19",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-06-19/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
       "group": "Boerne"
     },
     {
@@ -95,9 +119,9 @@
       "venue": "Gruene Hall",
       "area": "Gruene",
       "category": "Music",
-      "act": "Larry Joe Taylor w/ Presley Haile",
-      "time": "Doors 7pm / 9:15pm",
-      "ticket": "https://www.prekindle.com/event/68629-larry-joe-taylor-with-special-guest-presley-haile-new-braunfels",
+      "act": "Larry Joe Taylor w/ special guest Presley Haile",
+      "time": "8pm",
+      "ticket": "https://gruenehall.com/event/larry-joe-taylor-w-special-guest-presley-haile-2/",
       "source": "https://gruenehall.com/events/",
       "price": "Ticketed",
       "group": "Gruene / New Braunfels"
@@ -120,7 +144,7 @@
       "area": "Gruene",
       "category": "Music",
       "act": "Lindsay Beaver",
-      "time": "11:00am–1:00pm",
+      "time": "11am",
       "ticket": "https://gruenehall.com/event/lindsay-beaver-12/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
@@ -144,11 +168,23 @@
       "area": "Gruene",
       "category": "Music",
       "act": "Broken Arrow Band",
-      "time": "1:00pm–5:00pm",
+      "time": "1pm",
       "ticket": "https://gruenehall.com/event/broken-arrow-band-3/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-06-20",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Saturday Live Music – Bill Goodge",
+      "time": "6:00pm",
+      "ticket": "https://www.freeroambrewing.com/events/saturday-live-music---bill-goodge-4",
+      "source": "https://www.freeroambrewing.com/events",
+      "price": "Free",
+      "group": "Boerne"
     },
     {
       "date": "2026-06-20",
@@ -164,18 +200,6 @@
     },
     {
       "date": "2026-06-20",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Hunter Hicks",
-      "time": "7:00pm–9:00pm",
-      "ticket": "https://gruenehall.com/event/hunter-hicks/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-06-20",
       "venue": "Cave Without a Name",
       "area": "Boerne",
       "category": "Music",
@@ -184,6 +208,30 @@
       "ticket": "https://www.cavewithoutaname.com/content/summer-solstice-rudi-rudiments-2026",
       "source": "https://www.cavewithoutaname.com/event-calendar",
       "price": "Ticketed",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-06-20",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Hunter Hicks",
+      "time": "7pm",
+      "ticket": "https://gruenehall.com/event/hunter-hicks/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-06-20",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-06-20/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
       "group": "Boerne"
     },
     {
@@ -224,18 +272,6 @@
     },
     {
       "date": "2026-06-20",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Pearl Farmers Market",
-      "time": "9:00am–1:00pm",
-      "ticket": "https://atpearl.com/weekend-market/",
-      "source": "https://events.atpearl.com/series/farmers-market/",
-      "price": "Free",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-06-20",
       "venue": "Gruene Hall",
       "area": "Gruene",
       "category": "Music",
@@ -247,16 +283,28 @@
       "group": "Gruene / New Braunfels"
     },
     {
-      "date": "2026-06-21",
+      "date": "2026-06-20",
       "venue": "The Pearl",
       "area": "San Antonio – Pearl",
       "category": "Festival/Market",
-      "act": "Pearl Makers Market",
-      "time": "10:00am–2:00pm",
-      "ticket": "https://atpearl.com/weekend-market/",
-      "source": "https://events.atpearl.com/series/farmers-market/",
-      "price": "Free",
+      "act": "Farmers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/farmers-market/2026-06-20/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-06-20",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Festival/Market",
+      "act": "Father’s Day Weekend Burger Celebration at Singing Water Vineyards",
+      "time": "All day",
+      "ticket": "https://theboernelife.com/events/fathers-day-weekend-burger-celebration-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
     },
     {
       "date": "2026-06-21",
@@ -276,7 +324,7 @@
       "area": "Gruene",
       "category": "Music",
       "act": "Kayla Jane",
-      "time": "11:30am–2:30pm",
+      "time": "11:30am",
       "ticket": "https://gruenehall.com/event/kayla-jane-11/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
@@ -284,11 +332,23 @@
     },
     {
       "date": "2026-06-21",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Sunday Live Music – Brynnan Bex",
+      "time": "2:00pm",
+      "ticket": "https://www.freeroambrewing.com/events/sunday-live-music---brynnan-bex-2",
+      "source": "https://www.freeroambrewing.com/events",
+      "price": "Free",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-06-21",
       "venue": "Gruene Hall",
       "area": "Gruene",
       "category": "Music",
       "act": "South Austin Moonlighters",
-      "time": "3:00pm–6:00pm",
+      "time": "3pm",
       "ticket": "https://gruenehall.com/event/south-austin-moonlighters-10/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
@@ -312,7 +372,7 @@
       "area": "Gruene",
       "category": "Music",
       "act": "Michael Monroe Goodman",
-      "time": "6:30pm–9:30pm",
+      "time": "6:30pm",
       "ticket": "https://gruenehall.com/event/michael-monroe-goodman-21/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
@@ -336,7 +396,7 @@
       "area": "Gruene",
       "category": "Music",
       "act": "Bret Graham",
-      "time": "6:00pm–8:00pm",
+      "time": "6pm",
       "ticket": "https://gruenehall.com/event/bret-graham-138/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
@@ -348,23 +408,23 @@
       "area": "Gruene",
       "category": "Music",
       "act": "Paige Price",
-      "time": "8:30pm–10:30pm",
+      "time": "8:30pm",
       "ticket": "https://gruenehall.com/event/paige-price-2/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
     },
     {
-      "date": "2026-06-23",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
+      "date": "2026-06-22",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
       "category": "Music",
-      "act": "Two Ton Tuesday",
-      "time": "7:00pm–11:00pm",
-      "ticket": "https://www.gruenetexas.com/two-ton-tuesdays/",
-      "source": "https://gruenehall.com/events/",
-      "price": "$15",
-      "group": "Gruene / New Braunfels"
+      "act": "Phantom Planet & Augustana",
+      "time": "8pm",
+      "ticket": "https://events.atpearl.com/event/phantom-planet-augustana/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-06-23",
@@ -379,15 +439,15 @@
       "group": "Hill Country / N. San Antonio"
     },
     {
-      "date": "2026-06-24",
+      "date": "2026-06-23",
       "venue": "Gruene Hall",
       "area": "Gruene",
       "category": "Music",
-      "act": "Joel Hoffman",
-      "time": "6:00pm–8:00pm",
-      "ticket": "https://gruenehall.com/event/joel-hoffman-2/",
+      "act": "Two Ton Tuesday",
+      "time": "7pm",
+      "ticket": "https://gruenehall.com/event/two-ton-tuesday-5/2026-06-23/",
       "source": "https://gruenehall.com/events/",
-      "price": "Free",
+      "price": "Ticketed",
       "group": "Gruene / New Braunfels"
     },
     {
@@ -401,6 +461,30 @@
       "source": "https://brauntex.org/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-06-24",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Joel Hoffman",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/joel-hoffman-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-06-24",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Flatbed Summer Concert – Bailey Rae",
+      "time": "7:30pm",
+      "ticket": "https://www.freeroambrewing.com/events/flatbed-summer-concert-series--bailey-rae",
+      "source": "https://www.freeroambrewing.com/events",
+      "price": "Free",
+      "group": "Boerne"
     },
     {
       "date": "2026-06-25",
@@ -432,7 +516,7 @@
       "area": "Gruene",
       "category": "Music",
       "act": "Clay Gibson",
-      "time": "7:00pm–8:00pm",
+      "time": "7pm",
       "ticket": "https://gruenehall.com/event/clay-gibson/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
@@ -456,7 +540,7 @@
       "area": "Gruene",
       "category": "Music",
       "act": "Hill Country Revival",
-      "time": "8:30pm–10:30pm",
+      "time": "8:30pm",
       "ticket": "https://gruenehall.com/event/hill-country-revival-2/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
@@ -468,7 +552,7 @@
       "area": "Gruene",
       "category": "Music",
       "act": "Shay Domann",
-      "time": "12:00pm–4:00pm",
+      "time": "12pm",
       "ticket": "https://gruenehall.com/event/shay-domann/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
@@ -480,11 +564,23 @@
       "area": "Gruene",
       "category": "Music",
       "act": "Friday Afternoon Club",
-      "time": "4:00pm–7:00pm",
+      "time": "4pm",
       "ticket": "https://gruenehall.com/event/friday-afternoon-club-13/2026-06-26/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-06-26",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Friday Live Music – Evan Grubbs",
+      "time": "6:00pm",
+      "ticket": "https://www.freeroambrewing.com/events/friday-live-music-evangrubbs",
+      "source": "https://www.freeroambrewing.com/events",
+      "price": "Free",
+      "group": "Boerne"
     },
     {
       "date": "2026-06-26",
@@ -496,6 +592,18 @@
       "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "price": "Free",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-06-26",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-06-26/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
       "group": "Boerne"
     },
     {
@@ -540,10 +648,10 @@
       "area": "Gruene",
       "category": "Music",
       "act": "Billie Jo Jones",
-      "time": "Doors 7pm / 9:30pm",
-      "ticket": "https://www.prekindle.com/event/55144-billie-jo-jones-new-braunfels",
+      "time": "8pm",
+      "ticket": "https://gruenehall.com/event/billie-jo-jones/",
       "source": "https://gruenehall.com/events/",
-      "price": "$15",
+      "price": "Ticketed",
       "group": "Gruene / New Braunfels"
     },
     {
@@ -564,7 +672,7 @@
       "area": "Gruene",
       "category": "Music",
       "act": "Allan Hendrickson",
-      "time": "11:00am–1:00pm",
+      "time": "11am",
       "ticket": "https://gruenehall.com/event/allan-hendrickson-12/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
@@ -588,11 +696,23 @@
       "area": "Gruene",
       "category": "Music",
       "act": "Red Iron Push",
-      "time": "1:00pm–5:00pm",
+      "time": "1pm",
       "ticket": "https://gruenehall.com/event/red-iron-push-20/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-06-27",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Saturday Live Music – Slashes and Strings",
+      "time": "6:00pm",
+      "ticket": "https://www.freeroambrewing.com/events/saturday-live-music--slashes-and-strings",
+      "source": "https://www.freeroambrewing.com/events",
+      "price": "Free",
+      "group": "Boerne"
     },
     {
       "date": "2026-06-27",
@@ -632,6 +752,18 @@
     },
     {
       "date": "2026-06-27",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-06-27/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-06-27",
       "venue": "Cocky Rooster Bar",
       "area": "Comfort",
       "category": "Music",
@@ -656,39 +788,15 @@
     },
     {
       "date": "2026-06-27",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Pearl Farmers Market",
-      "time": "9:00am–1:00pm",
-      "ticket": "https://atpearl.com/weekend-market/",
-      "source": "https://events.atpearl.com/series/farmers-market/",
-      "price": "Free",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-06-27",
       "venue": "Gruene Hall",
       "area": "Gruene",
       "category": "Music",
       "act": "Cooder Graw",
-      "time": "Doors 8pm / 9pm",
-      "ticket": "https://www.prekindle.com/event/73873-cooder-graw-new-braunfels",
+      "time": "9pm",
+      "ticket": "https://gruenehall.com/event/cooder-graw-5/",
       "source": "https://gruenehall.com/events/",
-      "price": "$20",
+      "price": "Ticketed",
       "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-06-28",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Pearl Makers Market",
-      "time": "10:00am–2:00pm",
-      "ticket": "https://atpearl.com/weekend-market/",
-      "source": "https://events.atpearl.com/series/farmers-market/",
-      "price": "Free",
-      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-06-28",
@@ -696,7 +804,7 @@
       "area": "Gruene",
       "category": "Music",
       "act": "River Town Relics",
-      "time": "11:30am–2:30pm",
+      "time": "11:30am",
       "ticket": "https://gruenehall.com/event/river-town-relics-5/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
@@ -708,7 +816,7 @@
       "area": "Gruene",
       "category": "Music",
       "act": "Trevor Underwood Band",
-      "time": "3:00pm–6:00pm",
+      "time": "3pm",
       "ticket": "https://gruenehall.com/event/trevor-underwood-band-2/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
@@ -720,7 +828,7 @@
       "area": "Gruene",
       "category": "Music",
       "act": "Bret Graham",
-      "time": "6:30pm–9:30pm",
+      "time": "6:30pm",
       "ticket": "https://gruenehall.com/event/bret-graham-139/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
@@ -732,7 +840,7 @@
       "area": "Gruene",
       "category": "Music",
       "act": "JESKA Songswap with Special Guests",
-      "time": "6:00pm–8:00pm",
+      "time": "6pm",
       "ticket": "https://gruenehall.com/event/jeska-songswap-with-special-guests-3/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
@@ -752,18 +860,6 @@
     },
     {
       "date": "2026-06-30",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Two Ton Tuesday",
-      "time": "7:00pm–11:00pm",
-      "ticket": "https://www.gruenetexas.com/two-ton-tuesdays/",
-      "source": "https://gruenehall.com/events/",
-      "price": "$15",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-06-30",
       "venue": "Boerne Main Plaza",
       "area": "Boerne",
       "category": "Music",
@@ -773,42 +869,6 @@
       "source": "https://www.ci.boerne.tx.us/m/newsflash/home/detail/720",
       "price": "Free",
       "group": "Boerne"
-    },
-    {
-      "date": "2026-07-01",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Tony Taylor Acoustic",
-      "time": "12:00pm–2:00pm",
-      "ticket": "https://gruenehall.com/event/tony-taylor-acoustic/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-01",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Hannah Swann",
-      "time": "2:30pm–5:30pm",
-      "ticket": "https://gruenehall.com/event/hannah-swann/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-01",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "The Blokes",
-      "time": "6:00pm–8:00pm",
-      "ticket": "https://gruenehall.com/event/the-blokes-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-01",
@@ -824,27 +884,15 @@
     },
     {
       "date": "2026-07-01",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
       "category": "Music",
-      "act": "Soul Ethos",
-      "time": "8:30pm–10:30pm",
-      "ticket": "https://gruenehall.com/event/soul-ethos/",
-      "source": "https://gruenehall.com/events/",
+      "act": "Flatbed Summer Concert – Clay Hollis",
+      "time": "7:30pm",
+      "ticket": "https://www.freeroambrewing.com/events/flatbed-summer-concert-series--clay-hollis",
+      "source": "https://www.freeroambrewing.com/events",
       "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-02",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Andi Holleman & Friends",
-      "time": "12:00pm–3:00pm",
-      "ticket": "https://gruenehall.com/event/andi-holleman-friends-4/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
+      "group": "Boerne"
     },
     {
       "date": "2026-07-02",
@@ -871,40 +919,28 @@
       "group": "Hill Country / N. San Antonio"
     },
     {
-      "date": "2026-07-02",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
+      "date": "2026-07-03",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
       "category": "Music",
-      "act": "Silverada",
-      "time": "Doors 7pm / 9:30pm",
-      "ticket": "https://www.prekindle.com/event/98731-silverada-new-braunfels",
-      "source": "https://gruenehall.com/events/",
-      "price": "$25",
-      "group": "Gruene / New Braunfels"
+      "act": "Celebrating 250 Years of Freedom in America at Singing Water Vineyards",
+      "time": "4pm",
+      "ticket": "https://theboernelife.com/events/celebrating-250-years-of-freedom-in-america-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
     },
     {
       "date": "2026-07-03",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
       "category": "Music",
-      "act": "Dean Paul Willeford",
-      "time": "12:00pm–4:00pm",
-      "ticket": "https://gruenehall.com/event/dean-paul-willeford-3/",
-      "source": "https://gruenehall.com/events/",
+      "act": "Friday Live Music – Hank Billings",
+      "time": "6:00pm",
+      "ticket": "https://www.freeroambrewing.com/events/friday-live-music--hank-billings",
+      "source": "https://www.freeroambrewing.com/events",
       "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-03",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Friday Afternoon Club",
-      "time": "4:00pm–7:00pm",
-      "ticket": "https://gruenehall.com/event/friday-afternoon-club-13/2026-07-03/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
+      "group": "Boerne"
     },
     {
       "date": "2026-07-03",
@@ -932,6 +968,18 @@
     },
     {
       "date": "2026-07-03",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-07-03/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-07-03",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -955,54 +1003,6 @@
       "group": "Hill Country / N. San Antonio"
     },
     {
-      "date": "2026-07-03",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Silverada",
-      "time": "Doors 7pm / 9:30pm",
-      "ticket": "https://www.prekindle.com/event/69239-silverada-new-braunfels",
-      "source": "https://gruenehall.com/events/",
-      "price": "$25",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-04",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "David Adam Byrnes",
-      "time": "10:00pm",
-      "ticket": "https://gruenehall.com/event/david-adam-byrnes/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-04",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Kayla Jane",
-      "time": "11:00am–1:00pm",
-      "ticket": "https://gruenehall.com/event/kayla-jane-12/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-04",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Dusty Moats",
-      "time": "1:00pm–5:00pm",
-      "ticket": "https://gruenehall.com/event/dusty-moats-4/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
       "date": "2026-07-04",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
@@ -1013,6 +1013,18 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-07-04",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Saturday Live Music – Erica Daniels",
+      "time": "6:00pm",
+      "ticket": "https://www.freeroambrewing.com/events/saturday-live-music---erica-daniels",
+      "source": "https://www.freeroambrewing.com/events",
+      "price": "Free",
+      "group": "Boerne"
     },
     {
       "date": "2026-07-04",
@@ -1028,51 +1040,15 @@
     },
     {
       "date": "2026-07-04",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
       "category": "Music",
-      "act": "Drew Oliver",
-      "time": "8:00pm–9:30pm",
-      "ticket": "https://gruenehall.com/event/drew-oliver/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-04",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Pearl Farmers Market",
-      "time": "9:00am–1:00pm",
-      "ticket": "https://atpearl.com/weekend-market/",
-      "source": "https://events.atpearl.com/series/farmers-market/",
-      "price": "Free",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-05",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Pearl Makers Market",
-      "time": "10:00am–2:00pm",
-      "ticket": "https://atpearl.com/weekend-market/",
-      "source": "https://events.atpearl.com/series/farmers-market/",
-      "price": "Free",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-05",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Adam Johnson Band",
-      "time": "3:00pm–6:00pm",
-      "ticket": "https://gruenehall.com/event/adam-johnson-band-12/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-07-04/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
     },
     {
       "date": "2026-07-05",
@@ -1085,66 +1061,6 @@
       "source": "https://www.prekindle.com/events/john-t-floores-country-store",
       "price": "Free",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-05",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Tiffiny Dawn Band",
-      "time": "6:30pm–9:30pm",
-      "ticket": "https://gruenehall.com/event/tiffiny-dawn-band-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-06",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Jordan Minor",
-      "time": "6:00pm–8:00pm",
-      "ticket": "https://gruenehall.com/event/jordan-minor-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-06",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Slim Bawb",
-      "time": "8:30pm–10:30pm",
-      "ticket": "https://gruenehall.com/event/slim-bawb-8/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-07",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Two Ton Tuesday",
-      "time": "7:00pm–11:00pm",
-      "ticket": "https://www.gruenetexas.com/two-ton-tuesdays/",
-      "source": "https://gruenehall.com/events/",
-      "price": "$15",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-08",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Marc Sauceda",
-      "time": "6:00pm–8:00pm",
-      "ticket": "https://gruenehall.com/event/marc-sauceda-10/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-08",
@@ -1160,6 +1076,18 @@
     },
     {
       "date": "2026-07-08",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Flatbed Summer Concert – Ralyn Gayle",
+      "time": "7:30pm",
+      "ticket": "https://www.freeroambrewing.com/events/flatbed-summer-concert-series--ralyn-gayle",
+      "source": "https://www.freeroambrewing.com/events",
+      "price": "Free",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-07-08",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -1169,18 +1097,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-08",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Neal Stranahan",
-      "time": "8:30pm–10:30pm",
-      "ticket": "https://gruenehall.com/event/neal-stranahan-4/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-09",
@@ -1196,18 +1112,6 @@
     },
     {
       "date": "2026-07-09",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Brodie Lane",
-      "time": "7:00pm–8:00pm",
-      "ticket": "https://gruenehall.com/event/brodie-lane-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-09",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -1219,40 +1123,16 @@
       "group": "Hill Country / N. San Antonio"
     },
     {
-      "date": "2026-07-09",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Jessee Lee — Honky Tonk Thursday",
-      "time": "8:30pm–10:30pm",
-      "ticket": "https://gruenehall.com/event/jessee-lee/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
       "date": "2026-07-10",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
       "category": "Music",
-      "act": "Eric Heideman Band",
-      "time": "12:00pm–4:00pm",
-      "ticket": "https://gruenehall.com/event/eric-heideman-band-3/",
-      "source": "https://gruenehall.com/events/",
+      "act": "Friday Live Music – Brad Blackburn",
+      "time": "6:00pm",
+      "ticket": "https://www.freeroambrewing.com/events/friday-live-music--brad-blackburn",
+      "source": "https://www.freeroambrewing.com/events",
       "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-10",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Friday Afternoon Club",
-      "time": "4:00pm–7:00pm",
-      "ticket": "https://gruenehall.com/event/friday-afternoon-club-13/2026-07-10/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
+      "group": "Boerne"
     },
     {
       "date": "2026-07-10",
@@ -1280,6 +1160,18 @@
     },
     {
       "date": "2026-07-10",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-07-10/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-07-10",
       "venue": "John T. Floore's Country Store",
       "area": "Helotes",
       "category": "Music",
@@ -1303,18 +1195,6 @@
       "group": "Hill Country / N. San Antonio"
     },
     {
-      "date": "2026-07-10",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Bleu Edmondson",
-      "time": "Doors 7pm / 9:30pm",
-      "ticket": "https://www.prekindle.com/event/17481-bleu-edmondson-new-braunfels",
-      "source": "https://gruenehall.com/events/",
-      "price": "$20",
-      "group": "Gruene / New Braunfels"
-    },
-    {
       "date": "2026-07-11",
       "venue": "Boerne Market Days (Main Plaza)",
       "area": "Boerne",
@@ -1328,27 +1208,15 @@
     },
     {
       "date": "2026-07-11",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
       "category": "Music",
-      "act": "Andi Holleman",
-      "time": "11:00am–1:00pm",
-      "ticket": "https://gruenehall.com/event/andi-holleman-6/",
-      "source": "https://gruenehall.com/events/",
+      "act": "Saturday Live Music – Britt Ballenger",
+      "time": "6:00pm",
+      "ticket": "https://www.freeroambrewing.com/events/saturday-live-music---britt-ballenger",
+      "source": "https://www.freeroambrewing.com/events",
       "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-11",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Heath Walker Band",
-      "time": "1:00pm–5:00pm",
-      "ticket": "https://gruenehall.com/event/heath-walker-band/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
+      "group": "Boerne"
     },
     {
       "date": "2026-07-11",
@@ -1376,6 +1244,18 @@
     },
     {
       "date": "2026-07-11",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-07-11/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-07-11",
       "venue": "13 Trees Coffee Haus & Roastery",
       "area": "New Braunfels",
       "category": "Festival/Market",
@@ -1399,42 +1279,6 @@
       "group": "Hill Country / N. San Antonio"
     },
     {
-      "date": "2026-07-11",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Pearl Farmers Market",
-      "time": "9:00am–1:00pm",
-      "ticket": "https://atpearl.com/weekend-market/",
-      "source": "https://events.atpearl.com/series/farmers-market/",
-      "price": "Free",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-11",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Them Dirty Roses",
-      "time": "Doors 8pm / 10:30pm",
-      "ticket": "https://www.prekindle.com/event/17898-them-dirty-roses-new-braunfels",
-      "source": "https://gruenehall.com/events/",
-      "price": "$25",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-12",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Pearl Makers Market",
-      "time": "10:00am–2:00pm",
-      "ticket": "https://atpearl.com/weekend-market/",
-      "source": "https://events.atpearl.com/series/farmers-market/",
-      "price": "Free",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
       "date": "2026-07-12",
       "venue": "Boerne Market Days (Main Plaza)",
       "area": "Boerne",
@@ -1445,30 +1289,6 @@
       "source": "https://business.boerne.org/events/calendar",
       "price": "Free",
       "group": "Boerne"
-    },
-    {
-      "date": "2026-07-12",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Clayton Chapin",
-      "time": "11:30am–2:30pm",
-      "ticket": "https://gruenehall.com/event/clayton-chapin-9/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-12",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Bret Graham",
-      "time": "3:00pm–6:00pm",
-      "ticket": "https://gruenehall.com/event/bret-graham-141/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-12",
@@ -1483,78 +1303,6 @@
       "group": "Hill Country / N. San Antonio"
     },
     {
-      "date": "2026-07-12",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Spencer Johnson",
-      "time": "6:30pm–9:30pm",
-      "ticket": "https://gruenehall.com/event/spencer-johnson-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-13",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "JESKA Songswap with Special Guests",
-      "time": "6:00pm–8:00pm",
-      "ticket": "https://gruenehall.com/event/jeska-songswap-with-special-guests-4/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-13",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Owen Stroud",
-      "time": "8:30pm–10:30pm",
-      "ticket": "https://gruenehall.com/event/owen-stroud-4/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-14",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Two Ton Tuesday",
-      "time": "7:00pm–11:00pm",
-      "ticket": "https://www.gruenetexas.com/two-ton-tuesdays/",
-      "source": "https://gruenehall.com/events/",
-      "price": "$15",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-15",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Children's Entrepreneur Night Market",
-      "time": "5:00–8:00pm",
-      "ticket": "https://events.atpearl.com/series/childrens-entrepreneur-night-market/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "Free",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-15",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "The Georges",
-      "time": "6:00pm–10:00pm",
-      "ticket": "https://gruenehall.com/event/the-georges-101/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
       "date": "2026-07-15",
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
@@ -1565,6 +1313,18 @@
       "source": "https://brauntex.org/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-07-15",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Flatbed Summer Concert – Matt Kirk Trio",
+      "time": "7:30pm",
+      "ticket": "https://www.freeroambrewing.com/events/flatbed-summer-concert-series--matt-kirk-trio",
+      "source": "https://www.freeroambrewing.com/events",
+      "price": "Free",
+      "group": "Boerne"
     },
     {
       "date": "2026-07-16",
@@ -1579,40 +1339,16 @@
       "group": "Hill Country / N. San Antonio"
     },
     {
-      "date": "2026-07-16",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Billy Bob Thornton & The Boxmasters — Morro Rock Tour",
-      "time": "Doors 7pm / 9pm",
-      "ticket": "https://www.prekindle.com/event/53319-billy-bob-thornton-and-the-boxmasters-2026-morro-rock-tour-new-braunfels",
-      "source": "https://gruenehall.com/events/",
-      "price": "$75 SOLD OUT",
-      "group": "Gruene / New Braunfels"
-    },
-    {
       "date": "2026-07-17",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
       "category": "Music",
-      "act": "Kayla Jane",
-      "time": "11:00am–2:30pm",
-      "ticket": "https://gruenehall.com/event/kayla-jane-13/",
-      "source": "https://gruenehall.com/events/",
+      "act": "Friday Live Music – Jeff Wood",
+      "time": "6:00pm",
+      "ticket": "https://www.freeroambrewing.com/events/friday-live-music--jeff-wood",
+      "source": "https://www.freeroambrewing.com/events",
       "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-17",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Friday Afternoon Club",
-      "time": "4:00pm–7:00pm",
-      "ticket": "https://gruenehall.com/event/friday-afternoon-club-13/2026-07-17/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
+      "group": "Boerne"
     },
     {
       "date": "2026-07-17",
@@ -1624,6 +1360,18 @@
       "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "price": "Free",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-07-17",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-07-17/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
       "group": "Boerne"
     },
     {
@@ -1663,18 +1411,6 @@
       "group": "Hill Country / N. San Antonio"
     },
     {
-      "date": "2026-07-17",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Gary P. Nunn",
-      "time": "Doors 7pm / 9pm",
-      "ticket": "https://www.prekindle.com/event/62779-gary-p-nunn-new-braunfels",
-      "source": "https://gruenehall.com/events/",
-      "price": "$30 / VIP $125",
-      "group": "Gruene / New Braunfels"
-    },
-    {
       "date": "2026-07-18",
       "venue": "Old Gruene Market Days",
       "area": "Gruene",
@@ -1683,30 +1419,6 @@
       "time": "10:00am–5:00pm",
       "ticket": "https://www.gruenetexas.com/market-days/",
       "source": "https://www.gruenetexas.com/market-days/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-18",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Elysha LeMaster",
-      "time": "11:00am–1:00pm",
-      "ticket": "https://gruenehall.com/event/elysha-lemaster-5/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-18",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Red Iron Push",
-      "time": "1:00pm–5:00pm",
-      "ticket": "https://gruenehall.com/event/red-iron-push-21/",
-      "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
     },
@@ -1736,6 +1448,18 @@
     },
     {
       "date": "2026-07-18",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-07-18/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-07-18",
       "venue": "John T. Floore's Country Store",
       "area": "Helotes",
       "category": "Music",
@@ -1760,30 +1484,6 @@
     },
     {
       "date": "2026-07-18",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Pearl Farmers Market",
-      "time": "9:00am–1:00pm",
-      "ticket": "https://atpearl.com/weekend-market/",
-      "source": "https://events.atpearl.com/series/farmers-market/",
-      "price": "Free",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-18",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Stoney LaRue",
-      "time": "Doors 8pm / 10:30pm",
-      "ticket": "https://www.prekindle.com/event/64281-stoney-larue-new-braunfels",
-      "source": "https://gruenehall.com/events/",
-      "price": "$30",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-18",
       "venue": "Whitewater Amphitheater",
       "area": "New Braunfels",
       "category": "Music",
@@ -1796,18 +1496,6 @@
     },
     {
       "date": "2026-07-19",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Pearl Makers Market",
-      "time": "10:00am–2:00pm",
-      "ticket": "https://atpearl.com/weekend-market/",
-      "source": "https://events.atpearl.com/series/farmers-market/",
-      "price": "Free",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-19",
       "venue": "Old Gruene Market Days",
       "area": "Gruene",
       "category": "Festival/Market",
@@ -1815,30 +1503,6 @@
       "time": "10:00am–5:00pm",
       "ticket": "https://www.gruenetexas.com/market-days/",
       "source": "https://www.gruenetexas.com/market-days/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-19",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Lindsay Beaver",
-      "time": "11:30am–2:30pm",
-      "ticket": "https://gruenehall.com/event/lindsay-beaver-13/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-19",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Mike McLoud Dean",
-      "time": "3:00pm–6:00pm",
-      "ticket": "https://gruenehall.com/event/mike-mcloud-dean/",
-      "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
     },
@@ -1856,18 +1520,6 @@
     },
     {
       "date": "2026-07-19",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Bradley Thomas",
-      "time": "6:30pm–9:30pm",
-      "ticket": "https://gruenehall.com/event/bradley-thomas-9/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-19",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -1877,30 +1529,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-20",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Bret Graham",
-      "time": "6:00pm–8:00pm",
-      "ticket": "https://gruenehall.com/event/bret-graham-142/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-20",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Ruben V",
-      "time": "8:30pm–10:30pm",
-      "ticket": "https://gruenehall.com/event/ruben-v-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-21",
@@ -1913,18 +1541,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-21",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Two Ton Tuesday",
-      "time": "7:00pm–11:00pm",
-      "ticket": "https://www.gruenetexas.com/two-ton-tuesdays/",
-      "source": "https://gruenehall.com/events/",
-      "price": "$15",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-22",
@@ -1940,15 +1556,15 @@
     },
     {
       "date": "2026-07-22",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
       "category": "Music",
-      "act": "Roger Creager's Birthday Show (Acoustic)",
-      "time": "Doors 7pm / 8pm",
-      "ticket": "https://www.prekindle.com/event/57678-roger-creagers-birthday-show-acoustic-with-special-guest-new-braunfels",
-      "source": "https://gruenehall.com/events/",
-      "price": "$20",
-      "group": "Gruene / New Braunfels"
+      "act": "Flatbed Summer Concert – David Adam Byrnes",
+      "time": "7:30pm",
+      "ticket": "https://www.freeroambrewing.com/events/flatbed-summer-concert-series--david-adam-byrnes",
+      "source": "https://www.freeroambrewing.com/events",
+      "price": "Free",
+      "group": "Boerne"
     },
     {
       "date": "2026-07-23",
@@ -1975,40 +1591,16 @@
       "group": "Hill Country / N. San Antonio"
     },
     {
-      "date": "2026-07-23",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Roger Creager's Birthday Show (Full Band)",
-      "time": "Doors 7pm / 9:30pm",
-      "ticket": "https://www.prekindle.com/event/43648-roger-creagers-birthday-show-full-band-new-braunfels",
-      "source": "https://gruenehall.com/events/",
-      "price": "$25",
-      "group": "Gruene / New Braunfels"
-    },
-    {
       "date": "2026-07-24",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
       "category": "Music",
-      "act": "Chuck Wimer",
-      "time": "1:00pm–4:00pm",
-      "ticket": "https://gruenehall.com/event/chuck-wimer-2/",
-      "source": "https://gruenehall.com/events/",
+      "act": "Friday Live Music – Matt Parker",
+      "time": "6:00pm",
+      "ticket": "https://www.freeroambrewing.com/events/friday-live-music--matt-parker",
+      "source": "https://www.freeroambrewing.com/events",
       "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-24",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Friday Afternoon Club",
-      "time": "4:00pm–7:00pm",
-      "ticket": "https://gruenehall.com/event/friday-afternoon-club-13/2026-07-24/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
+      "group": "Boerne"
     },
     {
       "date": "2026-07-24",
@@ -2024,6 +1616,18 @@
     },
     {
       "date": "2026-07-24",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-07-24/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-07-24",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -2035,42 +1639,6 @@
       "group": "Hill Country / N. San Antonio"
     },
     {
-      "date": "2026-07-24",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Roger Creager's Birthday Show (Full Band)",
-      "time": "Doors 7pm / 9:30pm",
-      "ticket": "https://www.prekindle.com/event/49726-roger-creagers-birthday-show-full-band-new-braunfels",
-      "source": "https://gruenehall.com/events/",
-      "price": "$25",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-25",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Paige Price",
-      "time": "11:00am–1:00pm",
-      "ticket": "https://gruenehall.com/event/paige-price-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-25",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Lee Mathis & The Brutally Handsome",
-      "time": "1:00pm–5:00pm",
-      "ticket": "https://gruenehall.com/event/lee-mathis-the-brutally-handsome-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
       "date": "2026-07-25",
       "venue": "Bending Branch Winery",
       "area": "Comfort",
@@ -2080,6 +1648,30 @@
       "ticket": "https://www.eventbrite.com/e/a-taste-of-texas-italy-tickets-1992233677559",
       "source": "https://www.bendingbranchwinery.com/Visit/Events",
       "price": "$75–85",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-07-25",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Saturday Live Music – Chris Cuevas",
+      "time": "6:00pm",
+      "ticket": "https://www.freeroambrewing.com/events/saturday-live-music--chris-cuevas",
+      "source": "https://www.freeroambrewing.com/events",
+      "price": "Free",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-07-25",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "The Texas Eagles – Tribute Band at Singing Water Vineyards",
+      "time": "6:30pm",
+      "ticket": "https://theboernelife.com/events/the-texas-eagles-tribute-band-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
       "group": "Comfort"
     },
     {
@@ -2120,6 +1712,18 @@
     },
     {
       "date": "2026-07-25",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-07-25/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-07-25",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -2129,30 +1733,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-25",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Pearl Farmers Market",
-      "time": "9:00am–1:00pm",
-      "ticket": "https://atpearl.com/weekend-market/",
-      "source": "https://events.atpearl.com/series/farmers-market/",
-      "price": "Free",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-25",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Roger Creager's Birthday Show (Full Band)",
-      "time": "Doors 8pm / 10:30pm",
-      "ticket": "https://www.prekindle.com/event/44958-roger-creagers-birthday-show-full-band-new-braunfels",
-      "source": "https://gruenehall.com/events/",
-      "price": "$25",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-25",
@@ -2168,54 +1748,6 @@
     },
     {
       "date": "2026-07-26",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Pearl Makers Market",
-      "time": "10:00am–2:00pm",
-      "ticket": "https://atpearl.com/weekend-market/",
-      "source": "https://events.atpearl.com/series/farmers-market/",
-      "price": "Free",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-26",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Allan Hendrickson",
-      "time": "11:30am–2:30pm",
-      "ticket": "https://gruenehall.com/event/allan-hendrickson-13/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-26",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Michael Monroe Goodman",
-      "time": "3:00pm–6:00pm",
-      "ticket": "https://gruenehall.com/event/michael-monroe-goodman-22/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-26",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Shay Domann",
-      "time": "6:30pm–9:30pm",
-      "ticket": "https://gruenehall.com/event/shay-domann-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-26",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -2225,30 +1757,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-27",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "JESKA Songswap with Special Guests",
-      "time": "6:00pm–8:00pm",
-      "ticket": "https://gruenehall.com/event/jeska-songswap-with-special-guests-5/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-27",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Tony Taylor & Friends",
-      "time": "8:30pm–10:30pm",
-      "ticket": "https://gruenehall.com/event/tony-taylor-friends-30/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-28",
@@ -2276,18 +1784,6 @@
     },
     {
       "date": "2026-07-29",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "The Georges",
-      "time": "6:00pm–10:00pm",
-      "ticket": "https://gruenehall.com/event/the-georges-102/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-29",
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
       "category": "Theater/Arts",
@@ -2299,52 +1795,28 @@
       "group": "Gruene / New Braunfels"
     },
     {
-      "date": "2026-07-30",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
+      "date": "2026-07-29",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
       "category": "Music",
-      "act": "Kyle Gates",
-      "time": "7:00pm–8:00pm",
-      "ticket": "https://gruenehall.com/event/kyle-gates/",
-      "source": "https://gruenehall.com/events/",
+      "act": "Flatbed Summer Concert – Scotty Alexander",
+      "time": "7:30pm",
+      "ticket": "https://www.freeroambrewing.com/events/flatbed-summer-concert-series--scotty-alexander",
+      "source": "https://www.freeroambrewing.com/events",
       "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-30",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Luke Prater — Honky Tonk Thursday",
-      "time": "8:30pm–10:30pm",
-      "ticket": "https://gruenehall.com/event/luke-prater/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
+      "group": "Boerne"
     },
     {
       "date": "2026-07-31",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
       "category": "Music",
-      "act": "Jesse Stratton Band",
-      "time": "12:00pm–4:00pm",
-      "ticket": "https://gruenehall.com/event/jesse-stratton-band-6/",
-      "source": "https://gruenehall.com/events/",
+      "act": "Friday Live Music – Sam and Lilly Platts",
+      "time": "6:00pm",
+      "ticket": "https://www.freeroambrewing.com/events/friday-live-music-sam-and-lilly-platts",
+      "source": "https://www.freeroambrewing.com/events",
       "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-31",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Friday Afternoon Club",
-      "time": "4:00pm–7:00pm",
-      "ticket": "https://gruenehall.com/event/friday-afternoon-club-13/2026-07-31/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
+      "group": "Boerne"
     },
     {
       "date": "2026-07-31",
@@ -2360,6 +1832,18 @@
     },
     {
       "date": "2026-07-31",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-07-31/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-07-31",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -2369,18 +1853,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-31",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Matt Kirk & The Güeyfarers",
-      "time": "Doors 7pm / 9:30pm",
-      "ticket": "https://www.prekindle.com/event/32621-matt-kirk-and-the-geyfarers-new-braunfels",
-      "source": "https://gruenehall.com/events/",
-      "price": "$15",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-08-01",
@@ -2393,6 +1865,18 @@
       "source": "https://brauntex.org/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-08-01",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-08-01/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
     }
   ]
 }
