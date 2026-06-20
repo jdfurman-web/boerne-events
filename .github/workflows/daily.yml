@@ -1,0 +1,39 @@
+name: Daily events refresh
+
+on:
+  schedule:
+    - cron: "0 11 * * *"   # 11:00 UTC = 6:00 AM Central (CDT). Rebuilds the page each morning.
+  workflow_dispatch: {}     # lets you trigger a refresh manually from the Actions tab
+
+permissions:
+  contents: write           # allow the job to commit the rebuilt page
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Scrape feeds + rebuild page
+        run: |
+          python scraper.py
+          python build_site.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "events-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add events.json index.html
+          if git diff --staged --quiet; then
+            echo "No changes today."
+          else
+            git commit -m "Daily refresh: $(date -u +%Y-%m-%d)"
+            git push
+          fi
