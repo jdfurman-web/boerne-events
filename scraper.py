@@ -62,6 +62,20 @@ ICAL_VENUES = [
                     "vinyl series", "ice cream", "launch party", "showdown",
                     "aperitivo", "World Cup".lower()],
     },
+    {
+        # Boerne Life aggregator exposes clean per-venue iCal feeds.
+        "venue": "The Bevy Hotel", "area": "Boerne", "category": "Music",
+        "url": "https://theboernelife.com/venue/the-bevy-hotel-boerne/?ical=1",
+        "exclude": ["first look", "luncheon", "preview", "the vistas", "trivia",
+                    "job fair", "career", "chamber"],
+        "retag_market": ["market", "festival", "celebration", "tasting", "brunch"],
+    },
+    {
+        "venue": "Singing Water Vineyards", "area": "Comfort", "category": "Music",
+        "url": "https://theboernelife.com/venue/singing-water-vineyards/?ical=1",
+        "exclude": ["trivia", "private"],
+        "retag_market": ["market", "festival", "celebration", "burger", "tasting", "brunch"],
+    },
 ]
 
 MUSIC_HINTS = ["tribute", "band", "concert", "live music", "country club",
@@ -159,6 +173,9 @@ def scrape_ical_venue(cfg):
             cat = "Music" if any(h in s for h in MUSIC_HINTS) and "cinema" not in s else "Theater/Arts"
         if cfg["venue"] == "The Pearl":
             cat = "Music" if "stable hall" in ev["location"].lower() else "Festival/Market"
+        if cfg.get("retag_market"):
+            if any(h in ev["summary"].lower() for h in cfg["retag_market"]):
+                cat = "Festival/Market"
         rows.append({
             "date": ev["start"].strftime("%Y-%m-%d"),
             "venue": cfg["venue"], "area": cfg["area"], "category": cat,
@@ -202,29 +219,4 @@ def main():
             events += rows
         except Exception as e:
             fb = prev.get(cfg["venue"], [])
-            log(f"!! {cfg['venue']} failed ({e}); keeping {len(fb)} cached")
-            traceback.print_exc()
-            events += fb
-
-    # 3) window + group + dedupe + sort
-    for e in events:
-        e["group"] = AREA_GROUP.get(e["area"], e["area"])
-    events = [e for e in events if in_window(e["date"], lo, hi)]
-    seen, dedup = set(), []
-    for e in sorted(events, key=lambda e: (e["date"], e.get("time", ""), e["venue"], e["act"])):
-        k = (e["date"], e["venue"], e["act"].lower())
-        if k in seen:
-            continue
-        seen.add(k); dedup.append(e)
-
-    out = {
-        "generated": datetime.datetime.now().isoformat(timespec="seconds"),
-        "window": {"start": lo, "end": hi},
-        "count": len(dedup), "events": dedup,
-    }
-    json.dump(out, open(pf, "w"), indent=2, ensure_ascii=False)
-    log(f"WROTE events.json: {len(dedup)} events ({lo} .. {hi})")
-
-
-if __name__ == "__main__":
-    main()
+            
