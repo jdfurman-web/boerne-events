@@ -1,10 +1,10 @@
 {
-  "generated": "2026-06-20T00:47:40",
+  "generated": "2026-06-20T01:13:18",
   "window": {
     "start": "2026-06-19",
-    "end": "2026-07-31"
+    "end": "2026-08-04"
   },
-  "count": 198,
+  "count": 199,
   "events": [
     {
       "date": "2026-06-19",
@@ -395,10 +395,10 @@
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
       "category": "Theater/Arts",
-      "act": "Summer Cinema: A League of Their Own (1992)",
+      "act": "SUMMER CINEMA: A LEAGUE OF THEIR OWN (1992)",
       "time": "6:30pm",
       "ticket": "https://brauntex.org/event/summer-cinema-a-league-of-their-own-1992/",
-      "source": "https://brauntex.org/brauntex-upcoming-events/",
+      "source": "https://brauntex.org/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
     },
@@ -623,11 +623,11 @@
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
       "category": "Theater/Arts",
-      "act": "Buckets N Boards: Comedy Percussion Show",
+      "act": "BUCKETS N BOARDS: COMEDY PERCUSSION SHOW",
       "time": "7:30pm",
       "ticket": "https://brauntex.org/event/buckets-n-boards-comedy-percussion-show/",
-      "source": "https://brauntex.org/brauntex-upcoming-events/",
-      "price": "Ticketed",
+      "source": "https://brauntex.org/events/",
+      "price": "",
       "group": "Gruene / New Braunfels"
     },
     {
@@ -815,11 +815,11 @@
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
       "category": "Music",
-      "act": "SA Jazz Society: Will Holiday's Grand Ol' Americana Show",
+      "act": "San Antonio Jazz Society presents Will Holiday's Grand Ol' Americana Show",
       "time": "7:30pm",
       "ticket": "https://brauntex.org/event/san-antonio-jazz-society-presents-will-holidays-grand-ol-americana-show/",
-      "source": "https://brauntex.org/brauntex-upcoming-events/",
-      "price": "Ticketed",
+      "source": "https://brauntex.org/events/",
+      "price": "",
       "group": "Gruene / New Braunfels"
     },
     {
@@ -851,11 +851,11 @@
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
       "category": "Music",
-      "act": "Neal McCoy",
+      "act": "NEAL MCCOY",
       "time": "7:30pm",
       "ticket": "https://brauntex.org/event/neal-mccoy/",
-      "source": "https://brauntex.org/brauntex-upcoming-events/",
-      "price": "Ticketed",
+      "source": "https://brauntex.org/events/",
+      "price": "",
       "group": "Gruene / New Braunfels"
     },
     {
@@ -1151,10 +1151,10 @@
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
       "category": "Theater/Arts",
-      "act": "Summer Cinema: High School Musical",
+      "act": "SUMMER CINEMA: HIGH SCHOOL MUSICAL (2006)",
       "time": "6:30pm",
-      "ticket": "https://brauntex.org/brauntex-upcoming-events/",
-      "source": "https://brauntex.org/brauntex-upcoming-events/",
+      "ticket": "https://brauntex.org/event/summer-cinema-high-school-musical-2006/",
+      "source": "https://brauntex.org/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
     },
@@ -1271,11 +1271,11 @@
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
       "category": "Music",
-      "act": "Hindley Street Country Club",
+      "act": "HINDLEY STREET COUNTRY CLUB",
       "time": "7:30pm",
       "ticket": "https://brauntex.org/event/hindley-street-country-club-2/",
-      "source": "https://brauntex.org/brauntex-upcoming-events/",
-      "price": "Ticketed",
+      "source": "https://brauntex.org/events/",
+      "price": "",
       "group": "Gruene / New Braunfels"
     },
     {
@@ -1559,10 +1559,10 @@
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
       "category": "Theater/Arts",
-      "act": "Summer Cinema: Trolls",
+      "act": "SUMMER CINEMA: TROLLS (2016)",
       "time": "6:30pm",
-      "ticket": "https://brauntex.org/brauntex-upcoming-events/",
-      "source": "https://brauntex.org/brauntex-upcoming-events/",
+      "ticket": "https://brauntex.org/event/summer-cinema-trolls-2016/",
+      "source": "https://brauntex.org/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
     },
@@ -1727,11 +1727,11 @@
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
       "category": "Music",
-      "act": "Jimmy's Buffet — Celebrating the Music of Jimmy Buffett",
+      "act": "JIMMY'S BUFFET - CELEBRATING THE MUSIC OF JIMMY BUFFETT",
       "time": "7:30pm",
       "ticket": "https://brauntex.org/event/jimmys-buffet-celebrating-the-music-of-jimmy-buffett/",
-      "source": "https://brauntex.org/brauntex-upcoming-events/",
-      "price": "Ticketed",
+      "source": "https://brauntex.org/events/",
+      "price": "",
       "group": "Gruene / New Braunfels"
     },
     {
@@ -1931,10 +1931,10 @@
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
       "category": "Theater/Arts",
-      "act": "Summer Cinema: Hairspray",
+      "act": "SUMMER CINEMA: HAIRSPRAY (2007)",
       "time": "6:30pm",
-      "ticket": "https://brauntex.org/brauntex-upcoming-events/",
-      "source": "https://brauntex.org/brauntex-upcoming-events/",
+      "ticket": "https://brauntex.org/event/summer-cinema-hairspray-2007/",
+      "source": "https://brauntex.org/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
     },
@@ -2111,11 +2111,11 @@
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
       "category": "Music",
-      "act": "Already Gone: A Tribute to the Eagles",
+      "act": "MIDALES ENTERTAINMENT PRESENTS ALREADY GONE: A TRIBUTE TO THE EAGLES",
       "time": "7:30pm",
       "ticket": "https://brauntex.org/event/midales-entertainment-presents-already-gone-a-tribute-to-the-eagles/",
-      "source": "https://brauntex.org/brauntex-upcoming-events/",
-      "price": "Ticketed",
+      "source": "https://brauntex.org/events/",
+      "price": "",
       "group": "Gruene / New Braunfels"
     },
     {
@@ -2291,10 +2291,10 @@
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
       "category": "Theater/Arts",
-      "act": "Summer Cinema: Grease 2",
+      "act": "SUMMER CINEMA: GREASE 2 (1982)",
       "time": "6:30pm",
-      "ticket": "https://brauntex.org/brauntex-upcoming-events/",
-      "source": "https://brauntex.org/brauntex-upcoming-events/",
+      "ticket": "https://brauntex.org/event/summer-cinema-grease-2-1982/",
+      "source": "https://brauntex.org/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
     },
@@ -2380,6 +2380,18 @@
       "ticket": "https://www.prekindle.com/event/32621-matt-kirk-and-the-geyfarers-new-braunfels",
       "source": "https://gruenehall.com/events/",
       "price": "$15",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-08-01",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "ZAK MIRZ - KID @ ❤️  INTERACTIVE MAGIC SHOW",
+      "time": "7:30pm",
+      "ticket": "https://brauntex.org/event/zak-mirz-kid-%e2%9d%a4%ef%b8%8f-interactive-magic-show/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
       "group": "Gruene / New Braunfels"
     }
   ]
