@@ -1,119 +1,11 @@
 {
-  "generated": "2026-06-21T13:11:36",
+  "generated": "2026-06-22T15:57:42",
   "window": {
-    "start": "2026-06-20",
-    "end": "2026-08-05"
+    "start": "2026-06-21",
+    "end": "2026-08-06"
   },
-  "count": 150,
+  "count": 139,
   "events": [
-    {
-      "date": "2026-06-20",
-      "venue": "Old Gruene Market Days",
-      "area": "Gruene",
-      "category": "Festival/Market",
-      "act": "Artisan market (Day 1)",
-      "time": "10:00am–5:00pm",
-      "ticket": "https://www.gruenetexas.com/market-days/",
-      "source": "https://www.gruenetexas.com/market-days/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-06-20",
-      "venue": "Shopping with Siobhain",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Live Music at Shopping with Siobhain",
-      "time": "12:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/live-music-at-shopping-with-siobhain-1752982?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-06-20",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Saturday Live Music – Bill Goodge",
-      "time": "6:00pm",
-      "ticket": "https://www.freeroambrewing.com/events/saturday-live-music---bill-goodge-4",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-06-20",
-      "venue": "Tapatio Springs Resort",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Ruben Pacheco",
-      "time": "6:30–10:30pm",
-      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-06-20",
-      "venue": "Cave Without a Name",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Summer Solstice – Rudi & the Rudiments",
-      "time": "7:30pm",
-      "ticket": "https://www.cavewithoutaname.com/content/summer-solstice-rudi-rudiments-2026",
-      "source": "https://www.cavewithoutaname.com/event-calendar",
-      "price": "Ticketed",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-06-20",
-      "venue": "Cocky Rooster Bar",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Kyle William Lindley @ Cocky Rooster",
-      "time": "8:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/kyle-william-lindley-cocky-rooster-1762744?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-06-20",
-      "venue": "John T. Floore's Country Store",
-      "area": "Helotes",
-      "category": "Music",
-      "act": "Tyler Halverson",
-      "time": "8:30pm (Doors 7:00)",
-      "ticket": "https://www.prekindle.com/event/11167-tyler-halverson-helotes",
-      "source": "https://www.prekindle.com/events/john-t-floores-country-store",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-06-20",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "THIRD EYE - A Live tribute to TOOL, A Perfect Circle & Pusci",
-      "time": "8:30pm (Doors 7:30)",
-      "ticket": "https://wl.seetickets.us/event/third-eye-a-live-tribute-to-tool-a-perfect-circle-and-pusci/683287",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-06-20",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Father’s Day Weekend Burger Celebration at Singing Water Vineyards",
-      "time": "All day",
-      "ticket": "https://theboernelife.com/events/fathers-day-weekend-burger-celebration-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
     {
       "date": "2026-06-21",
       "venue": "Old Gruene Market Days",
@@ -123,18 +15,6 @@
       "time": "10:00am–5:00pm",
       "ticket": "https://www.gruenetexas.com/market-days/",
       "source": "https://www.gruenetexas.com/market-days/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-06-21",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Kayla Jane",
-      "time": "11:30am",
-      "ticket": "https://gruenehall.com/event/kayla-jane-11/",
-      "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
     },
@@ -152,18 +32,6 @@
     },
     {
       "date": "2026-06-21",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "South Austin Moonlighters",
-      "time": "3pm",
-      "ticket": "https://gruenehall.com/event/south-austin-moonlighters-10/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-06-21",
       "venue": "John T. Floore's Country Store",
       "area": "Helotes",
       "category": "Music",
@@ -173,18 +41,6 @@
       "source": "https://www.prekindle.com/events/john-t-floores-country-store",
       "price": "Free",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-06-21",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Michael Monroe Goodman",
-      "time": "6:30pm",
-      "ticket": "https://gruenehall.com/event/michael-monroe-goodman-21/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-06-21",
@@ -628,6 +484,18 @@
       "ticket": "https://wl.seetickets.us/event/deadeye-grateful-dead-tribute-band/684445",
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-06-27",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Farmers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/farmers-market/2026-06-27/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
       "group": "Hill Country / N. San Antonio"
     },
     {
