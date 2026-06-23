@@ -1,95 +1,11 @@
 {
-  "generated": "2026-06-22T15:57:42",
+  "generated": "2026-06-23T13:44:43",
   "window": {
-    "start": "2026-06-21",
-    "end": "2026-08-06"
+    "start": "2026-06-22",
+    "end": "2026-08-07"
   },
-  "count": 139,
+  "count": 151,
   "events": [
-    {
-      "date": "2026-06-21",
-      "venue": "Old Gruene Market Days",
-      "area": "Gruene",
-      "category": "Festival/Market",
-      "act": "Artisan market (Day 2)",
-      "time": "10:00am–5:00pm",
-      "ticket": "https://www.gruenetexas.com/market-days/",
-      "source": "https://www.gruenetexas.com/market-days/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-06-21",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Sunday Live Music – Brynnan Bex",
-      "time": "2:00pm",
-      "ticket": "https://www.freeroambrewing.com/events/sunday-live-music---brynnan-bex-2",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-06-21",
-      "venue": "John T. Floore's Country Store",
-      "area": "Helotes",
-      "category": "Music",
-      "act": "Dine and Dance (Free, All Ages)",
-      "time": "4:00pm (Doors 3:00)",
-      "ticket": "https://www.prekindle.com/event/38878-dine-and-dance-free-all-ages-helotes",
-      "source": "https://www.prekindle.com/events/john-t-floores-country-store",
-      "price": "Free",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-06-21",
-      "venue": "Tapatio Springs Resort",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Jaime Valera (Father's Day)",
-      "time": "6:30–10:30pm",
-      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-06-22",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Bret Graham",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/bret-graham-138/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-06-22",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Paige Price",
-      "time": "8:30pm",
-      "ticket": "https://gruenehall.com/event/paige-price-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-06-22",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "Phantom Planet & Augustana",
-      "time": "8pm",
-      "ticket": "https://events.atpearl.com/event/phantom-planet-augustana/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
     {
       "date": "2026-06-23",
       "venue": "Sam's Burger Joint",
@@ -296,6 +212,18 @@
     },
     {
       "date": "2026-06-26",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "Agarita + Nilgun Derman of Niche Clothing Company",
+      "time": "7:30pm",
+      "ticket": "https://events.atpearl.com/event/agarita-nilgun-derman-of-niche-clothing-comany/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-06-26",
       "venue": "The Bevy Hotel",
       "area": "Boerne",
       "category": "Music",
@@ -401,6 +329,30 @@
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-06-27",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Brad Blackburn Live at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/brad-blackburn-live-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-06-27",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Collie Miller Live at Singing Water Vineyards",
+      "time": "5pm",
+      "ticket": "https://theboernelife.com/events/collie-miller-live-at-singing-water-vineyards-2/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
     },
     {
       "date": "2026-06-27",
@@ -524,6 +476,18 @@
     },
     {
       "date": "2026-06-28",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Steve Garry Duo Live at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/steve-garry-duo-live-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-06-28",
       "venue": "Gruene Hall",
       "area": "Gruene",
       "category": "Music",
@@ -547,6 +511,18 @@
       "group": "Gruene / New Braunfels"
     },
     {
+      "date": "2026-06-28",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Makers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/makers-market-5-2-2/2026-06-28/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
       "date": "2026-06-29",
       "venue": "Gruene Hall",
       "area": "Gruene",
@@ -554,6 +530,18 @@
       "act": "JESKA Songswap with Special Guests",
       "time": "6pm",
       "ticket": "https://gruenehall.com/event/jeska-songswap-with-special-guests-3/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-06-29",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Bartly",
+      "time": "8:30pm",
+      "ticket": "https://gruenehall.com/event/bartly/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
@@ -728,6 +716,18 @@
     },
     {
       "date": "2026-07-04",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Julian Escobedo Live at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/julian-escobedo-live-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-07-04",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -737,6 +737,18 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-07-04",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Hunter Billingsley Live at Singing Water Vineyards",
+      "time": "5pm",
+      "ticket": "https://theboernelife.com/events/hunter-billingsley-live-at-singing-water-vineyards-2/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
     },
     {
       "date": "2026-07-04",
@@ -783,6 +795,18 @@
       "time": "12:00pm",
       "ticket": "https://business.comfortchamber.com/calendar/Details/cousins-maine-lobster-at-bending-branch-winery-1745505?sourceTypeId=Website",
       "source": "https://business.comfortchamber.com/calendar",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-07-05",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Brent Ryan Live at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/brent-ryan-live-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
       "price": "",
       "group": "Comfort"
     },
@@ -953,6 +977,30 @@
       "source": "https://business.boerne.org/events/calendar",
       "price": "Free",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-07-11",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Andy Garcia Live at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/andy-garcia-live-at-singing-water-vineyards-2/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-07-11",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Sam and Lilly Platts Live at Singing Water Vineyards",
+      "time": "5pm",
+      "ticket": "https://theboernelife.com/events/sam-and-lilly-platts-live-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
     },
     {
       "date": "2026-07-11",
@@ -1172,6 +1220,30 @@
     },
     {
       "date": "2026-07-18",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Anthony Garcia Live at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/anthony-garcia-live-at-singing-water-vineyards-2/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-07-18",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Bill Goodge Live at Singing Water Vineyards",
+      "time": "5pm",
+      "ticket": "https://theboernelife.com/events/bill-goodge-live-at-singing-water-vineyards-2/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-07-18",
       "venue": "Tapatio Springs Resort",
       "area": "Boerne",
       "category": "Music",
@@ -1241,6 +1313,18 @@
       "source": "https://www.gruenetexas.com/market-days/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-07-19",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Matt Kersh Live at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/matt-kersh-live-at-singing-water-vineyards-2/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
     },
     {
       "date": "2026-07-19",
@@ -1484,6 +1568,18 @@
     },
     {
       "date": "2026-07-26",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Susan Herndon Live at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/susan-herndon-live-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-07-26",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -1670,6 +1766,54 @@
       "act": "George Porter Jr. & Runnin' Pardners",
       "time": "8:00pm (Doors 7:00)",
       "ticket": "https://wl.seetickets.us/event/george-porter-jr-and-runnin-pardners/694671",
+      "source": "https://samsburgerjoint.com/calendar/",
+      "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-07",
+      "venue": "Tapatio Springs Resort",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Lacy Brinson",
+      "time": "6:30–10:30pm",
+      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
+      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
+      "price": "Free",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-08-07",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-08-07/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-08-07",
+      "venue": "John T. Floore's Country Store",
+      "area": "Helotes",
+      "category": "Music",
+      "act": "Aaron McBee and Lane Smith",
+      "time": "8:30pm (Doors 7:00)",
+      "ticket": "https://www.prekindle.com/event/29613-aaron-mcbee-and-lane-smith-helotes",
+      "source": "https://www.prekindle.com/events/john-t-floores-country-store",
+      "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-07",
+      "venue": "Sam's Burger Joint",
+      "area": "San Antonio – near Pearl",
+      "category": "Music",
+      "act": "The Days In Between with DeadEye",
+      "time": "8:30pm (Doors 7:30)",
+      "ticket": "https://wl.seetickets.us/event/the-days-in-between-with-deadeye/694021",
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
