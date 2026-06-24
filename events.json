@@ -1,10 +1,10 @@
 {
-  "generated": "2026-06-23T13:44:43",
+  "generated": "2026-06-24T13:25:46",
   "window": {
-    "start": "2026-06-22",
-    "end": "2026-08-07"
+    "start": "2026-06-23",
+    "end": "2026-08-08"
   },
-  "count": 151,
+  "count": 154,
   "events": [
     {
       "date": "2026-06-23",
@@ -1815,6 +1815,42 @@
       "time": "8:30pm (Doors 7:30)",
       "ticket": "https://wl.seetickets.us/event/the-days-in-between-with-deadeye/694021",
       "source": "https://samsburgerjoint.com/calendar/",
+      "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-08",
+      "venue": "Tapatio Springs Resort",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Chris Lopez",
+      "time": "6:30–10:30pm",
+      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
+      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
+      "price": "Free",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-08-08",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-08-08/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-08-08",
+      "venue": "John T. Floore's Country Store",
+      "area": "Helotes",
+      "category": "Music",
+      "act": "Kolby Cooper",
+      "time": "8:30pm (Doors 7:00)",
+      "ticket": "https://www.prekindle.com/event/38786-kolby-cooper-helotes",
+      "source": "https://www.prekindle.com/events/john-t-floores-country-store",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
     }
