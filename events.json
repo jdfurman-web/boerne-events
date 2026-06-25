@@ -1,47 +1,11 @@
 {
-  "generated": "2026-06-24T13:25:46",
+  "generated": "2026-06-25T13:22:48",
   "window": {
-    "start": "2026-06-23",
-    "end": "2026-08-08"
+    "start": "2026-06-24",
+    "end": "2026-08-09"
   },
-  "count": 154,
+  "count": 151,
   "events": [
-    {
-      "date": "2026-06-23",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Live and Local with 210 Jazz Orchestra",
-      "time": "7:30pm (Doors 6:30)",
-      "ticket": "https://wl.seetickets.us/event/live-and-local-with-210-jazz-orchestra/690994",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-06-23",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Two Ton Tuesday",
-      "time": "7pm",
-      "ticket": "https://gruenehall.com/event/two-ton-tuesday-5/2026-06-23/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-06-24",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Theater/Arts",
-      "act": "SUMMER CINEMA: A LEAGUE OF THEIR OWN (1992)",
-      "time": "6:30pm",
-      "ticket": "https://brauntex.org/event/summer-cinema-a-league-of-their-own-1992/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-06-24",
       "venue": "Gruene Hall",
