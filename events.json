@@ -1,35 +1,11 @@
 {
-  "generated": "2026-06-25T13:22:48",
+  "generated": "2026-06-26T13:15:02",
   "window": {
-    "start": "2026-06-24",
-    "end": "2026-08-09"
+    "start": "2026-06-25",
+    "end": "2026-08-10"
   },
-  "count": 151,
+  "count": 148,
   "events": [
-    {
-      "date": "2026-06-24",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Joel Hoffman",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/joel-hoffman-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-06-24",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Flatbed Summer Concert Series – Bailey Rae",
-      "time": "7:30pm",
-      "ticket": "https://www.freeroambrewing.com/events/flatbed-summer-concert-series--bailey-rae",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
     {
       "date": "2026-06-25",
       "venue": "8th Street Market",
@@ -80,18 +56,6 @@
     },
     {
       "date": "2026-06-25",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Clay Gibson",
-      "time": "7pm",
-      "ticket": "https://gruenehall.com/event/clay-gibson/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-06-25",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -101,18 +65,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-06-25",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Hill Country Revival",
-      "time": "8:30pm",
-      "ticket": "https://gruenehall.com/event/hill-country-revival-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-06-26",
@@ -173,18 +125,6 @@
       "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "price": "Free",
       "group": "Boerne"
-    },
-    {
-      "date": "2026-06-26",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "Agarita + Nilgun Derman of Niche Clothing Company",
-      "time": "7:30pm",
-      "ticket": "https://events.atpearl.com/event/agarita-nilgun-derman-of-niche-clothing-comany/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-06-26",
@@ -365,6 +305,18 @@
       "source": "https://brauntex.org/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-06-27",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "Agarita + Nilgun Derman of Niche Clothing Company",
+      "time": "7:30pm",
+      "ticket": "https://events.atpearl.com/event/agarita-nilgun-derman-of-niche-clothing-comany/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-06-27",
@@ -749,6 +701,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-07-04",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Farmers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/farmers-market/2026-07-04/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-07-05",
