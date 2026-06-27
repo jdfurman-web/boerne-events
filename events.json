@@ -1,71 +1,11 @@
 {
-  "generated": "2026-06-26T13:15:02",
+  "generated": "2026-06-27T12:10:54",
   "window": {
-    "start": "2026-06-25",
-    "end": "2026-08-10"
+    "start": "2026-06-26",
+    "end": "2026-08-11"
   },
-  "count": 148,
+  "count": 143,
   "events": [
-    {
-      "date": "2026-06-25",
-      "venue": "8th Street Market",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Trunk Show with C. Wilson Studios at 8th Street Market",
-      "time": "10:00am",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/trunk-show-with-c-wilson-studios-at-8th-street-market-1758049?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-06-25",
-      "venue": "8th Street Market",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Pop Up Dinner - Hosted by Martini & Co. at 8th Street Market",
-      "time": "6:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/pop-up-dinner-hosted-by-martini-co-at-8th-street-market-1758002?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-06-25",
-      "venue": "Bending Branch Winery",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Potluck Night at Bending Branch",
-      "time": "6:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/potluck-night-at-bending-branch-1752506?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-06-25",
-      "venue": "Shopping with Siobhain",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Steak Night Social at Shopping with Siobhain",
-      "time": "6:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/steak-night-social-at-shopping-with-siobhain-1695466?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-06-25",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Los #3 Dinners",
-      "time": "8:00pm (Doors 7:00)",
-      "ticket": "https://wl.seetickets.us/event/los-3-dinners/690058",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
     {
       "date": "2026-06-26",
       "venue": "8th Street Market",
@@ -124,18 +64,6 @@
       "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-06-26",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-06-26/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
       "group": "Boerne"
     },
     {
@@ -881,6 +809,18 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-07-10",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Texas Brewery Roundup Conference & Trade Show at The Bevy Hotel",
+      "time": "All day",
+      "ticket": "https://theboernelife.com/events/texas-brewery-roundup-conference-trade-show-at-the-bevy-hotel/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
     },
     {
       "date": "2026-07-11",
