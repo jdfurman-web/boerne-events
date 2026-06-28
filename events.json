@@ -1,143 +1,11 @@
 {
-  "generated": "2026-06-27T12:10:54",
+  "generated": "2026-06-28T12:18:37",
   "window": {
-    "start": "2026-06-26",
-    "end": "2026-08-11"
+    "start": "2026-06-27",
+    "end": "2026-08-12"
   },
-  "count": 143,
+  "count": 126,
   "events": [
-    {
-      "date": "2026-06-26",
-      "venue": "8th Street Market",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Trunk Show with C. Wilson Studios at 8th Street Market",
-      "time": "10:00am",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/trunk-show-with-c-wilson-studios-at-8th-street-market-1758097?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-06-26",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Shay Domann",
-      "time": "12pm",
-      "ticket": "https://gruenehall.com/event/shay-domann/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-06-26",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Friday Afternoon Club",
-      "time": "4pm",
-      "ticket": "https://gruenehall.com/event/friday-afternoon-club-13/2026-06-26/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-06-26",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Friday Live Music – Evan Grubbs",
-      "time": "6:00pm",
-      "ticket": "https://www.freeroambrewing.com/events/friday-live-music-evangrubbs",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-06-26",
-      "venue": "Tapatio Springs Resort",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Noah Kurtis",
-      "time": "6:30–10:30pm",
-      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-06-26",
-      "venue": "Cocky Rooster Bar",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "C-Rock @ Cocky Rooster",
-      "time": "8:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/c-rock-cocky-rooster-1748094?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-06-26",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Blackbird Sing",
-      "time": "8:00pm (Doors 7:00)",
-      "ticket": "https://wl.seetickets.us/event/blackbird-sing/694410",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-06-26",
-      "venue": "John T. Floore's Country Store",
-      "area": "Helotes",
-      "category": "Music",
-      "act": "Dylan Wheeler",
-      "time": "8:30pm (Doors 7:00)",
-      "ticket": "https://www.prekindle.com/event/63836-dylan-wheeler-helotes",
-      "source": "https://www.prekindle.com/events/john-t-floores-country-store",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-06-26",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Billie Jo Jones",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/billie-jo-jones/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-06-26",
-      "venue": "San Pedro Playhouse",
-      "area": "San Antonio – San Pedro",
-      "category": "Theater/Arts",
-      "act": "Evita (runs Jun 26–Jul 26)",
-      "time": "See showtimes",
-      "ticket": "https://ci.ovationtix.com/35749/production/1229046",
-      "source": "https://www.sanpedroplayhouse.org/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-06-27",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Allan Hendrickson",
-      "time": "11am",
-      "ticket": "https://gruenehall.com/event/allan-hendrickson-12/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-06-27",
       "venue": "Shopping with Siobhain",
@@ -148,42 +16,6 @@
       "ticket": "https://business.comfortchamber.com/calendar/Details/live-music-at-shopping-with-siobhain-1752992?sourceTypeId=Website",
       "source": "https://business.comfortchamber.com/calendar",
       "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-06-27",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Red Iron Push",
-      "time": "1pm",
-      "ticket": "https://gruenehall.com/event/red-iron-push-20/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-06-27",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Brad Blackburn Live at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/brad-blackburn-live-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-06-27",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Collie Miller Live at Singing Water Vineyards",
-      "time": "5pm",
-      "ticket": "https://theboernelife.com/events/collie-miller-live-at-singing-water-vineyards-2/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
       "group": "Comfort"
     },
     {
@@ -224,42 +56,6 @@
     },
     {
       "date": "2026-06-27",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Theater/Arts",
-      "act": "BUCKETS N BOARDS: COMEDY PERCUSSION SHOW",
-      "time": "7:30pm",
-      "ticket": "https://brauntex.org/event/buckets-n-boards-comedy-percussion-show/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-06-27",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "Agarita + Nilgun Derman of Niche Clothing Company",
-      "time": "7:30pm",
-      "ticket": "https://events.atpearl.com/event/agarita-nilgun-derman-of-niche-clothing-comany/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-06-27",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-06-27/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-06-27",
       "venue": "Cocky Rooster Bar",
       "area": "Comfort",
       "category": "Music",
@@ -281,30 +77,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-06-27",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Farmers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/farmers-market/2026-06-27/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-06-27",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Cooder Graw",
-      "time": "9pm",
-      "ticket": "https://gruenehall.com/event/cooder-graw-5/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-06-28",
@@ -400,6 +172,18 @@
       "ticket": "https://www.whitewaterrocks.com/event/bob-dylan",
       "source": "https://www.whitewaterrocks.com/upcoming-shows",
       "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-06-30",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Isaac Jacob",
+      "time": "1pm",
+      "ticket": "https://gruenehall.com/event/isaac-jacob-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
       "group": "Gruene / New Braunfels"
     },
     {
@@ -676,6 +460,18 @@
       "ticket": "https://www.prekindle.com/event/34527-dine-and-dance-free-all-ages-helotes",
       "source": "https://www.prekindle.com/events/john-t-floores-country-store",
       "price": "Free",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-07-05",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Makers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/makers-market-5-2-2/2026-07-05/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
       "group": "Hill Country / N. San Antonio"
     },
     {
