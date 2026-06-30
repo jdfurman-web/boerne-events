@@ -1,35 +1,11 @@
 {
-  "generated": "2026-06-29T14:49:56",
+  "generated": "2026-06-30T13:10:44",
   "window": {
-    "start": "2026-06-28",
-    "end": "2026-08-13"
+    "start": "2026-06-29",
+    "end": "2026-08-14"
   },
-  "count": 115,
+  "count": 114,
   "events": [
-    {
-      "date": "2026-06-29",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "JESKA Songswap with Special Guests",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/jeska-songswap-with-special-guests-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-06-29",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Bartly",
-      "time": "8:30pm",
-      "ticket": "https://gruenehall.com/event/bartly/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-06-30",
       "venue": "Whitewater Amphitheater",
@@ -1385,6 +1361,18 @@
       "source": "https://www.prekindle.com/events/john-t-floores-country-store",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-14",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-08-14/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
     }
   ]
 }
