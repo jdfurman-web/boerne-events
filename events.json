@@ -1,83 +1,11 @@
 {
-  "generated": "2026-07-01T13:35:32",
+  "generated": "2026-07-02T13:01:11",
   "window": {
-    "start": "2026-06-30",
-    "end": "2026-08-15"
+    "start": "2026-07-01",
+    "end": "2026-08-16"
   },
-  "count": 142,
+  "count": 139,
   "events": [
-    {
-      "date": "2026-06-30",
-      "venue": "Whitewater Amphitheater",
-      "area": "New Braunfels",
-      "category": "Music",
-      "act": "Bob Dylan w/ Lucinda Williams",
-      "time": "",
-      "ticket": "https://www.whitewaterrocks.com/event/bob-dylan",
-      "source": "https://www.whitewaterrocks.com/upcoming-shows",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-06-30",
-      "venue": "Boerne Main Plaza",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Abendkonzert – Boerne Village Band",
-      "time": "7:30–9:00pm",
-      "ticket": "https://www.ci.boerne.tx.us/m/newsflash/home/detail/720",
-      "source": "https://www.ci.boerne.tx.us/m/newsflash/home/detail/720",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-01",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Tony Taylor Acoustic",
-      "time": "12pm",
-      "ticket": "https://gruenehall.com/event/tony-taylor-acoustic/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-01",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Hannah Swann",
-      "time": "2:30pm",
-      "ticket": "https://gruenehall.com/event/hannah-swann/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-01",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "The Blokes",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/the-blokes-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-01",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Music",
-      "act": "San Antonio Jazz Society presents Will Holiday's Grand Ol' Americana Show",
-      "time": "7:30pm",
-      "ticket": "https://brauntex.org/event/san-antonio-jazz-society-presents-will-holidays-grand-ol-americana-show/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-07-01",
       "venue": "Free Roam Brewing Company",
@@ -89,18 +17,6 @@
       "source": "https://www.freeroambrewing.com/events",
       "price": "Free",
       "group": "Boerne"
-    },
-    {
-      "date": "2026-07-01",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Soul Ethos",
-      "time": "8:30pm",
-      "ticket": "https://gruenehall.com/event/soul-ethos/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-02",
@@ -788,6 +704,18 @@
     },
     {
       "date": "2026-07-11",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Heath Walker Band",
+      "time": "1pm",
+      "ticket": "https://gruenehall.com/event/heath-walker-band/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-07-11",
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
       "category": "Music",
@@ -883,6 +811,18 @@
       "group": "Hill Country / N. San Antonio"
     },
     {
+      "date": "2026-07-11",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Them Dirty Roses",
+      "time": "9pm",
+      "ticket": "https://gruenehall.com/event/them-dirty-roses-4/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
       "date": "2026-07-12",
       "venue": "Boerne Market Days (Main Plaza)",
       "area": "Boerne",
@@ -893,6 +833,30 @@
       "source": "https://business.boerne.org/events/calendar",
       "price": "Free",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-07-12",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Clayton Chapin",
+      "time": "11:30am",
+      "ticket": "https://gruenehall.com/event/clayton-chapin-9/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-07-12",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Bret Graham",
+      "time": "3pm",
+      "ticket": "https://gruenehall.com/event/bret-graham-141/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-12",
