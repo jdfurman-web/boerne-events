@@ -1,47 +1,11 @@
 {
-  "generated": "2026-07-02T13:01:11",
+  "generated": "2026-07-03T12:59:42",
   "window": {
-    "start": "2026-07-01",
-    "end": "2026-08-16"
+    "start": "2026-07-02",
+    "end": "2026-08-17"
   },
-  "count": 139,
+  "count": 138,
   "events": [
-    {
-      "date": "2026-07-01",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Flatbed Summer Concert Series – Clay Hollis",
-      "time": "7:30pm",
-      "ticket": "https://www.freeroambrewing.com/events/flatbed-summer-concert-series--clay-hollis",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-02",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Andi Holleman & Friends",
-      "time": "12pm",
-      "ticket": "https://gruenehall.com/event/andi-holleman-friends-4/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-02",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Music",
-      "act": "NEAL MCCOY",
-      "time": "7:30pm",
-      "ticket": "https://brauntex.org/event/neal-mccoy/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-07-02",
       "venue": "Sam's Burger Joint",
@@ -53,18 +17,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-02",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Silverada",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/silverada-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-03",
@@ -527,7 +479,7 @@
       "venue": "Gruene Hall",
       "area": "Gruene",
       "category": "Music",
-      "act": "Brodie Lane",
+      "act": "Love & Chaos",
       "time": "7pm",
       "ticket": "https://gruenehall.com/event/brodie-lane-2/",
       "source": "https://gruenehall.com/events/",
@@ -860,6 +812,18 @@
     },
     {
       "date": "2026-07-12",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Spencer Johnson",
+      "time": "6:30pm",
+      "ticket": "https://gruenehall.com/event/spencer-johnson-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-07-12",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -869,6 +833,30 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-07-12",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Makers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/makers-market-5-2-2/2026-07-12/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-07-13",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "JESKA Songswap with Special Guests",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/jeska-songswap-with-special-guests-4/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-15",
