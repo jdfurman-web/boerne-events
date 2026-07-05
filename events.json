@@ -1,107 +1,11 @@
 {
-  "generated": "2026-07-04T12:09:37",
+  "generated": "2026-07-05T12:20:23",
   "window": {
-    "start": "2026-07-03",
-    "end": "2026-08-18"
+    "start": "2026-07-04",
+    "end": "2026-08-19"
   },
-  "count": 174,
+  "count": 166,
   "events": [
-    {
-      "date": "2026-07-03",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Hank Billings",
-      "time": "6:00pm",
-      "ticket": "https://www.freeroambrewing.com/events/friday-live-music--hank-billings",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-03",
-      "venue": "Tapatio Springs Resort",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Austin Forrest (Live Music on the Patio, La Cascada)",
-      "time": "7:00pm",
-      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-03",
-      "venue": "Cave Without a Name",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Summer Classics – The Tinsel Singers",
-      "time": "7:30pm",
-      "ticket": "https://www.cavewithoutaname.com/",
-      "source": "https://www.cavewithoutaname.com/event-calendar",
-      "price": "Ticketed",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-03",
-      "venue": "Cocky Rooster Bar",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Krazy Kim's Karaoke @ Cocky Rooster",
-      "time": "8:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/krazy-kim-s-karaoke-cocky-rooster-1774030?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-03",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Jimmy Spacek and Bobby Mack",
-      "time": "8:00pm (Doors 7:00)",
-      "ticket": "https://wl.seetickets.us/event/jimmy-spacek-and-bobby-mack/691915?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-03",
-      "venue": "John T. Floore's Country Store",
-      "area": "Helotes",
-      "category": "Music",
-      "act": "Carson Jeffrey",
-      "time": "8:30pm (Doors 7:00)",
-      "ticket": "https://www.prekindle.com/event/67368-carson-jeffrey-helotes",
-      "source": "https://www.prekindle.com/events/john-t-floores-country-store",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-04",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "David Adam Byrnes",
-      "time": "10pm",
-      "ticket": "https://gruenehall.com/event/david-adam-byrnes/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-04",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Kayla Jane",
-      "time": "11am",
-      "ticket": "https://gruenehall.com/event/kayla-jane-12/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-07-04",
       "venue": "Free Roam Brewing Company",
@@ -113,30 +17,6 @@
       "source": "https://www.freeroambrewing.com/events",
       "price": "Free",
       "group": "Boerne"
-    },
-    {
-      "date": "2026-07-04",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Dusty Moats",
-      "time": "1pm",
-      "ticket": "https://gruenehall.com/event/dusty-moats-4/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-04",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Julian Escobedo Live at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/julian-escobedo-live-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
     },
     {
       "date": "2026-07-04",
@@ -161,18 +41,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-04",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Hunter Billingsley Live at Singing Water Vineyards",
-      "time": "5pm",
-      "ticket": "https://theboernelife.com/events/hunter-billingsley-live-at-singing-water-vineyards-2/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
     },
     {
       "date": "2026-07-04",
@@ -221,42 +89,6 @@
       "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "price": "Free",
       "group": "Boerne"
-    },
-    {
-      "date": "2026-07-04",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-07-04/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-04",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Drew Oliver",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/drew-oliver/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-04",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Farmers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/farmers-market/2026-07-04/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-07-05",
@@ -980,6 +812,18 @@
     },
     {
       "date": "2026-07-15",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "The Georges",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/the-georges-101/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-07-15",
       "venue": "Free Roam Brewing Company",
       "area": "Boerne",
       "category": "Music",
@@ -1013,6 +857,42 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-07-16",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Billy Bob Thornton & The Boxmasters: 2026 Morro Rock Tour",
+      "time": "8pm",
+      "ticket": "https://gruenehall.com/event/billy-bob-thornton-the-boxmasters-2026-morro-rock-tour/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-07-17",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Kayla Jane",
+      "time": "11am",
+      "ticket": "https://gruenehall.com/event/kayla-jane-13/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-07-17",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Friday Afternoon Club",
+      "time": "4pm",
+      "ticket": "https://gruenehall.com/event/friday-afternoon-club-13/2026-07-17/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-17",
@@ -1073,6 +953,18 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-07-17",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Gary P. Nunn",
+      "time": "8pm",
+      "ticket": "https://gruenehall.com/event/gary-p-nunn-8/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-17",
@@ -2093,6 +1985,18 @@
       "source": "https://www.prekindle.com/events/john-t-floores-country-store",
       "price": "Free",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-19",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Flatbed Summer Concert Series: Steven McClintock",
+      "time": "7:30pm",
+      "ticket": "https://www.freeroambrewing.com/events/flatbed-summer-concert-series--steven-mcclintock",
+      "source": "https://www.freeroambrewing.com/events",
+      "price": "Free",
+      "group": "Boerne"
     }
   ]
 }
