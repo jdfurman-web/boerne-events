@@ -1,107 +1,11 @@
 {
-  "generated": "2026-07-05T12:20:23",
+  "generated": "2026-07-06T14:30:15",
   "window": {
-    "start": "2026-07-04",
-    "end": "2026-08-19"
+    "start": "2026-07-05",
+    "end": "2026-08-20"
   },
-  "count": 166,
+  "count": 158,
   "events": [
-    {
-      "date": "2026-07-04",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Covenants Creek Acoustic",
-      "time": "1:00pm",
-      "ticket": "https://www.freeroambrewing.com/events/saturday-live-music--covenants-creek-acoustic",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-04",
-      "venue": "Shopping with Siobhain",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "4th of July Celebration at Shopping with Siobhain",
-      "time": "2:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/4th-of-july-celebration-at-shopping-with-siobhain-1840062?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-04",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Hayes Duffy (4th of July Matinee)",
-      "time": "3:00pm (Doors 2:00)",
-      "ticket": "https://wl.seetickets.us/event/hayes-duffy/693041?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-04",
-      "venue": "Cocky Rooster Bar",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Barnyard Bingo/Queen of Hearts @ Cocky Rooster",
-      "time": "6:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/barnyard-bingo-queen-of-hearts-cocky-rooster-1774040?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-04",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Erica Daniels",
-      "time": "6:00pm",
-      "ticket": "https://www.freeroambrewing.com/events/saturday-live-music---erica-daniels",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-04",
-      "venue": "Cocky Rooster Bar",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "July 4th Celebration! @ Cocky Rooster (live music, free taco & nacho bar)",
-      "time": "7:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/july-4th-celebration-cocky-rooster-1774034?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-04",
-      "venue": "Tapatio Springs Resort",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Juanski (Live Music on the Patio, La Cascada)",
-      "time": "7:00pm",
-      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-05",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Linda Gail Lewis",
-      "time": "11:30am",
-      "ticket": "https://gruenehall.com/event/linda-gail-lewis-17/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-07-05",
       "venue": "Bending Branch Winery",
@@ -113,30 +17,6 @@
       "source": "https://business.comfortchamber.com/calendar",
       "price": "Free",
       "group": "Comfort"
-    },
-    {
-      "date": "2026-07-05",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Brent Ryan Live at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/brent-ryan-live-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-05",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Adam Johnson Band",
-      "time": "3pm",
-      "ticket": "https://gruenehall.com/event/adam-johnson-band-12/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-05",
@@ -161,30 +41,6 @@
       "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "price": "Free",
       "group": "Boerne"
-    },
-    {
-      "date": "2026-07-05",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Tiffiny Dawn Band",
-      "time": "6:30pm",
-      "ticket": "https://gruenehall.com/event/tiffiny-dawn-band-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-05",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Makers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/makers-market-5-2-2/2026-07-05/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-07-06",
@@ -992,6 +848,18 @@
     },
     {
       "date": "2026-07-18",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Elysha LeMaster",
+      "time": "11am",
+      "ticket": "https://gruenehall.com/event/elysha-lemaster-5/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-07-18",
       "venue": "Shopping with Siobhain",
       "area": "Comfort",
       "category": "Music",
@@ -1001,6 +869,18 @@
       "source": "https://business.comfortchamber.com/calendar",
       "price": "Free",
       "group": "Comfort"
+    },
+    {
+      "date": "2026-07-18",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Red Iron Push",
+      "time": "1pm",
+      "ticket": "https://gruenehall.com/event/red-iron-push-21/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-18",
@@ -1097,6 +977,18 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-07-18",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Stoney LaRue",
+      "time": "9pm",
+      "ticket": "https://gruenehall.com/event/stoney-larue-12/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-18",
@@ -1997,6 +1889,18 @@
       "source": "https://www.freeroambrewing.com/events",
       "price": "Free",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-08-20",
+      "venue": "Sam's Burger Joint",
+      "area": "San Antonio – near Pearl",
+      "category": "Music",
+      "act": "The Joe Panther Band",
+      "time": "8:00pm (Doors 7:00)",
+      "ticket": "https://wl.seetickets.us/event/the-joe-panther-band/696721?afflky=SamsBurgerJointSanAntonio",
+      "source": "https://samsburgerjoint.com/calendar/",
+      "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
     }
   ]
 }
