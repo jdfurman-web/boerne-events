@@ -1,71 +1,11 @@
 {
-  "generated": "2026-07-06T14:30:15",
+  "generated": "2026-07-07T13:23:03",
   "window": {
-    "start": "2026-07-05",
-    "end": "2026-08-20"
+    "start": "2026-07-06",
+    "end": "2026-08-21"
   },
-  "count": 158,
+  "count": 160,
   "events": [
-    {
-      "date": "2026-07-05",
-      "venue": "Bending Branch Winery",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Cousins Maine Lobster at Bending Branch Winery",
-      "time": "12:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/cousins-maine-lobster-at-bending-branch-winery-1745505?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-05",
-      "venue": "John T. Floore's Country Store",
-      "area": "Helotes",
-      "category": "Music",
-      "act": "Dine and Dance (Free, All Ages)",
-      "time": "4:00pm (Doors 3:00)",
-      "ticket": "https://www.prekindle.com/event/34527-dine-and-dance-free-all-ages-helotes",
-      "source": "https://www.prekindle.com/events/john-t-floores-country-store",
-      "price": "Free",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-05",
-      "venue": "Tapatio Springs Resort",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Mark Berry (Live Music on the Patio, La Cascada)",
-      "time": "6:00pm",
-      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-06",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Jordan Minor",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/jordan-minor-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-06",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Slim Bawb",
-      "time": "8:30pm",
-      "ticket": "https://gruenehall.com/event/slim-bawb-8/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-07-07",
       "venue": "Gruene Hall",
@@ -1016,6 +956,18 @@
     },
     {
       "date": "2026-07-19",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Lindsay Beaver",
+      "time": "11:30am",
+      "ticket": "https://gruenehall.com/event/lindsay-beaver-13/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-07-19",
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
       "category": "Music",
@@ -1037,6 +989,18 @@
       "source": "https://business.comfortchamber.com/calendar",
       "price": "Free",
       "group": "Comfort"
+    },
+    {
+      "date": "2026-07-19",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Mike McLoud Dean",
+      "time": "3pm",
+      "ticket": "https://gruenehall.com/event/mike-mcloud-dean/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-19",
@@ -1901,6 +1865,66 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-21",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Josh Flores",
+      "time": "6:00pm",
+      "ticket": "https://www.freeroambrewing.com/events/friday-live-music---josh-flores",
+      "source": "https://www.freeroambrewing.com/events",
+      "price": "Free",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-08-21",
+      "venue": "Tapatio Springs Resort",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Anthony Wright (Live Music on the Patio, La Cascada)",
+      "time": "7:00pm",
+      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
+      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
+      "price": "Free",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-08-21",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-08-21/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-08-21",
+      "venue": "Sam's Burger Joint",
+      "area": "San Antonio – near Pearl",
+      "category": "Music",
+      "act": "John Baumann (w/ Hayes Duffy)",
+      "time": "8:30pm (Doors 7:30)",
+      "ticket": "https://wl.seetickets.us/event/john-baumann/696821?afflky=SamsBurgerJointSanAntonio",
+      "source": "https://samsburgerjoint.com/calendar/",
+      "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-21",
+      "venue": "Whitewater Amphitheater",
+      "area": "New Braunfels",
+      "category": "Music",
+      "act": "HARDY: The Country! Country! Tour w/ McCoy Moore, Jake Worthington",
+      "time": "TBA",
+      "ticket": "https://www.tixr.com/groups/whitewaterrocks/events/hardy-the-country-country-tour--160204",
+      "source": "https://www.whitewaterrocks.com/upcoming-shows",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
     }
   ]
 }
