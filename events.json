@@ -1,23 +1,11 @@
 {
-  "generated": "2026-07-07T13:23:03",
+  "generated": "2026-07-08T12:24:21",
   "window": {
-    "start": "2026-07-06",
-    "end": "2026-08-21"
+    "start": "2026-07-07",
+    "end": "2026-08-22"
   },
-  "count": 160,
+  "count": 166,
   "events": [
-    {
-      "date": "2026-07-07",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Two Ton Tuesday",
-      "time": "7pm",
-      "ticket": "https://gruenehall.com/event/two-ton-tuesday-5/2026-07-07/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-07-08",
       "venue": "8th Street Market",
@@ -1016,6 +1004,18 @@
     },
     {
       "date": "2026-07-19",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Bradley Thomas",
+      "time": "6:30pm",
+      "ticket": "https://gruenehall.com/event/bradley-thomas-9/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-07-19",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -1025,6 +1025,18 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-07-20",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Bret Graham",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/bret-graham-142/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-21",
@@ -1925,6 +1937,66 @@
       "source": "https://www.whitewaterrocks.com/upcoming-shows",
       "price": "Ticketed",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-08-22",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Colton's Kin",
+      "time": "6:00pm",
+      "ticket": "https://www.freeroambrewing.com/events/saturday-live-music---coltons-kin",
+      "source": "https://www.freeroambrewing.com/events",
+      "price": "Free",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-08-22",
+      "venue": "Tapatio Springs Resort",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Ruben Pacheco (Live Music on the Patio, La Cascada)",
+      "time": "7:00pm",
+      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
+      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
+      "price": "Free",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-08-22",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-08-22/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-08-22",
+      "venue": "Sam's Burger Joint",
+      "area": "San Antonio – near Pearl",
+      "category": "Music",
+      "act": "Rock The Nation - A Tribute to Montrose, Van Wilks (FREE SHOW)",
+      "time": "8:00pm (Doors 7:00)",
+      "ticket": "https://wl.seetickets.us/event/rock-the-nation-a-tribute-to-montrose-van-wilks/694697?afflky=SamsBurgerJointSanAntonio",
+      "source": "https://samsburgerjoint.com/calendar/",
+      "price": "Free",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-22",
+      "venue": "John T. Floore's Country Store",
+      "area": "Helotes",
+      "category": "Music",
+      "act": "Kat Hasty",
+      "time": "8:30pm (Doors 7:00)",
+      "ticket": "https://www.prekindle.com/event/87357-kat-hasty-helotes",
+      "source": "https://www.prekindle.com/events/john-t-floores-country-store",
+      "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
     }
   ]
 }
