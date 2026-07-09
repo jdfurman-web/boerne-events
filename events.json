@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-08T12:24:21",
+  "generated": "2026-07-09T13:51:49",
   "window": {
-    "start": "2026-07-07",
-    "end": "2026-08-22"
+    "start": "2026-07-08",
+    "end": "2026-08-23"
   },
-  "count": 166,
+  "count": 165,
   "events": [
     {
       "date": "2026-07-08",
@@ -17,30 +17,6 @@
       "source": "https://business.comfortchamber.com/calendar",
       "price": "Free",
       "group": "Comfort"
-    },
-    {
-      "date": "2026-07-08",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Theater/Arts",
-      "act": "SUMMER CINEMA: HIGH SCHOOL MUSICAL (2006)",
-      "time": "6:30pm",
-      "ticket": "https://brauntex.org/event/summer-cinema-high-school-musical-2006/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-08",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Marc Sauceda",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/marc-sauceda-10/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-08",
@@ -65,18 +41,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-08",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Neal Stranahan",
-      "time": "8:30pm",
-      "ticket": "https://gruenehall.com/event/neal-stranahan-4/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-09",
@@ -584,6 +548,18 @@
     },
     {
       "date": "2026-07-15",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Children's Entrepreneur Night Market",
+      "time": "5pm",
+      "ticket": "https://events.atpearl.com/event/childrens-entrepreneur-night-market-2/2026-07-15/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-07-15",
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
       "category": "Theater/Arts",
@@ -1034,6 +1010,18 @@
       "act": "Bret Graham",
       "time": "6pm",
       "ticket": "https://gruenehall.com/event/bret-graham-142/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-07-20",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Ruben V",
+      "time": "8:30pm",
+      "ticket": "https://gruenehall.com/event/ruben-v-3/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
