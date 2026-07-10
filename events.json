@@ -1,47 +1,11 @@
 {
-  "generated": "2026-07-09T13:51:49",
+  "generated": "2026-07-10T13:15:11",
   "window": {
-    "start": "2026-07-08",
-    "end": "2026-08-23"
+    "start": "2026-07-09",
+    "end": "2026-08-24"
   },
-  "count": 165,
+  "count": 162,
   "events": [
-    {
-      "date": "2026-07-08",
-      "venue": "8th Street Market",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Wine Down Wednesday at 8th Street Market",
-      "time": "5:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/wine-down-wednesday-at-8th-street-market-1770451?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-08",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Flatbed Summer Concert Series: Ralyn Gayle",
-      "time": "7:30pm",
-      "ticket": "https://www.freeroambrewing.com/events/flatbed-summer-concert-series--ralyn-gayle",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-08",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Tunnel Vision",
-      "time": "8:00pm (Doors 7:00)",
-      "ticket": "https://wl.seetickets.us/event/tunnel-vision/690467?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
     {
       "date": "2026-07-09",
       "venue": "Bending Branch Winery",
