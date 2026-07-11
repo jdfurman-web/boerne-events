@@ -1,95 +1,11 @@
 {
-  "generated": "2026-07-10T13:15:11",
+  "generated": "2026-07-11T11:55:46",
   "window": {
-    "start": "2026-07-09",
-    "end": "2026-08-24"
+    "start": "2026-07-10",
+    "end": "2026-08-25"
   },
-  "count": 162,
+  "count": 158,
   "events": [
-    {
-      "date": "2026-07-09",
-      "venue": "Bending Branch Winery",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Potluck Night at Bending Branch (Tex Mex theme)",
-      "time": "6:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/potluck-night-at-bending-branch-1774758?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-09",
-      "venue": "Shopping with Siobhain",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Steak Night Social at Shopping with Siobhain (live music)",
-      "time": "6:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/steak-night-social-at-shopping-with-siobhain-1695467?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-09",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "The Last Jimenez plus The Chris Cuevas Project",
-      "time": "7:30pm (Doors 7:00)",
-      "ticket": "https://wl.seetickets.us/event/the-last-jimenez-plus-the-chris-cuevas-project/693227?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-09",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Love & Chaos",
-      "time": "7pm",
-      "ticket": "https://gruenehall.com/event/brodie-lane-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-09",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Jessee Lee",
-      "time": "8:30pm",
-      "ticket": "https://gruenehall.com/event/jessee-lee/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-10",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Eric Heideman Band",
-      "time": "12pm",
-      "ticket": "https://gruenehall.com/event/eric-heideman-band-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-10",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Friday Afternoon Club",
-      "time": "4pm",
-      "ticket": "https://gruenehall.com/event/friday-afternoon-club-13/2026-07-10/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-07-10",
       "venue": "Free Roam Brewing Company",
@@ -116,30 +32,6 @@
     },
     {
       "date": "2026-07-10",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Music",
-      "act": "HINDLEY STREET COUNTRY CLUB",
-      "time": "7:30pm",
-      "ticket": "https://brauntex.org/event/hindley-street-country-club-2/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-10",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-07-10/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-10",
       "venue": "John T. Floore's Country Store",
       "area": "Helotes",
       "category": "Music",
@@ -161,18 +53,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-10",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Bleu Edmondson",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/bleu-edmondson/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-10",
@@ -1003,6 +883,18 @@
       "group": "Hill Country / N. San Antonio"
     },
     {
+      "date": "2026-07-21",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Two Ton Tuesday",
+      "time": "7pm",
+      "ticket": "https://gruenehall.com/event/two-ton-tuesday-5/2026-07-21/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
       "date": "2026-07-22",
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
@@ -1025,6 +917,18 @@
       "source": "https://www.freeroambrewing.com/events",
       "price": "Free",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-07-22",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Roger Creager's Birthday Show (Acoustic w/ Special Guest)",
+      "time": "8pm",
+      "ticket": "https://gruenehall.com/event/roger-creagers-birthday-show-acoustic-w-special-guest/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-23",
@@ -1061,6 +965,42 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-07-23",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Roger Creager's Birthday Show (Full Band)",
+      "time": "8pm",
+      "ticket": "https://gruenehall.com/event/roger-creagers-birthday-show-full-band-10/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-07-24",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Chuck Wimer",
+      "time": "1pm",
+      "ticket": "https://gruenehall.com/event/chuck-wimer-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-07-24",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Friday Afternoon Club",
+      "time": "4pm",
+      "ticket": "https://gruenehall.com/event/friday-afternoon-club-13/2026-07-24/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-24",
@@ -1121,6 +1061,18 @@
       "source": "https://www.prekindle.com/events/john-t-floores-country-store",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-07-24",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Roger Creager's Birthday Show (Full Band)",
+      "time": "8pm",
+      "ticket": "https://gruenehall.com/event/roger-creagers-birthday-show-full-band-11/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-25",
