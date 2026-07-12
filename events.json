@@ -1,71 +1,11 @@
 {
-  "generated": "2026-07-11T11:55:46",
+  "generated": "2026-07-12T12:03:04",
   "window": {
-    "start": "2026-07-10",
-    "end": "2026-08-25"
+    "start": "2026-07-11",
+    "end": "2026-08-26"
   },
-  "count": 158,
+  "count": 149,
   "events": [
-    {
-      "date": "2026-07-10",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Brad Blackburn",
-      "time": "6:00pm",
-      "ticket": "https://www.freeroambrewing.com/events/friday-live-music--brad-blackburn",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-10",
-      "venue": "Tapatio Springs Resort",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Lacy Brinson (Live Music on the Patio, La Cascada)",
-      "time": "7:00pm",
-      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-10",
-      "venue": "John T. Floore's Country Store",
-      "area": "Helotes",
-      "category": "Music",
-      "act": "Josh Weathers",
-      "time": "8:30pm (Doors 7:00)",
-      "ticket": "https://www.prekindle.com/event/66343-josh-weathers-helotes",
-      "source": "https://www.prekindle.com/events/john-t-floores-country-store",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-10",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Finding Friday",
-      "time": "8:30pm (Doors 7:30)",
-      "ticket": "https://wl.seetickets.us/event/finding-friday/692468?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-10",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Texas Brewery Roundup Conference & Trade Show at The Bevy Hotel",
-      "time": "All day",
-      "ticket": "https://theboernelife.com/events/texas-brewery-roundup-conference-trade-show-at-the-bevy-hotel/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
     {
       "date": "2026-07-11",
       "venue": "Boerne Market Days (Main Plaza)",
@@ -77,18 +17,6 @@
       "source": "https://business.boerne.org/events/calendar",
       "price": "Free",
       "group": "Boerne"
-    },
-    {
-      "date": "2026-07-11",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Andi Holleman",
-      "time": "11am",
-      "ticket": "https://gruenehall.com/event/andi-holleman-6/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-11",
@@ -104,30 +32,6 @@
     },
     {
       "date": "2026-07-11",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Heath Walker Band",
-      "time": "1pm",
-      "ticket": "https://gruenehall.com/event/heath-walker-band/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-11",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Andy Garcia Live at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/andy-garcia-live-at-singing-water-vineyards-2/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-11",
       "venue": "Bending Branch Winery",
       "area": "Comfort",
       "category": "Festival/Market",
@@ -136,18 +40,6 @@
       "ticket": "https://business.comfortchamber.com/calendar/Details/tallent-vineyards-portfolio-tasting-1773653?sourceTypeId=Website",
       "source": "https://business.comfortchamber.com/calendar",
       "price": "Ticketed",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-11",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Sam and Lilly Platts Live at Singing Water Vineyards",
-      "time": "5pm",
-      "ticket": "https://theboernelife.com/events/sam-and-lilly-platts-live-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
       "group": "Comfort"
     },
     {
@@ -188,18 +80,6 @@
     },
     {
       "date": "2026-07-11",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-07-11/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-11",
       "venue": "13 Trees Coffee Haus & Roastery",
       "area": "New Braunfels",
       "category": "Festival/Market",
@@ -233,30 +113,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-11",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Farmers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/farmers-market/2026-07-11/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-11",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Them Dirty Roses",
-      "time": "9pm",
-      "ticket": "https://gruenehall.com/event/them-dirty-roses-4/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-11",
@@ -1076,6 +932,18 @@
     },
     {
       "date": "2026-07-25",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Paige Price",
+      "time": "11am",
+      "ticket": "https://gruenehall.com/event/paige-price-3/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-07-25",
       "venue": "Shopping with Siobhain",
       "area": "Comfort",
       "category": "Music",
@@ -1097,6 +965,18 @@
       "source": "https://business.comfortchamber.com/calendar",
       "price": "Ticketed",
       "group": "Comfort"
+    },
+    {
+      "date": "2026-07-25",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Lee Mathis & The Brutally Handsome",
+      "time": "1pm",
+      "ticket": "https://gruenehall.com/event/lee-mathis-the-brutally-handsome-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-25",
@@ -1181,6 +1061,18 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-07-25",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Roger Creager's Birthday Show (Full Band)",
+      "time": "9pm",
+      "ticket": "https://gruenehall.com/event/roger-creagers-birthday-show-full-band-12/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-25",
