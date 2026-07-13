@@ -1,131 +1,11 @@
 {
-  "generated": "2026-07-12T12:03:04",
+  "generated": "2026-07-13T13:27:29",
   "window": {
-    "start": "2026-07-11",
-    "end": "2026-08-26"
+    "start": "2026-07-12",
+    "end": "2026-08-27"
   },
-  "count": 149,
+  "count": 140,
   "events": [
-    {
-      "date": "2026-07-11",
-      "venue": "Boerne Market Days (Main Plaza)",
-      "area": "Boerne",
-      "category": "Festival/Market",
-      "act": "2nd-weekend artisan market w/ live Texas musicians (Day 1)",
-      "time": "10:00am–5:00pm",
-      "ticket": "https://eventsoffmain.com/market-days/",
-      "source": "https://business.boerne.org/events/calendar",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-11",
-      "venue": "Shopping with Siobhain",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Live Music Saturday - Lisa Crawford",
-      "time": "12:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/live-music-saturday-at-shopping-with-siobhain-1834862?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-11",
-      "venue": "Bending Branch Winery",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Tallent Vineyards Portfolio Tasting",
-      "time": "2:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/tallent-vineyards-portfolio-tasting-1773653?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Ticketed",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-11",
-      "venue": "Cocky Rooster Bar",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Barnyard Bingo/Queen of Hearts @Cocky Rooster",
-      "time": "6:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/barnyard-bingo-queen-of-hearts-cocky-rooster-1842032?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-11",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Britt Ballenger",
-      "time": "6:00pm",
-      "ticket": "https://www.freeroambrewing.com/events/saturday-live-music---britt-ballenger",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-11",
-      "venue": "Tapatio Springs Resort",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Faith Jacobs (Live Music on the Patio, La Cascada)",
-      "time": "7:00pm",
-      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-11",
-      "venue": "13 Trees Coffee Haus & Roastery",
-      "area": "New Braunfels",
-      "category": "Festival/Market",
-      "act": "2nd Annual New Braunfels Coffee Festival",
-      "time": "8:00am–1:00pm",
-      "ticket": "https://www.visitnbtx.com/events/2nd-annual-new-braunfels-coffee-festival",
-      "source": "https://www.visitnbtx.com/events",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-11",
-      "venue": "Cocky Rooster Bar",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Frio Trio @Cocky Rooster",
-      "time": "8:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/frio-trio-cocky-rooster-1842027?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-11",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Passing Strangers \"The High School Reunion Show\"",
-      "time": "8:00pm (Doors 7:00)",
-      "ticket": "https://wl.seetickets.us/event/passing-strangers-the-high-school-reunion-show/691314?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-11",
-      "venue": "Whitewater Amphitheater",
-      "area": "New Braunfels",
-      "category": "Music",
-      "act": "Randy Rogers Band w/ Pat Green, Slade Coulter",
-      "time": "TBA",
-      "ticket": "https://www.tixr.com/groups/whitewaterrocks/events/randy-rogers-band-172752",
-      "source": "https://www.whitewaterrocks.com/upcoming-shows",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-07-12",
       "venue": "Boerne Market Days (Main Plaza)",
@@ -140,30 +20,6 @@
     },
     {
       "date": "2026-07-12",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Clayton Chapin",
-      "time": "11:30am",
-      "ticket": "https://gruenehall.com/event/clayton-chapin-9/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-12",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Bret Graham",
-      "time": "3pm",
-      "ticket": "https://gruenehall.com/event/bret-graham-141/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-12",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -172,30 +28,6 @@
       "ticket": "https://wl.seetickets.us/event/shark-boy-summer-live-with-eric-schwartz-and-georgie-leahy/692089?afflky=SamsBurgerJointSanAntonio",
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-12",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Spencer Johnson",
-      "time": "6:30pm",
-      "ticket": "https://gruenehall.com/event/spencer-johnson-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-12",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Makers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/makers-market-5-2-2/2026-07-12/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
       "group": "Hill Country / N. San Antonio"
     },
     {
@@ -584,6 +416,18 @@
     },
     {
       "date": "2026-07-18",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Farmers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/farmers-market/2026-07-18/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-07-18",
       "venue": "Gruene Hall",
       "area": "Gruene",
       "category": "Music",
@@ -700,6 +544,18 @@
       "ticket": "https://wl.seetickets.us/event/the-iguanas/687878?afflky=SamsBurgerJointSanAntonio",
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-07-19",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Makers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/makers-market-5-2-2/2026-07-19/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
       "group": "Hill Country / N. San Antonio"
     },
     {
@@ -1088,6 +944,18 @@
     },
     {
       "date": "2026-07-26",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Allan Hendrickson",
+      "time": "11:30am",
+      "ticket": "https://gruenehall.com/event/allan-hendrickson-13/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-07-26",
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
       "category": "Music",
@@ -1097,6 +965,30 @@
       "source": "https://theboernelife.com/venue/singing-water-vineyards/",
       "price": "",
       "group": "Comfort"
+    },
+    {
+      "date": "2026-07-26",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Michael Monroe Goodman",
+      "time": "3pm",
+      "ticket": "https://gruenehall.com/event/michael-monroe-goodman-22/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-07-26",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Shay Domann",
+      "time": "6:30pm",
+      "ticket": "https://gruenehall.com/event/shay-domann-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-26",
