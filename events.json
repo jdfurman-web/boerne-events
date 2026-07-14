@@ -1,59 +1,11 @@
 {
-  "generated": "2026-07-13T13:27:29",
+  "generated": "2026-07-14T12:17:53",
   "window": {
-    "start": "2026-07-12",
-    "end": "2026-08-27"
+    "start": "2026-07-13",
+    "end": "2026-08-28"
   },
-  "count": 140,
+  "count": 137,
   "events": [
-    {
-      "date": "2026-07-12",
-      "venue": "Boerne Market Days (Main Plaza)",
-      "area": "Boerne",
-      "category": "Festival/Market",
-      "act": "2nd-weekend artisan market w/ live Texas musicians (Day 2)",
-      "time": "10:00am–4:00pm",
-      "ticket": "https://eventsoffmain.com/market-days/",
-      "source": "https://business.boerne.org/events/calendar",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-12",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Shark Boy Summer Live with Eric Schwartz & Georgie Leahy",
-      "time": "6:00pm (Doors 6:00)",
-      "ticket": "https://wl.seetickets.us/event/shark-boy-summer-live-with-eric-schwartz-and-georgie-leahy/692089?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-13",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "JESKA Songswap with Special Guests",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/jeska-songswap-with-special-guests-4/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-13",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Owen Stroud",
-      "time": "8:30pm",
-      "ticket": "https://gruenehall.com/event/owen-stroud-4/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-07-14",
       "venue": "Sam's Burger Joint",
@@ -416,18 +368,6 @@
     },
     {
       "date": "2026-07-18",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Farmers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/farmers-market/2026-07-18/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-18",
       "venue": "Gruene Hall",
       "area": "Gruene",
       "category": "Music",
@@ -544,18 +484,6 @@
       "ticket": "https://wl.seetickets.us/event/the-iguanas/687878?afflky=SamsBurgerJointSanAntonio",
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-19",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Makers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/makers-market-5-2-2/2026-07-19/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
       "group": "Hill Country / N. San Antonio"
     },
     {
@@ -1001,6 +929,30 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-07-27",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "JESKA Songswap with Special Guests",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/jeska-songswap-with-special-guests-5/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-07-27",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Tony Taylor & Friends",
+      "time": "8:30pm",
+      "ticket": "https://gruenehall.com/event/tony-taylor-friends-30/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-28",
@@ -1685,6 +1637,18 @@
       "source": "https://www.prekindle.com/events/john-t-floores-country-store",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-28",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-08-28/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
     }
   ]
 }
