@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-14T12:17:53",
+  "generated": "2026-07-15T12:19:42",
   "window": {
-    "start": "2026-07-13",
-    "end": "2026-08-28"
+    "start": "2026-07-14",
+    "end": "2026-08-29"
   },
-  "count": 137,
+  "count": 140,
   "events": [
     {
       "date": "2026-07-14",
@@ -17,18 +17,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-14",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Two Ton Tuesday",
-      "time": "7pm",
-      "ticket": "https://gruenehall.com/event/two-ton-tuesday-5/2026-07-14/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-15",
@@ -368,6 +356,18 @@
     },
     {
       "date": "2026-07-18",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Farmers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/farmers-market/2026-07-18/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-07-18",
       "venue": "Gruene Hall",
       "area": "Gruene",
       "category": "Music",
@@ -484,6 +484,18 @@
       "ticket": "https://wl.seetickets.us/event/the-iguanas/687878?afflky=SamsBurgerJointSanAntonio",
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-07-19",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Makers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/makers-market-5-2-2/2026-07-19/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
       "group": "Hill Country / N. San Antonio"
     },
     {
@@ -977,6 +989,18 @@
       "source": "https://www.ci.boerne.tx.us/m/newsflash/home/detail/720",
       "price": "Free",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-07-28",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Two Ton Tuesday",
+      "time": "7pm",
+      "ticket": "https://gruenehall.com/event/two-ton-tuesday-5/2026-07-28/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-29",
@@ -1646,6 +1670,18 @@
       "act": "Live Music at The Bevy Hotel",
       "time": "7pm",
       "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-08-28/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-08-29",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-08-29/",
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
