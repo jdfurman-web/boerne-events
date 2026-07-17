@@ -1,35 +1,11 @@
 {
-  "generated": "2026-07-16T12:23:41",
+  "generated": "2026-07-17T12:13:24",
   "window": {
-    "start": "2026-07-15",
-    "end": "2026-08-30"
+    "start": "2026-07-16",
+    "end": "2026-08-31"
   },
-  "count": 138,
+  "count": 135,
   "events": [
-    {
-      "date": "2026-07-15",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Children's Entrepreneur Night Market",
-      "time": "5pm",
-      "ticket": "https://events.atpearl.com/event/childrens-entrepreneur-night-market-2-2/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-15",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Flatbed Summer Concert Series: Matt Kirk Trio",
-      "time": "7:30pm",
-      "ticket": "https://www.freeroambrewing.com/events/flatbed-summer-concert-series--matt-kirk-trio",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
     {
       "date": "2026-07-16",
       "venue": "Bending Branch Winery",
@@ -53,18 +29,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-16",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Billy Bob Thornton & The Boxmasters: 2026 Morro Rock Tour",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/billy-bob-thornton-the-boxmasters-2026-morro-rock-tour/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-17",
