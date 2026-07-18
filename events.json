@@ -1,59 +1,11 @@
 {
-  "generated": "2026-07-17T12:13:24",
+  "generated": "2026-07-18T11:56:10",
   "window": {
-    "start": "2026-07-16",
-    "end": "2026-08-31"
+    "start": "2026-07-17",
+    "end": "2026-09-01"
   },
-  "count": 135,
+  "count": 132,
   "events": [
-    {
-      "date": "2026-07-16",
-      "venue": "Bending Branch Winery",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Potluck Night at Bending Branch (Pan Asian theme)",
-      "time": "6:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/potluck-night-at-bending-branch-1774763?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-16",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Gavin Story",
-      "time": "8:00pm (Doors 7:00)",
-      "ticket": "https://wl.seetickets.us/event/gavin-story/694319?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-17",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Kayla Jane",
-      "time": "11am",
-      "ticket": "https://gruenehall.com/event/kayla-jane-13/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-17",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Friday Afternoon Club",
-      "time": "4pm",
-      "ticket": "https://gruenehall.com/event/friday-afternoon-club-13/2026-07-17/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-07-17",
       "venue": "Free Roam Brewing Company",
@@ -80,18 +32,6 @@
     },
     {
       "date": "2026-07-17",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-07-17/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-17",
       "venue": "John T. Floore's Country Store",
       "area": "Helotes",
       "category": "Music",
@@ -113,18 +53,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-17",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Gary P. Nunn",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/gary-p-nunn-8/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-17",
@@ -977,6 +905,42 @@
       "source": "https://business.comfortchamber.com/calendar",
       "price": "Free",
       "group": "Comfort"
+    },
+    {
+      "date": "2026-07-30",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Kyle Gates",
+      "time": "7pm",
+      "ticket": "https://gruenehall.com/event/kyle-gates/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-07-30",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Luke Prater",
+      "time": "8:30pm",
+      "ticket": "https://gruenehall.com/event/luke-prater/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-07-31",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Jesse Stratton Band",
+      "time": "12pm",
+      "ticket": "https://gruenehall.com/event/jesse-stratton-band-6/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-31",
