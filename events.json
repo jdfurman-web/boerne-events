@@ -1,95 +1,11 @@
 {
-  "generated": "2026-07-19T12:01:44",
+  "generated": "2026-07-20T13:10:06",
   "window": {
-    "start": "2026-07-18",
-    "end": "2026-09-02"
+    "start": "2026-07-19",
+    "end": "2026-09-03"
   },
-  "count": 122,
+  "count": 111,
   "events": [
-    {
-      "date": "2026-07-18",
-      "venue": "Old Gruene Market Days",
-      "area": "Gruene",
-      "category": "Festival/Market",
-      "act": "Artisan market (Day 1)",
-      "time": "10:00am–5:00pm",
-      "ticket": "https://www.gruenetexas.com/market-days/",
-      "source": "https://www.gruenetexas.com/market-days/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-18",
-      "venue": "Shopping with Siobhain",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Live Music Saturday - Bill Mahko",
-      "time": "12:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/live-music-saturday-at-shopping-with-siobhain-1834867?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-18",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Maplewood Brothers",
-      "time": "6:00pm",
-      "ticket": "https://www.freeroambrewing.com/events/saturday-live-music--maplewood-brothers",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-18",
-      "venue": "Tapatio Springs Resort",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Ruben Pacheco (Live Music on the Patio, La Cascada)",
-      "time": "7:00pm",
-      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-18",
-      "venue": "John T. Floore's Country Store",
-      "area": "Helotes",
-      "category": "Music",
-      "act": "Cole Barnhill",
-      "time": "8:30pm (Doors 7:00)",
-      "ticket": "https://www.prekindle.com/event/98949-cole-barnhill-helotes",
-      "source": "https://www.prekindle.com/events/john-t-floores-country-store",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-18",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Rock and Roll Over (Tribute to KISS)",
-      "time": "8:30pm (Doors 7:30)",
-      "ticket": "https://wl.seetickets.us/event/rock-and-roll-over-tribute-to-kiss/691558?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-18",
-      "venue": "Whitewater Amphitheater",
-      "area": "New Braunfels",
-      "category": "Music",
-      "act": "Dwight Yoakam",
-      "time": "TBA",
-      "ticket": "https://www.tixr.com/groups/whitewaterrocks/events/dwight-yoakam-186162",
-      "source": "https://www.whitewaterrocks.com/upcoming-shows",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-07-19",
       "venue": "Old Gruene Market Days",
@@ -101,30 +17,6 @@
       "source": "https://www.gruenetexas.com/market-days/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-19",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Lindsay Beaver",
-      "time": "11:30am",
-      "ticket": "https://gruenehall.com/event/lindsay-beaver-13/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-19",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Matt Kersh Live at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/matt-kersh-live-at-singing-water-vineyards-2/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
     },
     {
       "date": "2026-07-19",
@@ -140,18 +32,6 @@
     },
     {
       "date": "2026-07-19",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Mike McLoud Dean",
-      "time": "3pm",
-      "ticket": "https://gruenehall.com/event/mike-mcloud-dean/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-19",
       "venue": "John T. Floore's Country Store",
       "area": "Helotes",
       "category": "Music",
@@ -164,18 +44,6 @@
     },
     {
       "date": "2026-07-19",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Bradley Thomas",
-      "time": "6:30pm",
-      "ticket": "https://gruenehall.com/event/bradley-thomas-9/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-19",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -184,18 +52,6 @@
       "ticket": "https://wl.seetickets.us/event/the-iguanas/687878?afflky=SamsBurgerJointSanAntonio",
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-19",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Makers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/makers-market-5-2-2/2026-07-19/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
       "group": "Hill Country / N. San Antonio"
     },
     {
@@ -568,6 +424,18 @@
       "ticket": "https://wl.seetickets.us/event/bloody-cape-deftones-tribute/690565?afflky=SamsBurgerJointSanAntonio",
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-07-25",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Farmers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/farmers-market/2026-07-25/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
       "group": "Hill Country / N. San Antonio"
     },
     {
