@@ -1,47 +1,11 @@
 {
-  "generated": "2026-07-22T12:27:52",
+  "generated": "2026-07-23T12:26:21",
   "window": {
-    "start": "2026-07-21",
-    "end": "2026-09-05"
+    "start": "2026-07-22",
+    "end": "2026-09-06"
   },
-  "count": 114,
+  "count": 111,
   "events": [
-    {
-      "date": "2026-07-21",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "School of Rock All-Stars",
-      "time": "6:30pm (Doors 6:00)",
-      "ticket": "https://wl.seetickets.us/event/school-of-rock-allstars/690853?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-22",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Children's Entrepreneur Night Market",
-      "time": "5pm",
-      "ticket": "https://events.atpearl.com/event/childrens-entrepreneur-night-market-3/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-22",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Theater/Arts",
-      "act": "SUMMER CINEMA: HAIRSPRAY (2007)",
-      "time": "6:30pm",
-      "ticket": "https://brauntex.org/event/summer-cinema-hairspray-2007/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-07-22",
       "venue": "Free Roam Brewing Company",
@@ -53,18 +17,6 @@
       "source": "https://www.freeroambrewing.com/events",
       "price": "Free",
       "group": "Boerne"
-    },
-    {
-      "date": "2026-07-22",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Roger Creager's Birthday Show (Acoustic w/ Special Guest)",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/roger-creagers-birthday-show-acoustic-w-special-guest/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-23",
@@ -1373,6 +1325,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-09-06",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Chris Lopez at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/chris-lopez-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
     }
   ]
 }
