@@ -1,23 +1,11 @@
 {
-  "generated": "2026-07-23T12:26:21",
+  "generated": "2026-07-24T12:22:50",
   "window": {
-    "start": "2026-07-22",
-    "end": "2026-09-06"
+    "start": "2026-07-23",
+    "end": "2026-09-07"
   },
-  "count": 111,
+  "count": 109,
   "events": [
-    {
-      "date": "2026-07-22",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Flatbed Summer Concert Series: David Adam Byrnes",
-      "time": "7:30pm",
-      "ticket": "https://www.freeroambrewing.com/events/flatbed-summer-concert-series--david-adam-byrnes",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
     {
       "date": "2026-07-23",
       "venue": "Bending Branch Winery",
@@ -53,18 +41,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-23",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Roger Creager's Birthday Show (Full Band)",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/roger-creagers-birthday-show-full-band-10/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-24",
