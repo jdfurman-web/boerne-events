@@ -1,71 +1,11 @@
 {
-  "generated": "2026-07-24T12:22:50",
+  "generated": "2026-07-25T12:05:01",
   "window": {
-    "start": "2026-07-23",
-    "end": "2026-09-07"
+    "start": "2026-07-24",
+    "end": "2026-09-08"
   },
-  "count": 109,
+  "count": 103,
   "events": [
-    {
-      "date": "2026-07-23",
-      "venue": "Bending Branch Winery",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Potluck Night at Bending Branch (Returning Favorites theme)",
-      "time": "6:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/potluck-night-at-bending-branch-1774776?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-23",
-      "venue": "Shopping with Siobhain",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Steak Night Social at Shopping with Siobhain (live music)",
-      "time": "6:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/steak-night-social-at-shopping-with-siobhain-1695468?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-23",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Pat Travers Band (w/ Eye of the Storm, Rock The Nation - A Tribute to Montrose)",
-      "time": "7:30pm (Doors 7:00)",
-      "ticket": "https://wl.seetickets.us/event/pat-travers-band/685276?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-24",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Chuck Wimer",
-      "time": "1pm",
-      "ticket": "https://gruenehall.com/event/chuck-wimer-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-24",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Friday Afternoon Club at Cantina del Rio",
-      "time": "4pm",
-      "ticket": "https://gruenehall.com/event/friday-afternoon-club-15/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-07-24",
       "venue": "Free Roam Brewing Company",
@@ -92,18 +32,6 @@
     },
     {
       "date": "2026-07-24",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-07-24/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-24",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -125,18 +53,6 @@
       "source": "https://www.prekindle.com/events/john-t-floores-country-store",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-24",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Roger Creager's Birthday Show (Full Band)",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/roger-creagers-birthday-show-full-band-11/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-25",
@@ -521,6 +437,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-07-30",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "Colony House at Stable Hall",
+      "time": "8pm",
+      "ticket": "https://events.atpearl.com/event/colony-house-at-stable-hall/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-07-31",
