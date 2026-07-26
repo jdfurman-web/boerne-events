@@ -1,71 +1,11 @@
 {
-  "generated": "2026-07-25T12:05:01",
+  "generated": "2026-07-26T12:07:23",
   "window": {
-    "start": "2026-07-24",
-    "end": "2026-09-08"
+    "start": "2026-07-25",
+    "end": "2026-09-09"
   },
-  "count": 103,
+  "count": 122,
   "events": [
-    {
-      "date": "2026-07-24",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Matt Parker",
-      "time": "6:00pm",
-      "ticket": "https://www.freeroambrewing.com/events/friday-live-music--matt-parker",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-24",
-      "venue": "Tapatio Springs Resort",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Wally Robles (Live Music on the Patio, La Cascada)",
-      "time": "7:00pm",
-      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-24",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "ondaStereo - Soda Stereo Tribute",
-      "time": "8:00pm (Doors 7:00)",
-      "ticket": "https://wl.seetickets.us/event/ondastereo-soda-stereo-tribute/691754?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-24",
-      "venue": "John T. Floore's Country Store",
-      "area": "Helotes",
-      "category": "Music",
-      "act": "Isaac Jacob Band",
-      "time": "8:30pm (Doors 7:00)",
-      "ticket": "https://www.prekindle.com/event/63759-isaac-jacob-band-helotes",
-      "source": "https://www.prekindle.com/events/john-t-floores-country-store",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-25",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Paige Price",
-      "time": "11am",
-      "ticket": "https://gruenehall.com/event/paige-price-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-07-25",
       "venue": "Shopping with Siobhain",
@@ -92,26 +32,14 @@
     },
     {
       "date": "2026-07-25",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Lee Mathis & The Brutally Handsome",
-      "time": "1pm",
-      "ticket": "https://gruenehall.com/event/lee-mathis-the-brutally-handsome-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-25",
-      "venue": "Singing Water Vineyards",
+      "venue": "Cocky Rooster Bar",
       "area": "Comfort",
-      "category": "Music",
-      "act": "John Prather at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/john-prather-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
+      "category": "Festival/Market",
+      "act": "Barnyard Bingo/Queen of Hearts @ Cocky Rooster",
+      "time": "6:00pm",
+      "ticket": "https://business.comfortchamber.com/calendar/Details/barnyard-bingo-queen-of-hearts-cocky-rooster-1857297?sourceTypeId=Website",
+      "source": "https://business.comfortchamber.com/calendar",
+      "price": "Free",
       "group": "Comfort"
     },
     {
@@ -128,22 +56,10 @@
     },
     {
       "date": "2026-07-25",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "The Texas Eagles – Tribute Band at Singing Water Vineyards",
-      "time": "6:30pm",
-      "ticket": "https://theboernelife.com/events/the-texas-eagles-tribute-band-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-25",
       "venue": "Tapatio Springs Resort",
       "area": "Boerne",
       "category": "Music",
-      "act": "Anthony Wright (Live Music on the Patio, La Cascada)",
+      "act": "Anthony Wright (La Cascada patio)",
       "time": "7:00pm",
       "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
@@ -164,27 +80,15 @@
     },
     {
       "date": "2026-07-25",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
+      "venue": "Cocky Rooster Bar",
+      "area": "Comfort",
       "category": "Music",
-      "act": "MIDALES ENTERTAINMENT PRESENTS ALREADY GONE: A TRIBUTE TO THE EAGLES",
-      "time": "7:30pm",
-      "ticket": "https://brauntex.org/event/midales-entertainment-presents-already-gone-a-tribute-to-the-eagles/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-25",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-07-25/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
+      "act": "Russell Green @ Cocky Rooster",
+      "time": "8:00pm",
+      "ticket": "https://business.comfortchamber.com/calendar/Details/russell-green-cocky-rooster-1857291?sourceTypeId=Website",
+      "source": "https://business.comfortchamber.com/calendar",
+      "price": "Free",
+      "group": "Comfort"
     },
     {
       "date": "2026-07-25",
@@ -197,30 +101,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-25",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Farmers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/farmers-market/2026-07-25/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-25",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Roger Creager's Birthday Show (Full Band)",
-      "time": "9pm",
-      "ticket": "https://gruenehall.com/event/roger-creagers-birthday-show-full-band-12/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-25",
@@ -395,7 +275,7 @@
       "venue": "Free Roam Brewing Company",
       "area": "Boerne",
       "category": "Music",
-      "act": "Flatbed Summer Concert Series: Scotty Alexander",
+      "act": "Flatbed Summer Concert Series - Scotty Alexander",
       "time": "7:30pm",
       "ticket": "https://www.freeroambrewing.com/events/flatbed-summer-concert-series--scotty-alexander",
       "source": "https://www.freeroambrewing.com/events",
@@ -476,6 +356,18 @@
     },
     {
       "date": "2026-07-31",
+      "venue": "Bending Branch Winery",
+      "area": "Comfort",
+      "category": "Festival/Market",
+      "act": "Bourbon & Gelato Social at Bending Branch",
+      "time": "5:00pm",
+      "ticket": "https://business.comfortchamber.com/calendar/Details/bourbon-gelato-social-at-bending-branch-1857343?sourceTypeId=Website",
+      "source": "https://business.comfortchamber.com/calendar",
+      "price": "Free",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-07-31",
       "venue": "Free Roam Brewing Company",
       "area": "Boerne",
       "category": "Music",
@@ -491,7 +383,7 @@
       "venue": "Tapatio Springs Resort",
       "area": "Boerne",
       "category": "Music",
-      "act": "Sierra Lynn (Live Music on the Patio, La Cascada)",
+      "act": "Sierra Lynn (La Cascada patio)",
       "time": "7:00pm",
       "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
@@ -509,6 +401,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-07-31",
+      "venue": "Cocky Rooster Bar",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Krazy Kim's Karaoke @ Cocky Rooster",
+      "time": "8:00pm",
+      "ticket": "https://business.comfortchamber.com/calendar/Details/krazy-kim-s-karaoke-cocky-rooster-1869502?sourceTypeId=Website",
+      "source": "https://business.comfortchamber.com/calendar",
+      "price": "Free",
+      "group": "Comfort"
     },
     {
       "date": "2026-07-31",
@@ -536,6 +440,18 @@
     },
     {
       "date": "2026-08-01",
+      "venue": "Shopping with Siobhain",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Live Music Saturday - Lisa Crawford",
+      "time": "12:00pm",
+      "ticket": "https://business.comfortchamber.com/calendar/Details/saturday-live-music-at-shopping-with-siobhain-1845030?sourceTypeId=Website",
+      "source": "https://business.comfortchamber.com/calendar",
+      "price": "Free",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-08-01",
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
       "category": "Music",
@@ -544,6 +460,18 @@
       "ticket": "https://theboernelife.com/events/nava-at-singing-water-vineyards-2/",
       "source": "https://theboernelife.com/venue/singing-water-vineyards/",
       "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-08-01",
+      "venue": "Cocky Rooster Bar",
+      "area": "Comfort",
+      "category": "Festival/Market",
+      "act": "Barnyard Bingo/Queen of Hearts @ Cocky Rooster",
+      "time": "6:00pm",
+      "ticket": "https://business.comfortchamber.com/calendar/Details/barnyard-bingo-queen-of-hearts-cocky-rooster-1869505?sourceTypeId=Website",
+      "source": "https://business.comfortchamber.com/calendar",
+      "price": "Free",
       "group": "Comfort"
     },
     {
@@ -563,7 +491,7 @@
       "venue": "Tapatio Springs Resort",
       "area": "Boerne",
       "category": "Music",
-      "act": "Joe Talbert (Live Music on the Patio, La Cascada)",
+      "act": "Joe Talbert (La Cascada patio)",
       "time": "7:00pm",
       "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
@@ -607,6 +535,18 @@
       "group": "Hill Country / N. San Antonio"
     },
     {
+      "date": "2026-08-01",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Farmers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/farmers-market/2026-08-01/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
       "date": "2026-08-02",
       "venue": "John T. Floore's Country Store",
       "area": "Helotes",
@@ -635,7 +575,7 @@
       "venue": "Free Roam Brewing Company",
       "area": "Boerne",
       "category": "Music",
-      "act": "Flatbed Summer Concert Series: Daniel Johnson",
+      "act": "Flatbed Summer Concert Series - Daniel Johnson",
       "time": "7:30pm",
       "ticket": "https://www.freeroambrewing.com/events/flatbed-summer-concert-series--daniel-johnson",
       "source": "https://www.freeroambrewing.com/events",
@@ -656,6 +596,18 @@
     },
     {
       "date": "2026-08-07",
+      "venue": "Bending Branch Winery",
+      "area": "Comfort",
+      "category": "Festival/Market",
+      "act": "Art Uncorked: Michael Snodgrass Exhibition Opening at Bending Branch",
+      "time": "5:00pm",
+      "ticket": "https://business.comfortchamber.com/calendar/Details/art-uncorked-michael-snodgrass-exhibition-opening-at-bending-branch-1848649?sourceTypeId=Website",
+      "source": "https://business.comfortchamber.com/calendar",
+      "price": "Free",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-08-07",
       "venue": "Free Roam Brewing Company",
       "area": "Boerne",
       "category": "Music",
@@ -671,7 +623,7 @@
       "venue": "Tapatio Springs Resort",
       "area": "Boerne",
       "category": "Music",
-      "act": "Lacy Brinson (Live Music on the Patio, La Cascada)",
+      "act": "Lacy Brinson (La Cascada patio)",
       "time": "7:00pm",
       "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
@@ -716,6 +668,18 @@
     },
     {
       "date": "2026-08-08",
+      "venue": "Shopping with Siobhain",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Live Music Saturday - Chris Lirette",
+      "time": "12:00pm",
+      "ticket": "https://business.comfortchamber.com/calendar/Details/saturday-live-music-at-shopping-with-siobhain-1845032?sourceTypeId=Website",
+      "source": "https://business.comfortchamber.com/calendar",
+      "price": "Free",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-08-08",
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
       "category": "Music",
@@ -728,10 +692,22 @@
     },
     {
       "date": "2026-08-08",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Kyle Garrett",
+      "time": "6:00pm",
+      "ticket": "https://www.freeroambrewing.com/events/saturday-live-music--kyle-garrett",
+      "source": "https://www.freeroambrewing.com/events",
+      "price": "Free",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-08-08",
       "venue": "Tapatio Springs Resort",
       "area": "Boerne",
       "category": "Music",
-      "act": "Chris Lopez (Live Music on the Patio, La Cascada)",
+      "act": "Chris Lopez (La Cascada patio)",
       "time": "7:00pm",
       "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
@@ -763,6 +739,18 @@
       "group": "Hill Country / N. San Antonio"
     },
     {
+      "date": "2026-08-09",
+      "venue": "Sam's Burger Joint",
+      "area": "San Antonio – near Pearl",
+      "category": "Music",
+      "act": "Glass Mansions (w/ Any Color You Like, Eyes Like Fire, Survival Guide)",
+      "time": "6:00pm (Doors 5:00)",
+      "ticket": "https://wl.seetickets.us/event/glass-mansions/698881?afflky=SamsBurgerJointSanAntonio",
+      "source": "https://samsburgerjoint.com/calendar/",
+      "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
       "date": "2026-08-11",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
@@ -776,10 +764,22 @@
     },
     {
       "date": "2026-08-12",
+      "venue": "8th Street Market",
+      "area": "Comfort",
+      "category": "Festival/Market",
+      "act": "Wine Down Wednesday at 8th Street Market",
+      "time": "5:00pm",
+      "ticket": "https://business.comfortchamber.com/calendar/Details/wine-down-wednesday-at-the-8th-street-market-1848886?sourceTypeId=Website",
+      "source": "https://business.comfortchamber.com/calendar",
+      "price": "Free",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-08-12",
       "venue": "Free Roam Brewing Company",
       "area": "Boerne",
       "category": "Music",
-      "act": "Flatbed Summer Concert Series: Jessee Lee",
+      "act": "Flatbed Summer Concert Series - Jessee Lee",
       "time": "7:30pm",
       "ticket": "https://www.freeroambrewing.com/events/flatbed-summer-concert-series--jessee-lee",
       "source": "https://www.freeroambrewing.com/events",
@@ -827,7 +827,7 @@
       "venue": "Tapatio Springs Resort",
       "area": "Boerne",
       "category": "Music",
-      "act": "Wally Robles (Live Music on the Patio, La Cascada)",
+      "act": "Wally Robles (La Cascada patio)",
       "time": "7:00pm",
       "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
@@ -911,7 +911,7 @@
       "venue": "Tapatio Springs Resort",
       "area": "Boerne",
       "category": "Music",
-      "act": "Sierra Lynn (Live Music on the Patio, La Cascada)",
+      "act": "Sierra Lynn (La Cascada patio)",
       "time": "7:00pm",
       "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
@@ -947,7 +947,7 @@
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
-      "act": "POISON I.V. - Texas' Premier POISON Tribute Band",
+      "act": "POISON I.V. - Texas' Premier POISON Tribute Band (w/ 3Troit Rock City)",
       "time": "8:30pm (Doors 7:30)",
       "ticket": "https://wl.seetickets.us/event/poison-iv-texas-premier-poison-tribute-band/696318?afflky=SamsBurgerJointSanAntonio",
       "source": "https://samsburgerjoint.com/calendar/",
@@ -995,7 +995,7 @@
       "venue": "Free Roam Brewing Company",
       "area": "Boerne",
       "category": "Music",
-      "act": "Flatbed Summer Concert Series: Steven McClintock",
+      "act": "Flatbed Summer Concert Series - Steven McClintock",
       "time": "7:30pm",
       "ticket": "https://www.freeroambrewing.com/events/flatbed-summer-concert-series--steven-mcclintock",
       "source": "https://www.freeroambrewing.com/events",
@@ -1031,7 +1031,7 @@
       "venue": "Tapatio Springs Resort",
       "area": "Boerne",
       "category": "Music",
-      "act": "Anthony Wright (Live Music on the Patio, La Cascada)",
+      "act": "Anthony Wright (La Cascada patio)",
       "time": "7:00pm",
       "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
@@ -1067,7 +1067,7 @@
       "venue": "Whitewater Amphitheater",
       "area": "New Braunfels",
       "category": "Music",
-      "act": "HARDY: The Country! Country! Tour w/ McCoy Moore, Jake Worthington",
+      "act": "HARDY: The Country! Country! Tour w/ Jake Worthington, McCoy Moore",
       "time": "TBA",
       "ticket": "https://www.tixr.com/groups/whitewaterrocks/events/hardy-the-country-country-tour--160204",
       "source": "https://www.whitewaterrocks.com/upcoming-shows",
@@ -1103,7 +1103,7 @@
       "venue": "Tapatio Springs Resort",
       "area": "Boerne",
       "category": "Music",
-      "act": "Ruben Pacheco (Live Music on the Patio, La Cascada)",
+      "act": "Ruben Pacheco (La Cascada patio)",
       "time": "7:00pm",
       "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
@@ -1147,6 +1147,102 @@
       "group": "Hill Country / N. San Antonio"
     },
     {
+      "date": "2026-08-23",
+      "venue": "Sam's Burger Joint",
+      "area": "San Antonio – near Pearl",
+      "category": "Music",
+      "act": "Electric Ramble",
+      "time": "7:00pm (Doors 6:00)",
+      "ticket": "https://wl.seetickets.us/event/electric-ramble/695030?afflky=SamsBurgerJointSanAntonio",
+      "source": "https://samsburgerjoint.com/calendar/",
+      "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-25",
+      "venue": "Sam's Burger Joint",
+      "area": "San Antonio – near Pearl",
+      "category": "Music",
+      "act": "Live and Local with 210 Jazz Orchestra",
+      "time": "7:30pm (Doors 6:30)",
+      "ticket": "https://wl.seetickets.us/event/live-and-local-with-210-jazz-orchestra/698895?afflky=SamsBurgerJointSanAntonio",
+      "source": "https://samsburgerjoint.com/calendar/",
+      "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-26",
+      "venue": "Sam's Burger Joint",
+      "area": "San Antonio – near Pearl",
+      "category": "Music",
+      "act": "Ken Slavin's Swingin' Birthday Bash",
+      "time": "7:00pm (Doors 6:00)",
+      "ticket": "https://wl.seetickets.us/event/ken-slavins-swingin-birthday-bash/696865?afflky=SamsBurgerJointSanAntonio",
+      "source": "https://samsburgerjoint.com/calendar/",
+      "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-26",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Flatbed Summer Concert Series - Caleb Young",
+      "time": "7:30pm",
+      "ticket": "https://www.freeroambrewing.com/events/flatbed-summer-concert-series--caleb-young",
+      "source": "https://www.freeroambrewing.com/events",
+      "price": "Free",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-08-27",
+      "venue": "Shopping with Siobhain",
+      "area": "Comfort",
+      "category": "Festival/Market",
+      "act": "Steak Night Social at Shopping with Siobhain (live music)",
+      "time": "6:00pm",
+      "ticket": "https://business.comfortchamber.com/calendar/Details/steak-night-social-at-shopping-with-siobhain-1695470?sourceTypeId=Website",
+      "source": "https://business.comfortchamber.com/calendar",
+      "price": "Free",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-08-27",
+      "venue": "Sam's Burger Joint",
+      "area": "San Antonio – near Pearl",
+      "category": "Music",
+      "act": "Eric Johanson",
+      "time": "8:00pm (Doors 7:00)",
+      "ticket": "https://wl.seetickets.us/event/eric-johanson/694019?afflky=SamsBurgerJointSanAntonio",
+      "source": "https://samsburgerjoint.com/calendar/",
+      "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-28",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Andi Holleman",
+      "time": "6:00pm",
+      "ticket": "https://www.freeroambrewing.com/events/friday-live-music--andi-holleman",
+      "source": "https://www.freeroambrewing.com/events",
+      "price": "Free",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-08-28",
+      "venue": "Tapatio Springs Resort",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Richie Bustillo (La Cascada patio)",
+      "time": "7:00pm",
+      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
+      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
+      "price": "Free",
+      "group": "Boerne"
+    },
+    {
       "date": "2026-08-28",
       "venue": "The Bevy Hotel",
       "area": "Boerne",
@@ -1157,6 +1253,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-08-28",
+      "venue": "Sam's Burger Joint",
+      "area": "San Antonio – near Pearl",
+      "category": "Music",
+      "act": "TESTIFY - Rage Against The Machine Tribute, REANIMATION - Tribute to LINKIN PARK",
+      "time": "8:30pm (Doors 7:30)",
+      "ticket": "https://wl.seetickets.us/event/testify-rage-against-the-machine-tribute/695225?afflky=SamsBurgerJointSanAntonio",
+      "source": "https://samsburgerjoint.com/calendar/",
+      "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-08-29",
@@ -1172,6 +1280,30 @@
     },
     {
       "date": "2026-08-29",
+      "venue": "Free Roam Brewing Company",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Andy Garcia",
+      "time": "6:00pm",
+      "ticket": "https://www.freeroambrewing.com/events/saturday-live-music---andy-garcia",
+      "source": "https://www.freeroambrewing.com/events",
+      "price": "Free",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-08-29",
+      "venue": "Tapatio Springs Resort",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Hunter Billingsley (La Cascada patio)",
+      "time": "7:00pm",
+      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
+      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
+      "price": "Free",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-08-29",
       "venue": "The Bevy Hotel",
       "area": "Boerne",
       "category": "Music",
@@ -1180,6 +1312,54 @@
       "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-08-29/",
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-08-29",
+      "venue": "Sam's Burger Joint",
+      "area": "San Antonio – near Pearl",
+      "category": "Music",
+      "act": "SKYROCKET!",
+      "time": "8:30pm (Doors 7:30)",
+      "ticket": "https://wl.seetickets.us/event/skyrocket/693825?afflky=SamsBurgerJointSanAntonio",
+      "source": "https://samsburgerjoint.com/calendar/",
+      "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-29",
+      "venue": "Whitewater Amphitheater",
+      "area": "New Braunfels",
+      "category": "Music",
+      "act": "Dylan Gossett & Charles Wesley Godwin w/ Max Alan",
+      "time": "TBA",
+      "ticket": "https://www.tixr.com/groups/whitewaterrocks/events/dylan-gossett-charles-wesley-godwin-188477",
+      "source": "https://www.whitewaterrocks.com/upcoming-shows",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-08-30",
+      "venue": "Sam's Burger Joint",
+      "area": "San Antonio – near Pearl",
+      "category": "Music",
+      "act": "Sam Williams",
+      "time": "7:00pm (Doors 6:00)",
+      "ticket": "https://wl.seetickets.us/event/sam-williams/690859?afflky=SamsBurgerJointSanAntonio",
+      "source": "https://samsburgerjoint.com/calendar/",
+      "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-09-04",
+      "venue": "Tapatio Springs Resort",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Jaime Valera (La Cascada patio)",
+      "time": "7:00pm",
+      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
+      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
+      "price": "Free",
       "group": "Boerne"
     },
     {
@@ -1193,6 +1373,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-09-04",
+      "venue": "Sam's Burger Joint",
+      "area": "San Antonio – near Pearl",
+      "category": "Music",
+      "act": "Anything Box & Boys Don't Cry : A Cure Experience (w/ DJ Rice Cube)",
+      "time": "8:00pm (Doors 7:00)",
+      "ticket": "https://wl.seetickets.us/event/anything-box-and-boys-dont-cry-a-cure-experience/683620?afflky=SamsBurgerJointSanAntonio",
+      "source": "https://samsburgerjoint.com/calendar/",
+      "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-09-05",
@@ -1220,6 +1412,18 @@
     },
     {
       "date": "2026-09-05",
+      "venue": "Tapatio Springs Resort",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Sierra Lynn (La Cascada patio)",
+      "time": "7:00pm",
+      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
+      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
+      "price": "Free",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-09-05",
       "venue": "The Bevy Hotel",
       "area": "Boerne",
       "category": "Music",
@@ -1231,6 +1435,18 @@
       "group": "Boerne"
     },
     {
+      "date": "2026-09-05",
+      "venue": "Sam's Burger Joint",
+      "area": "San Antonio – near Pearl",
+      "category": "Music",
+      "act": "San & Tone Pilots - A Stone Temple Pilots Tribute Band (w/ Three Legged Dog - Alice in Chains Tribute)",
+      "time": "8:30pm (Doors 7:30)",
+      "ticket": "https://wl.seetickets.us/event/san-and-tone-pilots-a-stone-temple-pilots-tribute-band/699242?afflky=SamsBurgerJointSanAntonio",
+      "source": "https://samsburgerjoint.com/calendar/",
+      "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
       "date": "2026-09-06",
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
@@ -1240,6 +1456,18 @@
       "ticket": "https://theboernelife.com/events/chris-lopez-at-singing-water-vineyards/",
       "source": "https://theboernelife.com/venue/singing-water-vineyards/",
       "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-09-09",
+      "venue": "8th Street Market",
+      "area": "Comfort",
+      "category": "Festival/Market",
+      "act": "Wine Down Wednesday at 8th Street Market",
+      "time": "5:00pm",
+      "ticket": "https://business.comfortchamber.com/calendar/Details/wine-down-wednesday-at-the-8th-street-market-1848893?sourceTypeId=Website",
+      "source": "https://business.comfortchamber.com/calendar",
+      "price": "Free",
       "group": "Comfort"
     }
   ]
