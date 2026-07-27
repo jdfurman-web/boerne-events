@@ -1,119 +1,11 @@
 {
-  "generated": "2026-07-26T12:07:23",
+  "generated": "2026-07-27T13:41:03",
   "window": {
-    "start": "2026-07-25",
-    "end": "2026-09-09"
+    "start": "2026-07-26",
+    "end": "2026-09-10"
   },
-  "count": 122,
+  "count": 115,
   "events": [
-    {
-      "date": "2026-07-25",
-      "venue": "Shopping with Siobhain",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Live Music Saturday - Just Us Duo",
-      "time": "12:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/live-music-saturday-at-shopping-with-siobhain-1834877?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-25",
-      "venue": "Bending Branch Winery",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "A Taste of Texas & Italy at Bending Branch Winery (8-wine tasting with food pairings)",
-      "time": "1:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/a-taste-of-texas-italy-at-bending-branch-winery-1772211?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Ticketed",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-25",
-      "venue": "Cocky Rooster Bar",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Barnyard Bingo/Queen of Hearts @ Cocky Rooster",
-      "time": "6:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/barnyard-bingo-queen-of-hearts-cocky-rooster-1857297?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-25",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Chris Cuevas",
-      "time": "6:00pm",
-      "ticket": "https://www.freeroambrewing.com/events/saturday-live-music--chris-cuevas",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-25",
-      "venue": "Tapatio Springs Resort",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Anthony Wright (La Cascada patio)",
-      "time": "7:00pm",
-      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-25",
-      "venue": "Cibolo Center for Conservation",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Moondance Series — Band in Black",
-      "time": "7:00–9:00pm (Doors 6)",
-      "ticket": "https://secure.qgiv.com/for/thecibolocenterforconservation/event/moondance-2026/",
-      "source": "https://cibolo.org/moondance/",
-      "price": "$15",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-25",
-      "venue": "Cocky Rooster Bar",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Russell Green @ Cocky Rooster",
-      "time": "8:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/russell-green-cocky-rooster-1857291?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-25",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Bloody Cape - Deftones Tribute (w/ The English Channels - A Tribute to The Cure)",
-      "time": "8:30pm (Doors 7:30)",
-      "ticket": "https://wl.seetickets.us/event/bloody-cape-deftones-tribute/690565?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-25",
-      "venue": "Whitewater Amphitheater",
-      "area": "New Braunfels",
-      "category": "Music",
-      "act": "The Black Keys: Peaches N Kream w/ Eddie 9V",
-      "time": "TBA",
-      "ticket": "https://www.tixr.com/groups/whitewaterrocks/events/the-black-keys-peaches-n-kream-175962",
-      "source": "https://www.whitewaterrocks.com/upcoming-shows",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-07-26",
       "venue": "Gruene Hall",
@@ -125,18 +17,6 @@
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-26",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Susan Herndon Live at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/susan-herndon-live-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
     },
     {
       "date": "2026-07-26",
@@ -1469,6 +1349,42 @@
       "source": "https://business.comfortchamber.com/calendar",
       "price": "Free",
       "group": "Comfort"
+    },
+    {
+      "date": "2026-09-10",
+      "venue": "Shopping with Siobhain",
+      "area": "Comfort",
+      "category": "Festival/Market",
+      "act": "Steak Night Social at Shopping with Siobhain (live music)",
+      "time": "6:00pm",
+      "ticket": "https://business.comfortchamber.com/calendar/Details/steak-night-social-at-shopping-with-siobhain-1695471?sourceTypeId=Website",
+      "source": "https://business.comfortchamber.com/calendar",
+      "price": "Free",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-09-10",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "PAM TILLIS",
+      "time": "7:30pm",
+      "ticket": "https://brauntex.org/event/pam-tillis/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-10",
+      "venue": "Sam's Burger Joint",
+      "area": "San Antonio – near Pearl",
+      "category": "Music",
+      "act": "Tophouse (w/ Scott Levi Jones)",
+      "time": "8:00pm (Doors 7:00)",
+      "ticket": "https://wl.seetickets.us/event/tophouse/684425?afflky=SamsBurgerJointSanAntonio",
+      "source": "https://samsburgerjoint.com/calendar/",
+      "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
     }
   ]
 }
