@@ -1,95 +1,11 @@
 {
-  "generated": "2026-07-27T13:41:03",
+  "generated": "2026-07-28T12:56:53",
   "window": {
-    "start": "2026-07-26",
-    "end": "2026-09-10"
+    "start": "2026-07-27",
+    "end": "2026-09-11"
   },
-  "count": 115,
+  "count": 113,
   "events": [
-    {
-      "date": "2026-07-26",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Allan Hendrickson",
-      "time": "11:30am",
-      "ticket": "https://gruenehall.com/event/allan-hendrickson-13/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-26",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Michael Monroe Goodman",
-      "time": "3pm",
-      "ticket": "https://gruenehall.com/event/michael-monroe-goodman-22/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-26",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Shay Domann",
-      "time": "6:30pm",
-      "ticket": "https://gruenehall.com/event/shay-domann-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-26",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Exit Stage Left - a Tribute to RUSH",
-      "time": "7:30pm (Doors 6:30)",
-      "ticket": "https://wl.seetickets.us/event/exit-stage-left-a-tribute-to-rush/692344?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-26",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Makers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/makers-market-5-2-2/2026-07-26/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-27",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "JESKA Songswap with Special Guests",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/jeska-songswap-with-special-guests-5/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-27",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Tony Taylor & Friends",
-      "time": "8:30pm",
-      "ticket": "https://gruenehall.com/event/tony-taylor-friends-30/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-07-28",
       "venue": "Sam's Burger Joint",
@@ -448,6 +364,18 @@
       "ticket": "https://wl.seetickets.us/event/sean-mcconnell/688033?afflky=SamsBurgerJointSanAntonio",
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-02",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Makers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/makers-market-5-2-2/2026-08-02/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
       "group": "Hill Country / N. San Antonio"
     },
     {
@@ -1382,6 +1310,54 @@
       "act": "Tophouse (w/ Scott Levi Jones)",
       "time": "8:00pm (Doors 7:00)",
       "ticket": "https://wl.seetickets.us/event/tophouse/684425?afflky=SamsBurgerJointSanAntonio",
+      "source": "https://samsburgerjoint.com/calendar/",
+      "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-09-11",
+      "venue": "Tapatio Springs Resort",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Anthony Wright (La Cascada patio)",
+      "time": "7:00pm",
+      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
+      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
+      "price": "Free",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-09-11",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "SAMANTHA FISH",
+      "time": "7:30pm",
+      "ticket": "https://brauntex.org/event/samantha-fish/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-11",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-09-11/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-09-11",
+      "venue": "Sam's Burger Joint",
+      "area": "San Antonio – near Pearl",
+      "category": "Music",
+      "act": "Bruce Robison",
+      "time": "8:30pm (Doors 7:30)",
+      "ticket": "https://wl.seetickets.us/event/bruce-robison/691743?afflky=SamsBurgerJointSanAntonio",
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
