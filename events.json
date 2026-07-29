@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-28T12:56:53",
+  "generated": "2026-07-29T13:03:53",
   "window": {
-    "start": "2026-07-27",
-    "end": "2026-09-11"
+    "start": "2026-07-28",
+    "end": "2026-09-12"
   },
-  "count": 113,
+  "count": 115,
   "events": [
     {
       "date": "2026-07-28",
@@ -29,18 +29,6 @@
       "source": "https://www.ci.boerne.tx.us/m/newsflash/home/detail/720",
       "price": "Free",
       "group": "Boerne"
-    },
-    {
-      "date": "2026-07-28",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Two Ton Tuesday",
-      "time": "7pm",
-      "ticket": "https://gruenehall.com/event/two-ton-tuesday-5/2026-07-28/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-07-29",
@@ -1361,6 +1349,42 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-09-12",
+      "venue": "Sam's Burger Joint",
+      "area": "San Antonio – near Pearl",
+      "category": "Music",
+      "act": "First Responder Night with David Gibson, Aaron Tilt (w/ Lo-Boy, Sweet Charbonneau & The Fur Trappers)",
+      "time": "5:00pm (Doors 4:00)",
+      "ticket": "https://wl.seetickets.us/event/first-responder-night-with-david-gibson-aaron-tilt/699081?afflky=SamsBurgerJointSanAntonio",
+      "source": "https://samsburgerjoint.com/calendar/",
+      "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-09-12",
+      "venue": "Tapatio Springs Resort",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Richie Brinson (La Cascada patio)",
+      "time": "7:00pm",
+      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
+      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
+      "price": "Free",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-09-12",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-09-12/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
     }
   ]
 }
