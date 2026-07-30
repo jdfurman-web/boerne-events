@@ -1,59 +1,11 @@
 {
-  "generated": "2026-07-29T13:03:53",
+  "generated": "2026-07-30T12:48:17",
   "window": {
-    "start": "2026-07-28",
-    "end": "2026-09-12"
+    "start": "2026-07-29",
+    "end": "2026-09-13"
   },
-  "count": 115,
+  "count": 112,
   "events": [
-    {
-      "date": "2026-07-28",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Live and Local with DiversiD",
-      "time": "7:30pm (Doors 6:30)",
-      "ticket": "https://wl.seetickets.us/event/live-and-local-with-diversid/693044?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-07-28",
-      "venue": "Boerne Main Plaza",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Abendkonzert – Boerne Village Band",
-      "time": "7:30–9:00pm",
-      "ticket": "https://www.ci.boerne.tx.us/m/newsflash/home/detail/720",
-      "source": "https://www.ci.boerne.tx.us/m/newsflash/home/detail/720",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-29",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Theater/Arts",
-      "act": "SUMMER CINEMA: GREASE 2 (1982)",
-      "time": "6:30pm",
-      "ticket": "https://brauntex.org/event/summer-cinema-grease-2-1982/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-29",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "The Georges",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/the-georges-102/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-07-29",
       "venue": "Free Roam Brewing Company",
@@ -1385,6 +1337,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-09-13",
+      "venue": "Sam's Burger Joint",
+      "area": "San Antonio – near Pearl",
+      "category": "Music",
+      "act": "Sam Morrow",
+      "time": "7:00pm (Doors 6:00)",
+      "ticket": "https://wl.seetickets.us/event/sam-morrow/692495?afflky=SamsBurgerJointSanAntonio",
+      "source": "https://samsburgerjoint.com/calendar/",
+      "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
     }
   ]
 }
