@@ -1,23 +1,11 @@
 {
-  "generated": "2026-07-30T12:48:17",
+  "generated": "2026-07-31T12:59:18",
   "window": {
-    "start": "2026-07-29",
-    "end": "2026-09-13"
+    "start": "2026-07-30",
+    "end": "2026-09-14"
   },
-  "count": 112,
+  "count": 111,
   "events": [
-    {
-      "date": "2026-07-29",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Flatbed Summer Concert Series - Scotty Alexander",
-      "time": "7:30pm",
-      "ticket": "https://www.freeroambrewing.com/events/flatbed-summer-concert-series--scotty-alexander",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
     {
       "date": "2026-07-30",
       "venue": "Bending Branch Winery",
