@@ -1,59 +1,11 @@
 {
-  "generated": "2026-07-31T12:59:18",
+  "generated": "2026-08-01T12:04:19",
   "window": {
-    "start": "2026-07-30",
-    "end": "2026-09-14"
+    "start": "2026-07-31",
+    "end": "2026-09-15"
   },
-  "count": 111,
+  "count": 106,
   "events": [
-    {
-      "date": "2026-07-30",
-      "venue": "Bending Branch Winery",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Potluck Night at Bending Branch (Italian theme)",
-      "time": "6:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/potluck-night-at-bending-branch-1774782?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-07-30",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Kyle Gates",
-      "time": "7pm",
-      "ticket": "https://gruenehall.com/event/kyle-gates/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-30",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Luke Prater",
-      "time": "8:30pm",
-      "ticket": "https://gruenehall.com/event/luke-prater/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-07-30",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "Colony House at Stable Hall",
-      "time": "8pm",
-      "ticket": "https://events.atpearl.com/event/colony-house-at-stable-hall/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
     {
       "date": "2026-07-31",
       "venue": "Gruene Hall",
@@ -112,18 +64,6 @@
       "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-07-31",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-07-31/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
       "group": "Boerne"
     },
     {
