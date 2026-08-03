@@ -1,95 +1,11 @@
 {
-  "generated": "2026-08-02T12:06:18",
+  "generated": "2026-08-03T13:43:37",
   "window": {
-    "start": "2026-08-01",
-    "end": "2026-09-16"
+    "start": "2026-08-02",
+    "end": "2026-09-17"
   },
-  "count": 121,
+  "count": 116,
   "events": [
-    {
-      "date": "2026-08-01",
-      "venue": "Shopping with Siobhain",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Live Music Saturday - Lisa Crawford",
-      "time": "12:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/saturday-live-music-at-shopping-with-siobhain-1845030?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-08-01",
-      "venue": "Cocky Rooster Bar",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Barnyard Bingo/Queen of Hearts @ Cocky Rooster",
-      "time": "6:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/barnyard-bingo-queen-of-hearts-cocky-rooster-1869505?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-08-01",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Hunter Billingsley",
-      "time": "6:00pm",
-      "ticket": "https://www.freeroambrewing.com/events/saturday-live-music-hunter-billingsley-2",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-08-01",
-      "venue": "Tapatio Springs Resort",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Joe Talbert (La Cascada patio)",
-      "time": "7:00pm",
-      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-08-01",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Ruben V",
-      "time": "8:30pm (Doors 7:30)",
-      "ticket": "https://wl.seetickets.us/event/ruben-v/694327?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-02",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Eric Demmer",
-      "time": "11:30am",
-      "ticket": "https://gruenehall.com/event/eric-demmer-12/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-08-02",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Tiffiny Dawn Band",
-      "time": "3pm",
-      "ticket": "https://gruenehall.com/event/tiffiny-dawn-band-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-08-02",
       "venue": "John T. Floore's Country Store",
@@ -104,18 +20,6 @@
     },
     {
       "date": "2026-08-02",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Soul Sessions",
-      "time": "6:30pm",
-      "ticket": "https://gruenehall.com/event/soul-sessions-19/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-08-02",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -124,18 +28,6 @@
       "ticket": "https://wl.seetickets.us/event/sean-mcconnell/688033?afflky=SamsBurgerJointSanAntonio",
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-02",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Makers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/makers-market-5-2-2/2026-08-02/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
       "group": "Hill Country / N. San Antonio"
     },
     {
@@ -464,6 +356,18 @@
     },
     {
       "date": "2026-08-08",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Farmers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/farmers-market/2026-08-08/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-08",
       "venue": "Gruene Hall",
       "area": "Gruene",
       "category": "Music",
@@ -668,6 +572,18 @@
     },
     {
       "date": "2026-08-14",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Friday Afternoon Club",
+      "time": "4pm",
+      "ticket": "https://gruenehall.com/event/friday-afternoon-club-13/2026-08-14/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-08-14",
       "venue": "Free Roam Brewing Company",
       "area": "Boerne",
       "category": "Music",
@@ -689,6 +605,18 @@
       "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "price": "Free",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-08-14",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Shelby Stone",
+      "time": "7:30pm",
+      "ticket": "https://gruenehall.com/event/shelby-stone/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-08-14",
@@ -736,6 +664,18 @@
       "ticket": "https://www.tixr.com/groups/whitewaterrocks/events/hudson-westbrook-night-1--181551",
       "source": "https://www.whitewaterrocks.com/upcoming-shows",
       "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-08-15",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Tasman Sharp",
+      "time": "11am",
+      "ticket": "https://gruenehall.com/event/tasman-sharp-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
       "group": "Gruene / New Braunfels"
     },
     {
