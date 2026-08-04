@@ -1,59 +1,11 @@
 {
-  "generated": "2026-08-03T13:43:37",
+  "generated": "2026-08-04T13:05:10",
   "window": {
-    "start": "2026-08-02",
-    "end": "2026-09-17"
+    "start": "2026-08-03",
+    "end": "2026-09-18"
   },
   "count": 116,
   "events": [
-    {
-      "date": "2026-08-02",
-      "venue": "John T. Floore's Country Store",
-      "area": "Helotes",
-      "category": "Music",
-      "act": "Dine and Dance (Free, All Ages)",
-      "time": "4:00pm (Doors 3:00)",
-      "ticket": "https://www.prekindle.com/event/54511-dine-and-dance-free-helotes",
-      "source": "https://www.prekindle.com/events/john-t-floores-country-store",
-      "price": "Free",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-02",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Sean McConnell (w/ Ashton Naylor)",
-      "time": "7:30pm (Doors 6:30)",
-      "ticket": "https://wl.seetickets.us/event/sean-mcconnell/688033?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-03",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Dave Orr Band",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/dave-orr-band-4/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-08-03",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Aiden Logsdon",
-      "time": "8:30pm",
-      "ticket": "https://gruenehall.com/event/aiden-logsdon/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-08-04",
       "venue": "Gruene Hall",
@@ -680,6 +632,18 @@
     },
     {
       "date": "2026-08-15",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "John Del Toro Richardson",
+      "time": "1pm",
+      "ticket": "https://gruenehall.com/event/john-del-toro-richardson-3/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-08-15",
       "venue": "Free Roam Brewing Company",
       "area": "Boerne",
       "category": "Music",
@@ -749,6 +713,18 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-15",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Mike Ryan",
+      "time": "9pm",
+      "ticket": "https://gruenehall.com/event/mike-ryan-5/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-08-15",
@@ -1397,6 +1373,30 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-09-18",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "SYMPHONIC SINATRA",
+      "time": "7:30pm",
+      "ticket": "https://brauntex.org/event/symphonic-sinatra/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-18",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-09-18/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
     }
   ]
 }
