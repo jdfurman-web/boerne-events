@@ -1,23 +1,11 @@
 {
-  "generated": "2026-08-05T12:58:00",
+  "generated": "2026-08-06T12:58:39",
   "window": {
-    "start": "2026-08-04",
-    "end": "2026-09-19"
+    "start": "2026-08-05",
+    "end": "2026-09-20"
   },
   "count": 143,
   "events": [
-    {
-      "date": "2026-08-04",
-      "venue": "Cocky Rooster Bar",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Texas Hold 'Em Tuesday",
-      "time": "TBA",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/texas-hold-em-tuesday-cocky-rooster-1875571?sourceTypeId=Hub",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
     {
       "date": "2026-08-05",
       "venue": "Gruene Hall",
@@ -1721,6 +1709,18 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-09-20",
+      "venue": "Shopping with Siobhain",
+      "area": "Comfort",
+      "category": "Festival/Market",
+      "act": "Chicken Sh*t Bingo (with live music)",
+      "time": "3:00pm-6:00pm",
+      "ticket": "https://business.comfortchamber.com/calendar/Details/chicken-sh-t-bingo-at-shopping-with-siobhain-1695483?sourceTypeId=Website",
+      "source": "https://business.comfortchamber.com/calendar",
+      "price": "Free",
+      "group": "Comfort"
     }
   ]
 }
