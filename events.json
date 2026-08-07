@@ -1,59 +1,11 @@
 {
-  "generated": "2026-08-06T12:58:39",
+  "generated": "2026-08-07T11:49:34",
   "window": {
-    "start": "2026-08-05",
-    "end": "2026-09-20"
+    "start": "2026-08-06",
+    "end": "2026-09-21"
   },
-  "count": 143,
+  "count": 142,
   "events": [
-    {
-      "date": "2026-08-05",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "River Town Relics",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/river-town-relics-6/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-08-05",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Flatbed Summer Concert Series: Daniel Johnson",
-      "time": "7:30pm",
-      "ticket": "https://www.freeroambrewing.com/events/flatbed-summer-concert-series--daniel-johnson",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-08-05",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "George Porter Jr. & Runnin' Pardners",
-      "time": "8:00pm (Doors 7:00)",
-      "ticket": "https://wl.seetickets.us/event/george-porter-jr-and-runnin-pardners/694671?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-05",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Dean Paul Willeford",
-      "time": "8:30pm",
-      "ticket": "https://gruenehall.com/event/dean-paul-willeford-4/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-08-06",
       "venue": "Bending Branch Winery",
@@ -65,30 +17,6 @@
       "source": "https://business.comfortchamber.com/calendar",
       "price": "Free",
       "group": "Comfort"
-    },
-    {
-      "date": "2026-08-06",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Ryan Hunter Band",
-      "time": "7pm",
-      "ticket": "https://gruenehall.com/event/ryan-hunter-band-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-08-06",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Belles",
-      "time": "8:30pm",
-      "ticket": "https://gruenehall.com/event/belles/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-08-07",
@@ -917,6 +845,66 @@
       "source": "https://www.prekindle.com/events/john-t-floores-country-store",
       "price": "Free",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-16",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Lee Mathis & The Brutally Handsome",
+      "time": "6:30pm",
+      "ticket": "https://gruenehall.com/event/lee-mathis-the-brutally-handsome-3/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-08-17",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Bret Graham",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/bret-graham-144/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-08-17",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Lindsay Beaver Duo",
+      "time": "8:30pm",
+      "ticket": "https://gruenehall.com/event/lindsay-beaver-duo-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-08-18",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Jordan Minor",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/jordan-minor-3/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-08-18",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Slim Bawb",
+      "time": "8:30pm",
+      "ticket": "https://gruenehall.com/event/slim-bawb-9/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-08-19",
