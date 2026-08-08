@@ -1,23 +1,11 @@
 {
-  "generated": "2026-08-07T11:49:34",
+  "generated": "2026-08-08T11:33:26",
   "window": {
-    "start": "2026-08-06",
-    "end": "2026-09-21"
+    "start": "2026-08-07",
+    "end": "2026-09-22"
   },
-  "count": 142,
+  "count": 140,
   "events": [
-    {
-      "date": "2026-08-06",
-      "venue": "Bending Branch Winery",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Potluck Night (Pan-Asian theme)",
-      "time": "6:00pm-8:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/potluck-night-at-bending-branch-1881734?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
     {
       "date": "2026-08-07",
       "venue": "Gruene Hall",
@@ -76,18 +64,6 @@
       "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-08-07",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-08-07/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
       "group": "Boerne"
     },
     {
