@@ -1,59 +1,11 @@
 {
-  "generated": "2026-08-09T11:33:34",
+  "generated": "2026-08-10T11:51:27",
   "window": {
-    "start": "2026-08-08",
-    "end": "2026-09-23"
+    "start": "2026-08-09",
+    "end": "2026-09-24"
   },
-  "count": 131,
+  "count": 128,
   "events": [
-    {
-      "date": "2026-08-08",
-      "venue": "Shopping with Siobhain",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Chris Lirette",
-      "time": "12:00pm-3:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/saturday-live-music-at-shopping-with-siobhain-1845032?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-08-08",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Saturday Live Music: Kyle Garrett",
-      "time": "6:00pm",
-      "ticket": "https://www.freeroambrewing.com/events/saturday-live-music--kyle-garrett",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-08-08",
-      "venue": "Tapatio Springs Resort",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Chris Lopez (La Cascada patio)",
-      "time": "7:00pm",
-      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-08-08",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Dan Gonzalez with Melissa Ludwig Band",
-      "time": "8:30pm (Doors 7:30)",
-      "ticket": "https://wl.seetickets.us/event/dan-gonzalez/696970?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
     {
       "date": "2026-08-09",
       "venue": "Gruene Hall",
@@ -1577,6 +1529,18 @@
       "source": "https://business.comfortchamber.com/calendar",
       "price": "Free",
       "group": "Comfort"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "Bob Wills’ Texas Playboys under the direction of Jason Roberts",
+      "time": "7:30pm",
+      "ticket": "https://brauntex.org/event/bob-wills-texas-playboys-under-the-direction-of-jason-roberts/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
     }
   ]
 }
