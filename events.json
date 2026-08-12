@@ -1,23 +1,11 @@
 {
-  "generated": "2026-08-11T11:48:37",
+  "generated": "2026-08-12T11:51:44",
   "window": {
-    "start": "2026-08-10",
-    "end": "2026-09-25"
+    "start": "2026-08-11",
+    "end": "2026-09-26"
   },
-  "count": 128,
+  "count": 131,
   "events": [
-    {
-      "date": "2026-08-10",
-      "venue": "Cocky Rooster Bar",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Dart Tournament",
-      "time": "7:30pm-9:30pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/dart-tournament-cocky-rooster-bar-1881467?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
     {
       "date": "2026-08-11",
       "venue": "Sam's Burger Joint",
@@ -32,18 +20,6 @@
     },
     {
       "date": "2026-08-11",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Two Ton Tuesday",
-      "time": "7pm",
-      "ticket": "https://gruenehall.com/event/two-ton-tuesday-5/2026-08-11/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-08-11",
       "venue": "Cocky Rooster Bar",
       "area": "Comfort",
       "category": "Festival/Market",
@@ -53,18 +29,6 @@
       "source": "https://business.comfortchamber.com/calendar",
       "price": "Free",
       "group": "Comfort"
-    },
-    {
-      "date": "2026-08-11",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "Steve Earle",
-      "time": "8pm",
-      "ticket": "https://events.atpearl.com/event/steve-earle/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-08-12",
@@ -404,6 +368,18 @@
     },
     {
       "date": "2026-08-15",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "The Texases at Stable Hall",
+      "time": "7pm",
+      "ticket": "https://events.atpearl.com/event/the-texases-at-stable-hall/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-15",
       "venue": "Cocky Rooster Bar",
       "area": "Comfort",
       "category": "Music",
@@ -533,6 +509,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-08-16",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Makers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/makers-market-5-2-2/2026-08-16/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-08-17",
@@ -896,6 +884,18 @@
     },
     {
       "date": "2026-08-23",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Caleb Sam Brown",
+      "time": "6:30pm",
+      "ticket": "https://gruenehall.com/event/caleb-sam-brown-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-08-23",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -905,6 +905,18 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-24",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Gary Nicholson & Change",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/gary-nicholson-change/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-08-25",
@@ -1538,6 +1550,30 @@
       "act": "Live Music at The Bevy Hotel",
       "time": "7pm",
       "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-09-25/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Music",
+      "act": "DONNY EDWARDS - TRIBUTE TO \"THE KING\"",
+      "time": "7:30pm",
+      "ticket": "https://brauntex.org/event/donny-edwards-tribute-to-the-king/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-09-26/",
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
