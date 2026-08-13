@@ -1,35 +1,11 @@
 {
-  "generated": "2026-08-12T11:51:44",
+  "generated": "2026-08-13T11:51:49",
   "window": {
-    "start": "2026-08-11",
-    "end": "2026-09-26"
+    "start": "2026-08-12",
+    "end": "2026-09-27"
   },
-  "count": 131,
+  "count": 130,
   "events": [
-    {
-      "date": "2026-08-11",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Live and Local with Kainoa",
-      "time": "7:30pm (Doors 6:30)",
-      "ticket": "https://wl.seetickets.us/event/live-and-local-with-kainoa/697272?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-11",
-      "venue": "Cocky Rooster Bar",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Texas Hold 'Em Tuesday",
-      "time": "8:00pm-11:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/texas-hold-em-tuesday-cocky-rooster-1881471?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
     {
       "date": "2026-08-12",
       "venue": "8th Street Market",
@@ -41,18 +17,6 @@
       "source": "https://business.comfortchamber.com/calendar",
       "price": "Free",
       "group": "Comfort"
-    },
-    {
-      "date": "2026-08-12",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "The Georges",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/the-georges-103/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-08-12",
@@ -920,6 +884,18 @@
     },
     {
       "date": "2026-08-25",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Owen Stroud",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/owen-stroud-5/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-08-25",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -1577,6 +1553,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-09-27",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "RICKY SKAGGS & KENTUCKY THUNDER",
+      "time": "7:30pm",
+      "ticket": "https://brauntex.org/event/ricky-skaggs-kentucky-thunder/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
     }
   ]
 }
