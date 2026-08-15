@@ -1,83 +1,11 @@
 {
-  "generated": "2026-08-14T11:48:42",
+  "generated": "2026-08-15T11:24:25",
   "window": {
-    "start": "2026-08-13",
-    "end": "2026-09-28"
+    "start": "2026-08-14",
+    "end": "2026-09-29"
   },
-  "count": 128,
+  "count": 124,
   "events": [
-    {
-      "date": "2026-08-13",
-      "venue": "Bending Branch Winery",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Potluck Night (Ham, Pork or Bacon theme)",
-      "time": "6:00pm-8:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/potluck-night-at-bending-branch-1881742?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-08-13",
-      "venue": "Shopping with Siobhain",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Steak Night Social (with live music)",
-      "time": "6:00pm-9:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/steak-night-social-at-shopping-with-siobhain-1695469?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-08-13",
-      "venue": "Cocky Rooster Bar",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Texas Hold 'Em Thursday",
-      "time": "7:00pm-10:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/texas-hold-em-thursday-cocky-rooster-1881476?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-08-13",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "J.R. Herrera Band",
-      "time": "8:00pm (Doors 7:00)",
-      "ticket": "https://wl.seetickets.us/event/jr-herrera-band/696979?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-14",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Jace Nunnelly",
-      "time": "12pm",
-      "ticket": "https://gruenehall.com/event/jace-nunnelly-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-08-14",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Friday Afternoon Club",
-      "time": "4pm",
-      "ticket": "https://gruenehall.com/event/friday-afternoon-club-13/2026-08-14/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-08-14",
       "venue": "Free Roam Brewing Company",
@@ -100,30 +28,6 @@
       "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-08-14",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Shelby Stone",
-      "time": "7:30pm",
-      "ticket": "https://gruenehall.com/event/shelby-stone/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-08-14",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-08-14/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
       "group": "Boerne"
     },
     {
@@ -497,6 +401,18 @@
       "source": "https://business.comfortchamber.com/calendar",
       "price": "Free",
       "group": "Comfort"
+    },
+    {
+      "date": "2026-08-19",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Children's Entrepreneur Night Market",
+      "time": "5pm",
+      "ticket": "https://events.atpearl.com/event/childrens-entrepreneur-night-market-2/2026-08-19/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-08-19",
@@ -944,6 +860,18 @@
     },
     {
       "date": "2026-08-28",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Friday Afternoon Club",
+      "time": "4pm",
+      "ticket": "https://gruenehall.com/event/friday-afternoon-club-13/2026-08-28/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-08-28",
       "venue": "Free Roam Brewing Company",
       "area": "Boerne",
       "category": "Music",
@@ -968,6 +896,18 @@
     },
     {
       "date": "2026-08-28",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Jesse Raub Jr. & Jenna Paulette",
+      "time": "7:45pm",
+      "ticket": "https://gruenehall.com/event/jesse-raub-jr-jenna-paulette-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-08-28",
       "venue": "The Bevy Hotel",
       "area": "Boerne",
       "category": "Music",
@@ -989,6 +929,18 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-29",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Justin Upshaw",
+      "time": "11am",
+      "ticket": "https://gruenehall.com/event/justin-upshaw/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-08-29",
