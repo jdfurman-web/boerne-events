@@ -1,95 +1,11 @@
 {
-  "generated": "2026-08-15T11:24:25",
+  "generated": "2026-08-16T11:23:54",
   "window": {
-    "start": "2026-08-14",
-    "end": "2026-09-29"
+    "start": "2026-08-15",
+    "end": "2026-09-30"
   },
-  "count": 124,
+  "count": 115,
   "events": [
-    {
-      "date": "2026-08-14",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Friday Live Music: Bruce Smith",
-      "time": "6:00pm",
-      "ticket": "https://www.freeroambrewing.com/events/friday-live-music--bruce-smith",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-08-14",
-      "venue": "Tapatio Springs Resort",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Wally Robles (La Cascada patio)",
-      "time": "7:00pm",
-      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-08-14",
-      "venue": "Cocky Rooster Bar",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "River City Revival",
-      "time": "8:00pm-11:59pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/river-city-revival-cocky-rooster-bar-1881486?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-08-14",
-      "venue": "John T. Floore's Country Store",
-      "area": "Helotes",
-      "category": "Music",
-      "act": "Logan Ryan Band",
-      "time": "8:30pm (Doors 7:00)",
-      "ticket": "https://www.prekindle.com/event/25554-logan-ryan-band-helotes",
-      "source": "https://www.prekindle.com/events/john-t-floores-country-store",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-14",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "The Damn Torpedoes - A Tribute to Tom Petty & The Heartbreakers",
-      "time": "8:30pm (Doors 7:30)",
-      "ticket": "https://wl.seetickets.us/event/the-damn-torpedoes-a-tribute-to-tom-petty/693829?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-14",
-      "venue": "Whitewater Amphitheater",
-      "area": "New Braunfels",
-      "category": "Music",
-      "act": "Hudson Westbrook (Night 1) w/ Kolby Cooper, Tyce Delk",
-      "time": "TBA",
-      "ticket": "https://www.tixr.com/groups/whitewaterrocks/events/hudson-westbrook-night-1--181551",
-      "source": "https://www.whitewaterrocks.com/upcoming-shows",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-08-15",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Tasman Sharp",
-      "time": "11am",
-      "ticket": "https://gruenehall.com/event/tasman-sharp-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-08-15",
       "venue": "Shopping with Siobhain",
@@ -113,18 +29,6 @@
       "source": "https://business.comfortchamber.com/calendar",
       "price": "Free",
       "group": "Comfort"
-    },
-    {
-      "date": "2026-08-15",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "John Del Toro Richardson",
-      "time": "1pm",
-      "ticket": "https://gruenehall.com/event/john-del-toro-richardson-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-08-15",
@@ -152,18 +56,6 @@
     },
     {
       "date": "2026-08-15",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Big Shot – A Billy Joel Experience at Singing Water Vineyards",
-      "time": "6pm",
-      "ticket": "https://theboernelife.com/events/big-shot-a-billy-joel-experience-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-08-15",
       "venue": "Tapatio Springs Resort",
       "area": "Boerne",
       "category": "Music",
@@ -173,30 +65,6 @@
       "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
       "price": "Free",
       "group": "Boerne"
-    },
-    {
-      "date": "2026-08-15",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-08-15/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-08-15",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "The Texases at Stable Hall",
-      "time": "7pm",
-      "ticket": "https://events.atpearl.com/event/the-texases-at-stable-hall/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-08-15",
@@ -233,30 +101,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-15",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Farmers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/farmers-market/2026-08-15/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-15",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Mike Ryan",
-      "time": "9pm",
-      "ticket": "https://gruenehall.com/event/mike-ryan-5/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-08-15",
@@ -956,6 +800,18 @@
     },
     {
       "date": "2026-08-29",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Flat Top Jones",
+      "time": "1pm",
+      "ticket": "https://gruenehall.com/event/flat-top-jones-49/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-08-29",
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
       "category": "Music",
@@ -1016,6 +872,18 @@
     },
     {
       "date": "2026-08-29",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Micky & The Motorcars",
+      "time": "8pm",
+      "ticket": "https://gruenehall.com/event/micky-the-motorcars-4/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-08-29",
       "venue": "Whitewater Amphitheater",
       "area": "New Braunfels",
       "category": "Music",
@@ -1024,6 +892,18 @@
       "ticket": "https://www.tixr.com/groups/whitewaterrocks/events/dylan-gossett-charles-wesley-godwin-188477",
       "source": "https://www.whitewaterrocks.com/upcoming-shows",
       "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-08-30",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Michael Monroe Goodman",
+      "time": "11:30am",
+      "ticket": "https://gruenehall.com/event/michael-monroe-goodman-23/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
       "group": "Gruene / New Braunfels"
     },
     {
@@ -1490,6 +1370,18 @@
       "act": "RICKY SKAGGS & KENTUCKY THUNDER",
       "time": "7:30pm",
       "ticket": "https://brauntex.org/event/ricky-skaggs-kentucky-thunder/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-30",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "The High Kings - Rocky Road To Dublin",
+      "time": "7:30pm",
+      "ticket": "https://brauntex.org/event/the-high-kings-rocky-road-to-dublin/",
       "source": "https://brauntex.org/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
