@@ -1,131 +1,11 @@
 {
-  "generated": "2026-08-16T11:23:54",
+  "generated": "2026-08-17T11:30:05",
   "window": {
-    "start": "2026-08-15",
-    "end": "2026-09-30"
+    "start": "2026-08-16",
+    "end": "2026-10-01"
   },
-  "count": 115,
+  "count": 107,
   "events": [
-    {
-      "date": "2026-08-15",
-      "venue": "Shopping with Siobhain",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Charlie Kelley",
-      "time": "12:00pm-3:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/live-music-at-shopping-with-siobhain-1873260?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-08-15",
-      "venue": "Bending Branch Winery",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Cousins Maine Lobster Food Truck",
-      "time": "12:00pm-7:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/cousins-maine-lobster-at-bending-branch-1873827?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-08-15",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Saturday Live Music: Noah Kurtis",
-      "time": "6:00pm",
-      "ticket": "https://www.freeroambrewing.com/events/live-music---noah-kurtis-3",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-08-15",
-      "venue": "Cocky Rooster Bar",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Barnyard Bingo/Queen of Hearts",
-      "time": "6:00pm-8:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/barnyard-bingo-queen-of-hearts-cocky-rooster-1881507?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-08-15",
-      "venue": "Tapatio Springs Resort",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Sierra Lynn (La Cascada patio)",
-      "time": "7:00pm",
-      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-08-15",
-      "venue": "Cocky Rooster Bar",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Lan (acoustic set)",
-      "time": "8:00pm-11:59pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/lan-cocky-rooster-1881511?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-08-15",
-      "venue": "John T. Floore's Country Store",
-      "area": "Helotes",
-      "category": "Music",
-      "act": "Jon Wolfe",
-      "time": "8:30pm (Doors 7:00)",
-      "ticket": "https://www.prekindle.com/event/99453-jon-wolfe-helotes",
-      "source": "https://www.prekindle.com/events/john-t-floores-country-store",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-15",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "POISON I.V. - Texas' Premier POISON Tribute Band with 3Troit Rock City",
-      "time": "8:30pm (Doors 7:30)",
-      "ticket": "https://wl.seetickets.us/event/poison-iv-texas-premier-poison-tribute-band/696318?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-15",
-      "venue": "Whitewater Amphitheater",
-      "area": "New Braunfels",
-      "category": "Music",
-      "act": "Hudson Westbrook (Night 2) w/ Kolby Cooper, Carson Jeffrey",
-      "time": "TBA",
-      "ticket": "https://www.tixr.com/groups/whitewaterrocks/events/hudson-westbrook-night-2--181562",
-      "source": "https://www.whitewaterrocks.com/upcoming-shows",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-08-16",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Linda Gail Lewis",
-      "time": "11:30am",
-      "ticket": "https://gruenehall.com/event/linda-gail-lewis-16/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-08-16",
       "venue": "Shopping with Siobhain",
@@ -140,18 +20,6 @@
     },
     {
       "date": "2026-08-16",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Jesse Stratton",
-      "time": "3pm",
-      "ticket": "https://gruenehall.com/event/jesse-stratton/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-08-16",
       "venue": "John T. Floore's Country Store",
       "area": "Helotes",
       "category": "Music",
@@ -160,30 +28,6 @@
       "ticket": "https://www.prekindle.com/event/37272-dine-and-dance-free-all-ages-helotes",
       "source": "https://www.prekindle.com/events/john-t-floores-country-store",
       "price": "Free",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-16",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Lee Mathis & The Brutally Handsome",
-      "time": "6:30pm",
-      "ticket": "https://gruenehall.com/event/lee-mathis-the-brutally-handsome-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-08-16",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Makers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/makers-market-5-2-2/2026-08-16/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
       "group": "Hill Country / N. San Antonio"
     },
     {
@@ -520,6 +364,18 @@
       "ticket": "https://www.prekindle.com/event/87357-kat-hasty-helotes",
       "source": "https://www.prekindle.com/events/john-t-floores-country-store",
       "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-22",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Farmers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/farmers-market/2026-08-22/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
       "group": "Hill Country / N. San Antonio"
     },
     {
@@ -908,6 +764,30 @@
     },
     {
       "date": "2026-08-30",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Red Iron Push",
+      "time": "3pm",
+      "ticket": "https://gruenehall.com/event/red-iron-push-22/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-08-30",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Tasman Sharp & The Ripsnorters",
+      "time": "6:30pm",
+      "ticket": "https://gruenehall.com/event/tasman-sharp-the-ripsnorters-4/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-08-30",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -917,6 +797,18 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-31",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Bret Graham",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/bret-graham-145/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-09-03",
@@ -1382,6 +1274,18 @@
       "act": "The High Kings - Rocky Road To Dublin",
       "time": "7:30pm",
       "ticket": "https://brauntex.org/event/the-high-kings-rocky-road-to-dublin/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-01",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "KATHY MATTEA",
+      "time": "7:30pm",
+      "ticket": "https://brauntex.org/event/kathy-mattea/",
       "source": "https://brauntex.org/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
