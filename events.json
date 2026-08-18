@@ -1,35 +1,11 @@
 {
-  "generated": "2026-08-17T11:30:05",
+  "generated": "2026-08-18T11:29:14",
   "window": {
-    "start": "2026-08-16",
-    "end": "2026-10-01"
+    "start": "2026-08-17",
+    "end": "2026-10-02"
   },
-  "count": 107,
+  "count": 106,
   "events": [
-    {
-      "date": "2026-08-16",
-      "venue": "Shopping with Siobhain",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Chicken Sh*t Bingo (with live music)",
-      "time": "3:00pm-6:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/chicken-sh-t-bingo-at-shopping-with-siobhain-1695482?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-08-16",
-      "venue": "John T. Floore's Country Store",
-      "area": "Helotes",
-      "category": "Music",
-      "act": "Dine and Dance (Free, All Ages)",
-      "time": "4:00pm (Doors 3:00)",
-      "ticket": "https://www.prekindle.com/event/37272-dine-and-dance-free-all-ages-helotes",
-      "source": "https://www.prekindle.com/events/john-t-floores-country-store",
-      "price": "Free",
-      "group": "Hill Country / N. San Antonio"
-    },
     {
       "date": "2026-08-17",
       "venue": "Gruene Hall",
@@ -1289,6 +1265,18 @@
       "source": "https://brauntex.org/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-02",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-10-02/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
     }
   ]
 }
