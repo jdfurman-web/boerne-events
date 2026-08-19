@@ -1,59 +1,11 @@
 {
-  "generated": "2026-08-18T11:29:14",
+  "generated": "2026-08-19T11:29:15",
   "window": {
-    "start": "2026-08-17",
-    "end": "2026-10-02"
+    "start": "2026-08-18",
+    "end": "2026-10-03"
   },
-  "count": 106,
+  "count": 105,
   "events": [
-    {
-      "date": "2026-08-17",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Bret Graham",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/bret-graham-144/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-08-17",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Lindsay Beaver Duo",
-      "time": "8:30pm",
-      "ticket": "https://gruenehall.com/event/lindsay-beaver-duo-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-08-18",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Jordan Minor",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/jordan-minor-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-08-18",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Slim Bawb",
-      "time": "8:30pm",
-      "ticket": "https://gruenehall.com/event/slim-bawb-9/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-08-19",
       "venue": "Shopping with Siobhain",
@@ -412,6 +364,18 @@
       "ticket": "https://wl.seetickets.us/event/electric-ramble/695030?afflky=SamsBurgerJointSanAntonio",
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-23",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Makers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/makers-market-5-2-2/2026-08-23/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
       "group": "Hill Country / N. San Antonio"
     },
     {
@@ -1274,6 +1238,30 @@
       "act": "Live Music at The Bevy Hotel",
       "time": "7pm",
       "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-10-02/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-10-03",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Dreams – A Tribute to Fleetwood Mac at Singing Water Vineyards",
+      "time": "6pm",
+      "ticket": "https://theboernelife.com/events/dreams-a-tribute-to-fleetwood-mac-at-singing-water-vineyards-2/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-10-03",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-10-03/",
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
