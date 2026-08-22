@@ -1,47 +1,11 @@
 {
-  "generated": "2026-08-21T11:30:55",
+  "generated": "2026-08-22T11:24:40",
   "window": {
-    "start": "2026-08-20",
-    "end": "2026-10-05"
+    "start": "2026-08-21",
+    "end": "2026-10-06"
   },
-  "count": 98,
+  "count": 103,
   "events": [
-    {
-      "date": "2026-08-20",
-      "venue": "Bending Branch Winery",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Potluck Night (Heat Free Feast theme)",
-      "time": "6:00pm-8:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/potluck-night-at-bending-branch-1881750?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-08-20",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "The Joe Panther Band",
-      "time": "8:00pm (Doors 7:00)",
-      "ticket": "https://wl.seetickets.us/event/the-joe-panther-band/696721?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-21",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Friday Afternoon Club",
-      "time": "4pm",
-      "ticket": "https://gruenehall.com/event/friday-afternoon-club-13/2026-08-21/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-08-21",
       "venue": "Free Roam Brewing Company",
@@ -68,18 +32,6 @@
     },
     {
       "date": "2026-08-21",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-08-21/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-08-21",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -89,18 +41,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-21",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Roger Clyne & The Peacemakers",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/roger-clyne-the-peacemakers/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-08-21",
@@ -799,6 +739,18 @@
       "group": "Hill Country / N. San Antonio"
     },
     {
+      "date": "2026-09-07",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Anthony Garcia at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/anthony-garcia-at-singing-water-vineyards-2/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
       "date": "2026-09-08",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
@@ -920,6 +872,18 @@
     },
     {
       "date": "2026-09-12",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Bill Goodge at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/bill-goodge-at-singing-water-vineyards-3/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-09-12",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -929,6 +893,18 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-09-12",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Festival/Market",
+      "act": "A Brilliant Celebration of Rod “The Mod” Stewart at Singing Water Vineyards",
+      "time": "6pm",
+      "ticket": "https://theboernelife.com/events/a-brilliant-celebration-of-rod-the-mod-stewart-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
     },
     {
       "date": "2026-09-12",
@@ -953,6 +929,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-09-13",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Andi Holleman at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/andi-holleman-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
     },
     {
       "date": "2026-09-13",
@@ -1004,6 +992,30 @@
     },
     {
       "date": "2026-09-19",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "John Prather at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/john-prather-at-singing-water-vineyards-2/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-09-19",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Chris Cuevas at Singing Water Vineyards",
+      "time": "5pm",
+      "ticket": "https://theboernelife.com/events/chris-cuevas-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-09-19",
       "venue": "Tapatio Springs Resort",
       "area": "Boerne",
       "category": "Music",
@@ -1052,6 +1064,18 @@
     },
     {
       "date": "2026-09-20",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Dave Kemp at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/dave-kemp-at-singing-water-vineyards-3/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-09-20",
       "venue": "Shopping with Siobhain",
       "area": "Comfort",
       "category": "Festival/Market",
@@ -1088,6 +1112,30 @@
     },
     {
       "date": "2026-09-26",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Andy Garcia at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/andy-garcia-at-singing-water-vineyards-3/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Hunter Billingsley at Singing Water Vineyards",
+      "time": "5pm",
+      "ticket": "https://theboernelife.com/events/hunter-billingsley-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-09-26",
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
       "category": "Music",
@@ -1109,6 +1157,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-09-27",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "NAVA at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/nava-at-singing-water-vineyards-3/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
     },
     {
       "date": "2026-09-27",
