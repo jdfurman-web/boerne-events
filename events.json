@@ -1,95 +1,11 @@
 {
-  "generated": "2026-08-22T11:24:40",
+  "generated": "2026-08-23T11:24:31",
   "window": {
-    "start": "2026-08-21",
-    "end": "2026-10-06"
+    "start": "2026-08-22",
+    "end": "2026-10-07"
   },
-  "count": 103,
+  "count": 93,
   "events": [
-    {
-      "date": "2026-08-21",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Friday Live Music: Josh Flores",
-      "time": "6:00pm",
-      "ticket": "https://www.freeroambrewing.com/events/friday-live-music---josh-flores",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-08-21",
-      "venue": "Tapatio Springs Resort",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Anthony Wright (La Cascada patio)",
-      "time": "7:00pm",
-      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-08-21",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "John Baumann with Hayes Duffy",
-      "time": "8:30pm (Doors 7:30)",
-      "ticket": "https://wl.seetickets.us/event/john-baumann/696821?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-21",
-      "venue": "Whitewater Amphitheater",
-      "area": "New Braunfels",
-      "category": "Music",
-      "act": "HARDY: The Country! Country! Tour w/ Jake Worthington, McCoy Moore",
-      "time": "TBA",
-      "ticket": "https://www.tixr.com/groups/whitewaterrocks/events/hardy-the-country-country-tour--160204",
-      "source": "https://www.whitewaterrocks.com/upcoming-shows",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-08-22",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Jamie Cameron",
-      "time": "11am",
-      "ticket": "https://gruenehall.com/event/jamie-cameron-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-08-22",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Jake Penrod",
-      "time": "1pm",
-      "ticket": "https://gruenehall.com/event/jake-penrod-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-08-22",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Noah Kurtis at Singing Water Vineyards",
-      "time": "5pm",
-      "ticket": "https://theboernelife.com/events/noah-kurtis-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
     {
       "date": "2026-08-22",
       "venue": "Free Roam Brewing Company",
@@ -116,18 +32,6 @@
     },
     {
       "date": "2026-08-22",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-08-22/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-08-22",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -149,30 +53,6 @@
       "source": "https://www.prekindle.com/events/john-t-floores-country-store",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-22",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Farmers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/farmers-market/2026-08-22/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-22",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Scotty Alexander",
-      "time": "9pm",
-      "ticket": "https://gruenehall.com/event/scotty-alexander-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-08-23",
