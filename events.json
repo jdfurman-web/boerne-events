@@ -1,23 +1,11 @@
 {
-  "generated": "2026-08-25T11:32:40",
+  "generated": "2026-08-26T11:33:35",
   "window": {
-    "start": "2026-08-24",
-    "end": "2026-10-09"
+    "start": "2026-08-25",
+    "end": "2026-10-10"
   },
-  "count": 87,
+  "count": 88,
   "events": [
-    {
-      "date": "2026-08-25",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Owen Stroud",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/owen-stroud-5/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-08-25",
       "venue": "Sam's Burger Joint",
@@ -376,6 +364,18 @@
       "ticket": "https://wl.seetickets.us/event/sam-williams/690859?afflky=SamsBurgerJointSanAntonio",
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-08-30",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Makers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/makers-market-5-2-2/2026-08-30/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
       "group": "Hill Country / N. San Antonio"
     },
     {
@@ -1046,6 +1046,18 @@
       "act": "Live Music at The Bevy Hotel",
       "time": "7pm",
       "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-10-09/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-10-10",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-10-10/",
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
