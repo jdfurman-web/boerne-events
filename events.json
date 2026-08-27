@@ -1,23 +1,11 @@
 {
-  "generated": "2026-08-26T11:33:35",
+  "generated": "2026-08-27T20:56:23",
   "window": {
-    "start": "2026-08-25",
-    "end": "2026-10-10"
+    "start": "2026-08-26",
+    "end": "2026-10-11"
   },
-  "count": 88,
+  "count": 86,
   "events": [
-    {
-      "date": "2026-08-25",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Live and Local with 210 Jazz Orchestra",
-      "time": "7:30pm (Doors 6:30)",
-      "ticket": "https://wl.seetickets.us/event/live-and-local-with-210-jazz-orchestra/698895?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
     {
       "date": "2026-08-26",
       "venue": "Sam's Burger Joint",
@@ -41,18 +29,6 @@
       "source": "https://www.freeroambrewing.com/events",
       "price": "Free",
       "group": "Boerne"
-    },
-    {
-      "date": "2026-08-26",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "The Georges",
-      "time": "7pm",
-      "ticket": "https://gruenehall.com/event/the-georges-108/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-08-27",
