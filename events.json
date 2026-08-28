@@ -1,35 +1,11 @@
 {
-  "generated": "2026-08-27T20:56:23",
+  "generated": "2026-08-28T21:19:54",
   "window": {
-    "start": "2026-08-26",
-    "end": "2026-10-11"
+    "start": "2026-08-27",
+    "end": "2026-10-12"
   },
-  "count": 86,
+  "count": 83,
   "events": [
-    {
-      "date": "2026-08-26",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Ken Slavin's Swingin' Birthday Bash",
-      "time": "7:00pm (Doors 6:00)",
-      "ticket": "https://wl.seetickets.us/event/ken-slavins-swingin-birthday-bash/696865?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-26",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Flatbed Summer Concert Series: Caleb Young",
-      "time": "7:30pm",
-      "ticket": "https://www.freeroambrewing.com/events/flatbed-summer-concert-series--caleb-young",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
     {
       "date": "2026-08-27",
       "venue": "Bending Branch Winery",
@@ -65,18 +41,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-27",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Tristan Roberson",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/radney-foster-band-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-08-28",
@@ -155,7 +119,7 @@
       "venue": "The Pearl",
       "area": "San Antonio – Pearl",
       "category": "Music",
-      "act": "It&rsquo;s A 2000s Party at Stable Hall",
+      "act": "It’s A 2000s Party at Stable Hall",
       "time": "8pm",
       "ticket": "https://events.atpearl.com/event/its-a-2000s-party-at-stable-hall/",
       "source": "https://events.atpearl.com/events/",
