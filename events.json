@@ -1,59 +1,11 @@
 {
-  "generated": "2026-08-28T21:19:54",
+  "generated": "2026-08-29T15:32:58",
   "window": {
-    "start": "2026-08-27",
-    "end": "2026-10-12"
+    "start": "2026-08-28",
+    "end": "2026-10-13"
   },
-  "count": 83,
+  "count": 76,
   "events": [
-    {
-      "date": "2026-08-27",
-      "venue": "Bending Branch Winery",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Potluck Night (College Survival Meals theme)",
-      "time": "6:00pm-8:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/potluck-night-at-bending-branch-1881756?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-08-27",
-      "venue": "Shopping with Siobhain",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Steak Night Social (with live music)",
-      "time": "6:00pm-9:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/steak-night-social-at-shopping-with-siobhain-1695470?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-08-27",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Eric Johanson",
-      "time": "8:00pm (Doors 7:00)",
-      "ticket": "https://wl.seetickets.us/event/eric-johanson/694019?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-28",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Friday Afternoon Club",
-      "time": "4pm",
-      "ticket": "https://gruenehall.com/event/friday-afternoon-club-13/2026-08-28/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-08-28",
       "venue": "Free Roam Brewing Company",
@@ -80,30 +32,6 @@
     },
     {
       "date": "2026-08-28",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Jesse Raub Jr. & Jenna Paulette",
-      "time": "7:45pm",
-      "ticket": "https://gruenehall.com/event/jesse-raub-jr-jenna-paulette-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-08-28",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-08-28/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-08-28",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -112,18 +40,6 @@
       "ticket": "https://wl.seetickets.us/event/testify-rage-against-the-machine-tribute/695225?afflky=SamsBurgerJointSanAntonio",
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-28",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "It’s A 2000s Party at Stable Hall",
-      "time": "8pm",
-      "ticket": "https://events.atpearl.com/event/its-a-2000s-party-at-stable-hall/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
       "group": "Hill Country / N. San Antonio"
     },
     {
