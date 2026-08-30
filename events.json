@@ -1,59 +1,11 @@
 {
-  "generated": "2026-08-29T15:32:58",
+  "generated": "2026-08-30T15:16:42",
   "window": {
-    "start": "2026-08-28",
-    "end": "2026-10-13"
+    "start": "2026-08-29",
+    "end": "2026-10-14"
   },
-  "count": 76,
+  "count": 69,
   "events": [
-    {
-      "date": "2026-08-28",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Friday Live Music: Andi Holleman",
-      "time": "6:00pm",
-      "ticket": "https://www.freeroambrewing.com/events/friday-live-music--andi-holleman",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-08-28",
-      "venue": "Tapatio Springs Resort",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Richie Bustillo (La Cascada patio)",
-      "time": "7:00pm",
-      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-08-28",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "TESTIFY - Rage Against The Machine Tribute + REANIMATION - Tribute to Linkin Park",
-      "time": "8:30pm (Doors 7:30)",
-      "ticket": "https://wl.seetickets.us/event/testify-rage-against-the-machine-tribute/695225?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-29",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Justin Upshaw",
-      "time": "11am",
-      "ticket": "https://gruenehall.com/event/justin-upshaw/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-08-29",
       "venue": "Shopping with Siobhain",
@@ -64,30 +16,6 @@
       "ticket": "https://business.comfortchamber.com/calendar/Details/live-music-at-shopping-with-siobhain-1873265?sourceTypeId=Website",
       "source": "https://business.comfortchamber.com/calendar",
       "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-08-29",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Flat Top Jones",
-      "time": "1pm",
-      "ticket": "https://gruenehall.com/event/flat-top-jones-49/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-08-29",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Jaime Varela at Singing Water Vineyards",
-      "time": "5pm",
-      "ticket": "https://theboernelife.com/events/jaime-varela-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
       "group": "Comfort"
     },
     {
@@ -116,18 +44,6 @@
     },
     {
       "date": "2026-08-29",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-08-29/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-08-29",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -136,30 +52,6 @@
       "ticket": "https://wl.seetickets.us/event/skyrocket/693825?afflky=SamsBurgerJointSanAntonio",
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-29",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Micky & The Motorcars",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/micky-the-motorcars-4/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-08-29",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Farmers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/farmers-market/2026-08-29/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
       "group": "Hill Country / N. San Antonio"
     },
     {
@@ -352,6 +244,18 @@
       "ticket": "https://wl.seetickets.us/event/san-and-tone-pilots-a-stone-temple-pilots-tribute-band/699242?afflky=SamsBurgerJointSanAntonio",
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-09-05",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Farmers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/farmers-market/2026-09-05/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
       "group": "Hill Country / N. San Antonio"
     },
     {
@@ -914,6 +818,18 @@
       "act": "Live Music at The Bevy Hotel",
       "time": "7pm",
       "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-10-10/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-10-14",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Boerne “Thrive After 55” Senior Expo at The Bevy Hotel",
+      "time": "9am",
+      "ticket": "https://theboernelife.com/events/boerne-thrive-after-55-senior-expo-at-the-bevy-hotel/",
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
