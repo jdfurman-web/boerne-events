@@ -1,107 +1,11 @@
 {
-  "generated": "2026-08-30T15:16:42",
+  "generated": "2026-08-31T17:57:16",
   "window": {
-    "start": "2026-08-29",
-    "end": "2026-10-14"
+    "start": "2026-08-30",
+    "end": "2026-10-15"
   },
-  "count": 69,
+  "count": 62,
   "events": [
-    {
-      "date": "2026-08-29",
-      "venue": "Shopping with Siobhain",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Just Us Duo",
-      "time": "12:00pm-3:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/live-music-at-shopping-with-siobhain-1873265?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-08-29",
-      "venue": "Free Roam Brewing Company",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Saturday Live Music: Andy Garcia",
-      "time": "6:00pm",
-      "ticket": "https://www.freeroambrewing.com/events/saturday-live-music---andy-garcia",
-      "source": "https://www.freeroambrewing.com/events",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-08-29",
-      "venue": "Tapatio Springs Resort",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Hunter Billingsley (La Cascada patio)",
-      "time": "7:00pm",
-      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-08-29",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "SKYROCKET!",
-      "time": "8:30pm (Doors 7:30)",
-      "ticket": "https://wl.seetickets.us/event/skyrocket/693825?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-29",
-      "venue": "Whitewater Amphitheater",
-      "area": "New Braunfels",
-      "category": "Music",
-      "act": "Dylan Gossett & Charles Wesley Godwin w/ Max Alan",
-      "time": "TBA",
-      "ticket": "https://www.tixr.com/groups/whitewaterrocks/events/dylan-gossett-charles-wesley-godwin-188477",
-      "source": "https://www.whitewaterrocks.com/upcoming-shows",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-08-30",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Michael Monroe Goodman",
-      "time": "11:30am",
-      "ticket": "https://gruenehall.com/event/michael-monroe-goodman-23/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-08-30",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Red Iron Push",
-      "time": "3pm",
-      "ticket": "https://gruenehall.com/event/red-iron-push-22/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-08-30",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Tasman Sharp & The Ripsnorters",
-      "time": "6:30pm",
-      "ticket": "https://gruenehall.com/event/tasman-sharp-the-ripsnorters-4/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-08-30",
       "venue": "Sam's Burger Joint",
@@ -112,18 +16,6 @@
       "ticket": "https://wl.seetickets.us/event/sam-williams/690859?afflky=SamsBurgerJointSanAntonio",
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-08-30",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Makers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/makers-market-5-2-2/2026-08-30/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
       "group": "Hill Country / N. San Antonio"
     },
     {
@@ -280,6 +172,18 @@
       "ticket": "https://wl.seetickets.us/event/bros-inc-with-ruben-v-and-jimmy-spacek/700626?afflky=SamsBurgerJointSanAntonio",
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-09-06",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Makers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/makers-market-5-2-2/2026-09-06/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
       "group": "Hill Country / N. San Antonio"
     },
     {
@@ -833,6 +737,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-10-15",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "HOME FREE",
+      "time": "7:30pm",
+      "ticket": "https://brauntex.org/event/home-free/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
     }
   ]
 }
