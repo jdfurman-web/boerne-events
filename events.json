@@ -1,23 +1,11 @@
 {
-  "generated": "2026-09-01T15:26:14",
+  "generated": "2026-09-02T15:01:09",
   "window": {
-    "start": "2026-08-31",
-    "end": "2026-10-16"
+    "start": "2026-09-01",
+    "end": "2026-10-17"
   },
-  "count": 88,
+  "count": 90,
   "events": [
-    {
-      "date": "2026-09-01",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Chris Ruest",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/chris-ruest-13/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-09-02",
       "venue": "Gruene Hall",
@@ -692,6 +680,18 @@
     },
     {
       "date": "2026-09-13",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Case Hardin",
+      "time": "6:30pm",
+      "ticket": "https://gruenehall.com/event/case-hardin-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-13",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -1061,6 +1061,30 @@
       "source": "https://brauntex.org/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-16",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-10-16/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-10-17",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-10-17/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
     }
   ]
 }
