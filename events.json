@@ -1,23 +1,11 @@
 {
-  "generated": "2026-09-02T15:01:09",
+  "generated": "2026-09-03T14:55:38",
   "window": {
-    "start": "2026-09-01",
-    "end": "2026-10-17"
+    "start": "2026-09-02",
+    "end": "2026-10-18"
   },
   "count": 90,
   "events": [
-    {
-      "date": "2026-09-02",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "The Roughstock",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/the-roughstock-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-09-03",
       "venue": "Gruene Hall",
@@ -703,6 +691,18 @@
       "group": "Hill Country / N. San Antonio"
     },
     {
+      "date": "2026-09-14",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Tony Taylor",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/tony-taylor-3/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
       "date": "2026-09-18",
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
@@ -935,7 +935,7 @@
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
       "category": "Theater/Arts",
-      "act": "The High Kings - Rocky Road To Dublin",
+      "act": "The High Kings - Rocky Road To Dublin - 2026 Tour",
       "time": "7:30pm",
       "ticket": "https://brauntex.org/event/the-high-kings-rocky-road-to-dublin/",
       "source": "https://brauntex.org/events/",
