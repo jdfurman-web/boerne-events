@@ -1,23 +1,11 @@
 {
-  "generated": "2026-09-03T14:55:38",
+  "generated": "2026-09-04T14:52:23",
   "window": {
-    "start": "2026-09-02",
-    "end": "2026-10-18"
+    "start": "2026-09-03",
+    "end": "2026-10-19"
   },
-  "count": 90,
+  "count": 91,
   "events": [
-    {
-      "date": "2026-09-03",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Lane Bricker",
-      "time": "7pm",
-      "ticket": "https://gruenehall.com/event/lane-bricker-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-09-03",
       "venue": "Sam's Burger Joint",
@@ -29,18 +17,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-09-03",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Bubba Westly",
-      "time": "8:30pm",
-      "ticket": "https://gruenehall.com/event/bubba-westly-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-09-04",
@@ -698,6 +674,42 @@
       "act": "Tony Taylor",
       "time": "6pm",
       "ticket": "https://gruenehall.com/event/tony-taylor-3/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-15",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Josh Baca & The Hot Tamales",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/josh-baca-the-hot-tamales-16/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-16",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Mark Allan Atwood",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/mark-allan-atwood/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-17",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Jesse Joe & The 96ers",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/jesse-joe-the-96ers/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
