@@ -1,47 +1,11 @@
 {
-  "generated": "2026-09-04T14:52:23",
+  "generated": "2026-09-05T13:47:05",
   "window": {
-    "start": "2026-09-03",
-    "end": "2026-10-19"
+    "start": "2026-09-04",
+    "end": "2026-10-20"
   },
-  "count": 91,
+  "count": 90,
   "events": [
-    {
-      "date": "2026-09-03",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Marfa (Acoustic Duo)",
-      "time": "8:00pm (Doors 7:00)",
-      "ticket": "https://wl.seetickets.us/event/marfa/700936?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-09-04",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Randall Armstrong",
-      "time": "12pm",
-      "ticket": "https://gruenehall.com/event/randall-armstrong/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-04",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Friday Afternoon Club",
-      "time": "4pm",
-      "ticket": "https://gruenehall.com/event/friday-afternoon-club-13/2026-09-04/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-09-04",
       "venue": "Tapatio Springs Resort",
@@ -56,18 +20,6 @@
     },
     {
       "date": "2026-09-04",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-09-04/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-09-04",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -77,18 +29,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-09-04",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Dallas Burrow and West Texas Exiles",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/dallas-burrow-and-west-texas-exiles/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-09-05",
@@ -365,6 +305,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-09",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "Gabriella Martinez at Stable Hall",
+      "time": "7pm",
+      "ticket": "https://events.atpearl.com/event/gabriella-martinez-at-stable-hall/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-09-09",
@@ -716,6 +668,18 @@
     },
     {
       "date": "2026-09-18",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Friday Afternoon Club",
+      "time": "4pm",
+      "ticket": "https://gruenehall.com/event/friday-afternoon-club-13/2026-09-18/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-18",
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
       "category": "Theater/Arts",
@@ -749,6 +713,30 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-09-18",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Blue Water Highway",
+      "time": "8pm",
+      "ticket": "https://gruenehall.com/event/blue-water-highway-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-19",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Lindsay Beaver",
+      "time": "11am",
+      "ticket": "https://gruenehall.com/event/lindsay-beaver-14/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-09-19",
