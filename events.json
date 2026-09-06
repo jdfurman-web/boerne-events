@@ -1,83 +1,11 @@
 {
-  "generated": "2026-09-05T13:47:05",
+  "generated": "2026-09-06T14:02:35",
   "window": {
-    "start": "2026-09-04",
-    "end": "2026-10-20"
+    "start": "2026-09-05",
+    "end": "2026-10-21"
   },
-  "count": 90,
+  "count": 85,
   "events": [
-    {
-      "date": "2026-09-04",
-      "venue": "Tapatio Springs Resort",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Jaime Valera (La Cascada patio)",
-      "time": "7:00pm",
-      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-09-04",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Anything Box & Boys Don't Cry: A Cure Experience with DJ Rice Cube",
-      "time": "8:00pm (Doors 7:00)",
-      "ticket": "https://wl.seetickets.us/event/anything-box-and-boys-dont-cry-a-cure-experience/683620?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-09-05",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Dani LaCour",
-      "time": "11am",
-      "ticket": "https://gruenehall.com/event/dani-lacour-4/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-05",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Donice Morace",
-      "time": "1pm",
-      "ticket": "https://gruenehall.com/event/donice-morace-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-05",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "April Hall Duo at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/april-hall-duo-at-singing-water-vineyards-2/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-09-05",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Philip Smith at Singing Water Vineyards",
-      "time": "5pm",
-      "ticket": "https://theboernelife.com/events/philip-smith-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
     {
       "date": "2026-09-05",
       "venue": "Tapatio Springs Resort",
@@ -92,18 +20,6 @@
     },
     {
       "date": "2026-09-05",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-09-05/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-09-05",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -112,30 +28,6 @@
       "ticket": "https://wl.seetickets.us/event/san-and-tone-pilots-a-stone-temple-pilots-tribute-band/699242?afflky=SamsBurgerJointSanAntonio",
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-09-05",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Jason Boland & The Stragglers: Camino Real with Special Guests",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/jason-boland-the-stragglers-camino-real-with-special-guests/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-05",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Farmers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/farmers-market/2026-09-05/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
       "group": "Hill Country / N. San Antonio"
     },
     {
@@ -365,6 +257,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-10",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "An Evening with Drink the Sea at Stable Hall",
+      "time": "7pm",
+      "ticket": "https://events.atpearl.com/event/an-evening-with-drink-the-sea-at-stable-hall/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-09-10",
@@ -740,6 +644,18 @@
     },
     {
       "date": "2026-09-19",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Flat Top Jones",
+      "time": "1pm",
+      "ticket": "https://gruenehall.com/event/flat-top-jones-50/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-19",
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
       "category": "Music",
@@ -809,6 +725,30 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-09-19",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Sunny Sweeney w/ special guest Brit Taylor",
+      "time": "9pm",
+      "ticket": "https://gruenehall.com/event/sunny-sweeney-w-special-guest-brit-taylor/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-20",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Malford Milligan",
+      "time": "11:30am",
+      "ticket": "https://gruenehall.com/event/malford-milligan-6/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-09-20",
