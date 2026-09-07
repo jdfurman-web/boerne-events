@@ -1,71 +1,11 @@
 {
-  "generated": "2026-09-06T14:02:35",
+  "generated": "2026-09-07T16:19:51",
   "window": {
-    "start": "2026-09-05",
-    "end": "2026-10-21"
+    "start": "2026-09-06",
+    "end": "2026-10-22"
   },
-  "count": 85,
+  "count": 83,
   "events": [
-    {
-      "date": "2026-09-05",
-      "venue": "Tapatio Springs Resort",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Sierra Lynn (La Cascada patio)",
-      "time": "7:00pm",
-      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-09-05",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "San & Tone Pilots - A Stone Temple Pilots Tribute Band with Three Legged Dog (Alice in Chains Tribute)",
-      "time": "8:30pm (Doors 7:30)",
-      "ticket": "https://wl.seetickets.us/event/san-and-tone-pilots-a-stone-temple-pilots-tribute-band/699242?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-09-06",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Oscar Ornelas",
-      "time": "11:30am",
-      "ticket": "https://gruenehall.com/event/oscar-ornelous/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-06",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Chris Lopez at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/chris-lopez-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-09-06",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Dylan Rhys",
-      "time": "3pm",
-      "ticket": "https://gruenehall.com/event/dylan-rhys-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-09-06",
       "venue": "Sam's Burger Joint",
@@ -76,30 +16,6 @@
       "ticket": "https://wl.seetickets.us/event/bros-inc-with-ruben-v-and-jimmy-spacek/700626?afflky=SamsBurgerJointSanAntonio",
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-09-06",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Jason Boland & The Stragglers: Camino Real with Special Guests",
-      "time": "7pm",
-      "ticket": "https://gruenehall.com/event/jason-boland-the-stragglers-camino-real-with-special-guests-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-06",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Makers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/makers-market-5-2-2/2026-09-06/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
       "group": "Hill Country / N. San Antonio"
     },
     {
@@ -344,6 +260,18 @@
     },
     {
       "date": "2026-09-11",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "Bodeans at Stable Hall",
+      "time": "7pm",
+      "ticket": "https://events.atpearl.com/event/bodeans-at-stable-hall/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-09-11",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -449,6 +377,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-09-12",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Farmers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/farmers-market/2026-09-12/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-09-12",
@@ -773,6 +713,42 @@
       "source": "https://business.comfortchamber.com/calendar",
       "price": "Free",
       "group": "Comfort"
+    },
+    {
+      "date": "2026-09-20",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Eric Demmer Band",
+      "time": "3pm",
+      "ticket": "https://gruenehall.com/event/eric-demmer-band-20/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-20",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Soul Sessions",
+      "time": "6:30pm",
+      "ticket": "https://gruenehall.com/event/soul-sessions-20/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-21",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Bret Graham",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/bret-graham-147/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-09-24",
