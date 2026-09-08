@@ -1,71 +1,11 @@
 {
-  "generated": "2026-09-07T16:19:51",
+  "generated": "2026-09-08T15:00:17",
   "window": {
-    "start": "2026-09-06",
-    "end": "2026-10-22"
+    "start": "2026-09-07",
+    "end": "2026-10-23"
   },
   "count": 83,
   "events": [
-    {
-      "date": "2026-09-06",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Bros Inc with Ruben V & Jimmy Spacek",
-      "time": "6:00pm (Doors 5:00)",
-      "ticket": "https://wl.seetickets.us/event/bros-inc-with-ruben-v-and-jimmy-spacek/700626?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-09-07",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Jackson Avenue Band",
-      "time": "11am",
-      "ticket": "https://gruenehall.com/event/jackson-avenue-band-5/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-07",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Anthony Garcia at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/anthony-garcia-at-singing-water-vineyards-2/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-09-07",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Sarah & The Hired Help",
-      "time": "2:30pm",
-      "ticket": "https://gruenehall.com/event/sarah-the-hired-help/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-07",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Chris Cunningham",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/chris-cunningham-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-09-08",
       "venue": "Gruene Hall",
@@ -751,6 +691,30 @@
       "group": "Gruene / New Braunfels"
     },
     {
+      "date": "2026-09-22",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Austin Gilliam & Rich O'Toole",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/austin-gilliam-rich-otoole/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-23",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "The Georges",
+      "time": "7pm",
+      "ticket": "https://gruenehall.com/event/the-georges-105/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
       "date": "2026-09-24",
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
@@ -1001,6 +965,42 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-10-23",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "BALLET TEXAS PRESENTS SALEM",
+      "time": "7pm",
+      "ticket": "https://brauntex.org/event/ballet-texas-presents-salem/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-23",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-10-23/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-10-23",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "Ballet Texas 2026–2027 Season Subscription",
+      "time": "8am",
+      "ticket": "https://brauntex.org/event/ballet-texas-2026-2027-season-subscription/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
     }
   ]
 }
