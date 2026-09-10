@@ -1,35 +1,11 @@
 {
-  "generated": "2026-09-09T15:03:12",
+  "generated": "2026-09-10T14:55:46",
   "window": {
-    "start": "2026-09-08",
-    "end": "2026-10-24"
+    "start": "2026-09-09",
+    "end": "2026-10-25"
   },
-  "count": 85,
+  "count": 84,
   "events": [
-    {
-      "date": "2026-09-08",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Slim Bawb",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/slim-bawb-10/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-08",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Live and Local with Arachnophobia",
-      "time": "7:30pm (Doors 6:30)",
-      "ticket": "https://wl.seetickets.us/event/live-and-local-with-arachnophobia/701066?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
     {
       "date": "2026-09-09",
       "venue": "8th Street Market",
@@ -41,30 +17,6 @@
       "source": "https://business.comfortchamber.com/calendar",
       "price": "Free",
       "group": "Comfort"
-    },
-    {
-      "date": "2026-09-09",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "The Georges",
-      "time": "7pm",
-      "ticket": "https://gruenehall.com/event/the-georges-104/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-09",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "Gabriella Martinez at Stable Hall",
-      "time": "7pm",
-      "ticket": "https://events.atpearl.com/event/gabriella-martinez-at-stable-hall/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-09-09",
@@ -239,7 +191,7 @@
       "venue": "Gruene Hall",
       "area": "Gruene",
       "category": "Music",
-      "act": "Ryan Ross Acoustic",
+      "act": "Zach Blue",
       "time": "11am",
       "ticket": "https://gruenehall.com/event/ryan-ross-acoustic/",
       "source": "https://gruenehall.com/events/",
@@ -727,6 +679,30 @@
       "group": "Gruene / New Braunfels"
     },
     {
+      "date": "2026-09-24",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Whitey Morgan and the 78's",
+      "time": "8pm",
+      "ticket": "https://gruenehall.com/event/whitey-morgan-and-the-78s-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-25",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Friday Afternoon Club",
+      "time": "4pm",
+      "ticket": "https://gruenehall.com/event/friday-afternoon-club-13/2026-09-25/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
       "date": "2026-09-25",
       "venue": "The Bevy Hotel",
       "area": "Boerne",
@@ -737,6 +713,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-09-25",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Wade Forster",
+      "time": "8pm",
+      "ticket": "https://gruenehall.com/event/wade-forster/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-09-26",
