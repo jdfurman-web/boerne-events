@@ -1,35 +1,11 @@
 {
-  "generated": "2026-09-10T14:55:46",
+  "generated": "2026-09-11T14:55:43",
   "window": {
-    "start": "2026-09-09",
-    "end": "2026-10-25"
+    "start": "2026-09-10",
+    "end": "2026-10-26"
   },
   "count": 84,
   "events": [
-    {
-      "date": "2026-09-09",
-      "venue": "8th Street Market",
-      "area": "Comfort",
-      "category": "Festival/Market",
-      "act": "Wine Down Wednesday",
-      "time": "5:00pm-7:00pm",
-      "ticket": "https://business.comfortchamber.com/calendar/Details/wine-down-wednesday-at-the-8th-street-market-1848893?sourceTypeId=Website",
-      "source": "https://business.comfortchamber.com/calendar",
-      "price": "Free",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-09-09",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Matthew Payne",
-      "time": "8:00pm (Doors 7:00)",
-      "ticket": "https://wl.seetickets.us/event/matthew-payne/700743?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
     {
       "date": "2026-09-10",
       "venue": "Shopping with Siobhain",
@@ -44,42 +20,6 @@
     },
     {
       "date": "2026-09-10",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Theater/Arts",
-      "act": "PAM TILLIS",
-      "time": "7:30pm",
-      "ticket": "https://brauntex.org/event/pam-tillis/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-10",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Andi Holleman & The Highroad",
-      "time": "7pm",
-      "ticket": "https://gruenehall.com/event/andi-holleman-the-highroad-9/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-10",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "An Evening with Drink the Sea at Stable Hall",
-      "time": "7pm",
-      "ticket": "https://events.atpearl.com/event/an-evening-with-drink-the-sea-at-stable-hall/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-09-10",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -89,18 +29,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-09-10",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Charly Reynolds",
-      "time": "8:30pm",
-      "ticket": "https://gruenehall.com/event/charly-reynolds/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-09-11",
@@ -380,6 +308,18 @@
     },
     {
       "date": "2026-09-16",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Night Market",
+      "time": "5pm",
+      "ticket": "https://events.atpearl.com/event/night-market-3/2026-09-16/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-09-16",
       "venue": "Gruene Hall",
       "area": "Gruene",
       "category": "Music",
@@ -389,6 +329,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-16",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "Jimmie Vaughan & The Tilt-A-Whirl Band at Stable Hall",
+      "time": "7pm",
+      "ticket": "https://events.atpearl.com/event/jimmie-vaughan-the-tilt-a-whirl-band-at-stable-hall/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-09-17",
@@ -728,6 +680,30 @@
     },
     {
       "date": "2026-09-26",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Dan Whitaker",
+      "time": "11am",
+      "ticket": "https://gruenehall.com/event/dan-whitaker/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Bo Phillips",
+      "time": "1pm",
+      "ticket": "https://gruenehall.com/event/bo-phillips-20/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-26",
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
       "category": "Music",
@@ -773,6 +749,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Creed Fisher",
+      "time": "9pm",
+      "ticket": "https://gruenehall.com/event/creed-fisher-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-09-27",
@@ -1013,6 +1001,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-10-26",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "BROTHERS OF THE HEART",
+      "time": "7:30pm",
+      "ticket": "https://brauntex.org/event/brothers-of-the-heart-2/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
     }
   ]
 }
