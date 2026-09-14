@@ -1,131 +1,11 @@
 {
-  "generated": "2026-09-13T14:51:37",
+  "generated": "2026-09-14T16:52:55",
   "window": {
-    "start": "2026-09-12",
-    "end": "2026-10-28"
+    "start": "2026-09-13",
+    "end": "2026-10-29"
   },
-  "count": 73,
+  "count": 68,
   "events": [
-    {
-      "date": "2026-09-12",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Zach Blue",
-      "time": "11am",
-      "ticket": "https://gruenehall.com/event/ryan-ross-acoustic/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-12",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Wesley Hanna",
-      "time": "1pm",
-      "ticket": "https://gruenehall.com/event/wesley-hanna-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-12",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "First Responder Night with David Gibson, Aaron Tilt, Lo-Boy, Sweet Charbonneau & The Fur Trappers",
-      "time": "5:00pm (Doors 4:00)",
-      "ticket": "https://wl.seetickets.us/event/first-responder-night-with-david-gibson-aaron-tilt/699081?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-09-12",
-      "venue": "Tapatio Springs Resort",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Richie Brinson (La Cascada patio)",
-      "time": "7:00pm",
-      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-09-12",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Farmers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/farmers-market/2026-09-12/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-09-12",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Stoney LaRue",
-      "time": "9pm",
-      "ticket": "https://gruenehall.com/event/stoney-larue-14/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-13",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "The Matthew Robinson Band",
-      "time": "11:30am",
-      "ticket": "https://gruenehall.com/event/the-matthew-robinson-band/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-13",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Andi Holleman at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/andi-holleman-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-09-13",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Bret Graham",
-      "time": "3pm",
-      "ticket": "https://gruenehall.com/event/bret-graham-146/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-13",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Case Hardin",
-      "time": "6:30pm",
-      "ticket": "https://gruenehall.com/event/case-hardin-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-09-13",
       "venue": "Sam's Burger Joint",
@@ -352,6 +232,18 @@
       "ticket": "https://wl.seetickets.us/event/hells-belles/691371?afflky=SamsBurgerJointSanAntonio",
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-09-19",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Farmers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/farmers-market/2026-09-19/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
       "group": "Hill Country / N. San Antonio"
     },
     {
@@ -655,6 +547,42 @@
       "group": "Gruene / New Braunfels"
     },
     {
+      "date": "2026-09-28",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Ruben V",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/river-town-relics-7/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-29",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Tony Taylor",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/tony-taylor-4/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-30",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Adam Johnson Band",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/adam-johnson-band-14/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
       "date": "2026-09-30",
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
@@ -878,6 +806,18 @@
       "act": "BROTHERS OF THE HEART",
       "time": "7:30pm",
       "ticket": "https://brauntex.org/event/brothers-of-the-heart-2/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-29",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "GENE WATSON",
+      "time": "7:30pm",
+      "ticket": "https://brauntex.org/event/gene-watson/",
       "source": "https://brauntex.org/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
