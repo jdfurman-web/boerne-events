@@ -1,35 +1,11 @@
 {
-  "generated": "2026-09-14T16:52:55",
+  "generated": "2026-09-15T15:29:26",
   "window": {
-    "start": "2026-09-13",
-    "end": "2026-10-29"
+    "start": "2026-09-14",
+    "end": "2026-10-30"
   },
   "count": 68,
   "events": [
-    {
-      "date": "2026-09-13",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Sam Morrow",
-      "time": "7:00pm (Doors 6:00)",
-      "ticket": "https://wl.seetickets.us/event/sam-morrow/692495?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-09-14",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Tony Taylor",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/tony-taylor-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-09-15",
       "venue": "Gruene Hall",
@@ -818,6 +794,30 @@
       "act": "GENE WATSON",
       "time": "7:30pm",
       "ticket": "https://brauntex.org/event/gene-watson/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-30",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-10-30/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-10-30",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "THE ROCKY HORROR PICTURE SHOW",
+      "time": "8pm",
+      "ticket": "https://brauntex.org/event/the-rocky-horror-picture-show/",
       "source": "https://brauntex.org/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
