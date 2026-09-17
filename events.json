@@ -1,35 +1,11 @@
 {
-  "generated": "2026-09-16T15:22:05",
+  "generated": "2026-09-17T15:28:39",
   "window": {
-    "start": "2026-09-15",
-    "end": "2026-10-31"
+    "start": "2026-09-16",
+    "end": "2026-11-01"
   },
-  "count": 68,
+  "count": 80,
   "events": [
-    {
-      "date": "2026-09-16",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Night Market",
-      "time": "5pm",
-      "ticket": "https://events.atpearl.com/event/night-market-3/2026-09-16/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-09-16",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Mark Allan Atwood",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/mark-allan-atwood/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-09-17",
       "venue": "Gruene Hall",
@@ -407,9 +383,9 @@
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
       "category": "Music",
-      "act": "Andy Garcia at Singing Water Vineyards",
+      "act": "NAVA at Singing Water Vineyards",
       "time": "1pm",
-      "ticket": "https://theboernelife.com/events/andy-garcia-at-singing-water-vineyards-3/",
+      "ticket": "https://theboernelife.com/events/nava-at-singing-water-vineyards-3/",
       "source": "https://theboernelife.com/venue/singing-water-vineyards/",
       "price": "",
       "group": "Comfort"
@@ -479,9 +455,9 @@
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
       "category": "Music",
-      "act": "NAVA at Singing Water Vineyards",
+      "act": "Andy Garcia at Singing Water Vineyards",
       "time": "1pm",
-      "ticket": "https://theboernelife.com/events/nava-at-singing-water-vineyards-3/",
+      "ticket": "https://theboernelife.com/events/andy-garcia-at-singing-water-vineyards-3/",
       "source": "https://theboernelife.com/venue/singing-water-vineyards/",
       "price": "",
       "group": "Comfort"
@@ -587,6 +563,18 @@
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
       "category": "Music",
+      "act": "Matt Kersh at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/matt-kersh-at-singing-water-vineyards-2/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-10-03",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
       "act": "Dreams – A Tribute to Fleetwood Mac at Singing Water Vineyards",
       "time": "6pm",
       "ticket": "https://theboernelife.com/events/dreams-a-tribute-to-fleetwood-mac-at-singing-water-vineyards-2/",
@@ -605,6 +593,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-10-04",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Bruce Smith at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/bruce-smith-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
     },
     {
       "date": "2026-10-09",
@@ -632,6 +632,30 @@
     },
     {
       "date": "2026-10-10",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "George Marsh at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/george-marsh-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-10-10",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Jaime Varela at Singing Water Vineyards",
+      "time": "5pm",
+      "ticket": "https://theboernelife.com/events/jaime-varela-at-singing-water-vineyards-2/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-10-10",
       "venue": "The Bevy Hotel",
       "area": "Boerne",
       "category": "Music",
@@ -641,6 +665,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-10-11",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Maplewood Brothers at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/maplewood-brothers-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
     },
     {
       "date": "2026-10-14",
@@ -692,6 +728,30 @@
     },
     {
       "date": "2026-10-17",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Erica Daniels at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/erica-daniels-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-10-17",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Greggie and the Jets: An Elton John Tribute at Singing Water Vineyards",
+      "time": "6pm",
+      "ticket": "https://theboernelife.com/events/greggie-and-the-jets-an-elton-john-tribute-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-10-17",
       "venue": "The Bevy Hotel",
       "area": "Boerne",
       "category": "Music",
@@ -701,6 +761,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-10-18",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Ruben Pacheco at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/ruben-pacheco-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
     },
     {
       "date": "2026-10-23",
@@ -740,6 +812,30 @@
     },
     {
       "date": "2026-10-24",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Julia Rose at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/julia-rose-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-10-24",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "The Lost Shaker of Salt Tribute to Jimmy Buffett at Singing Water Vineyards",
+      "time": "6pm",
+      "ticket": "https://theboernelife.com/events/the-lost-shaker-of-salt-tribute-to-jimmy-buffett-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-10-24",
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
       "category": "Theater/Arts",
@@ -761,6 +857,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-10-25",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Brad Blackburn at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/brad-blackburn-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
     },
     {
       "date": "2026-10-26",
@@ -812,6 +920,30 @@
     },
     {
       "date": "2026-10-31",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Ty Dillon at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/ty-dillon-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-10-31",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Flower Power 1960s Costume Party at Singing Water Vineyards",
+      "time": "6pm",
+      "ticket": "https://theboernelife.com/events/flower-power-1960s-costume-party-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-10-31",
       "venue": "The Bevy Hotel",
       "area": "Boerne",
       "category": "Music",
@@ -821,6 +953,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-11-01",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "HERE COME THE MUMMIES",
+      "time": "7:30pm",
+      "ticket": "https://brauntex.org/event/here-come-the-mummies/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
     }
   ]
 }
