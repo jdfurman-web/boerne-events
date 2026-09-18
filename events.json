@@ -1,23 +1,11 @@
 {
-  "generated": "2026-09-17T15:28:39",
+  "generated": "2026-09-18T14:52:36",
   "window": {
-    "start": "2026-09-16",
-    "end": "2026-11-01"
+    "start": "2026-09-17",
+    "end": "2026-11-02"
   },
   "count": 80,
   "events": [
-    {
-      "date": "2026-09-17",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Jesse Joe & The 96ers",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/jesse-joe-the-96ers/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-09-18",
       "venue": "Gruene Hall",
@@ -281,6 +269,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-23",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Night Market",
+      "time": "5pm",
+      "ticket": "https://events.atpearl.com/event/night-market-3/2026-09-23/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-09-23",
