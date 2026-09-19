@@ -1,47 +1,11 @@
 {
-  "generated": "2026-09-18T14:52:36",
+  "generated": "2026-09-19T14:14:31",
   "window": {
-    "start": "2026-09-17",
-    "end": "2026-11-02"
+    "start": "2026-09-18",
+    "end": "2026-11-03"
   },
-  "count": 80,
+  "count": 78,
   "events": [
-    {
-      "date": "2026-09-18",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Friday Afternoon Club",
-      "time": "4pm",
-      "ticket": "https://gruenehall.com/event/friday-afternoon-club-13/2026-09-18/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-18",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Theater/Arts",
-      "act": "SYMPHONIC SINATRA",
-      "time": "7:30pm",
-      "ticket": "https://brauntex.org/event/symphonic-sinatra/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-18",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-09-18/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
     {
       "date": "2026-09-18",
       "venue": "Sam's Burger Joint",
@@ -53,18 +17,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-09-18",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Blue Water Highway",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/blue-water-highway-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-09-19",
@@ -293,6 +245,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-23",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "The Bad Plus at Stable Hall",
+      "time": "8pm",
+      "ticket": "https://events.atpearl.com/event/the-bad-plus-at-stable-hall/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-09-24",
@@ -602,6 +566,18 @@
       "act": "Bruce Smith at Singing Water Vineyards",
       "time": "1pm",
       "ticket": "https://theboernelife.com/events/bruce-smith-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-10-09",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Star Party at Singing Water Vineyards",
+      "time": "5pm",
+      "ticket": "https://theboernelife.com/events/star-party-at-singing-water-vineyards/",
       "source": "https://theboernelife.com/venue/singing-water-vineyards/",
       "price": "",
       "group": "Comfort"
