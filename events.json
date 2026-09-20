@@ -1,71 +1,11 @@
 {
-  "generated": "2026-09-19T14:14:31",
+  "generated": "2026-09-20T14:37:29",
   "window": {
-    "start": "2026-09-18",
-    "end": "2026-11-03"
+    "start": "2026-09-19",
+    "end": "2026-11-04"
   },
-  "count": 78,
+  "count": 69,
   "events": [
-    {
-      "date": "2026-09-18",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "The Ransom Brothers",
-      "time": "8:30pm (Doors 7:30)",
-      "ticket": "https://wl.seetickets.us/event/the-ransom-brothers/701036?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-09-19",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Lindsay Beaver",
-      "time": "11am",
-      "ticket": "https://gruenehall.com/event/lindsay-beaver-14/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-19",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Flat Top Jones",
-      "time": "1pm",
-      "ticket": "https://gruenehall.com/event/flat-top-jones-50/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-19",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "John Prather at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/john-prather-at-singing-water-vineyards-2/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-09-19",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Chris Cuevas at Singing Water Vineyards",
-      "time": "5pm",
-      "ticket": "https://theboernelife.com/events/chris-cuevas-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
     {
       "date": "2026-09-19",
       "venue": "Tapatio Springs Resort",
@@ -80,30 +20,6 @@
     },
     {
       "date": "2026-09-19",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Theater/Arts",
-      "act": "CREEDENCE REVIVED",
-      "time": "7:30pm",
-      "ticket": "https://brauntex.org/event/creedence-revived/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-19",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-09-19/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-09-19",
       "venue": "Sam's Burger Joint",
       "area": "San Antonio – near Pearl",
       "category": "Music",
@@ -113,30 +29,6 @@
       "source": "https://samsburgerjoint.com/calendar/",
       "price": "Ticketed",
       "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-09-19",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Farmers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/farmers-market/2026-09-19/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-09-19",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Sunny Sweeney w/ special guest Brit Taylor",
-      "time": "9pm",
-      "ticket": "https://gruenehall.com/event/sunny-sweeney-w-special-guest-brit-taylor/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-09-20",
