@@ -1,59 +1,11 @@
 {
-  "generated": "2026-09-20T14:37:29",
+  "generated": "2026-09-21T16:54:32",
   "window": {
-    "start": "2026-09-19",
-    "end": "2026-11-04"
+    "start": "2026-09-20",
+    "end": "2026-11-05"
   },
-  "count": 69,
+  "count": 63,
   "events": [
-    {
-      "date": "2026-09-19",
-      "venue": "Tapatio Springs Resort",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Ruben Pacheco (La Cascada patio)",
-      "time": "7:00pm",
-      "ticket": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "source": "https://www.tapatioclub.com/Signature_Events/Live_Music_Series_(1)",
-      "price": "Free",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-09-19",
-      "venue": "Sam's Burger Joint",
-      "area": "San Antonio – near Pearl",
-      "category": "Music",
-      "act": "Hell's Belles - All-Female AC/DC Tribute Band with Fea",
-      "time": "8:30pm (Doors 7:30)",
-      "ticket": "https://wl.seetickets.us/event/hells-belles/691371?afflky=SamsBurgerJointSanAntonio",
-      "source": "https://samsburgerjoint.com/calendar/",
-      "price": "Ticketed",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-09-20",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Malford Milligan",
-      "time": "11:30am",
-      "ticket": "https://gruenehall.com/event/malford-milligan-6/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-20",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Dave Kemp at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/dave-kemp-at-singing-water-vineyards-3/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
     {
       "date": "2026-09-20",
       "venue": "Shopping with Siobhain",
@@ -65,30 +17,6 @@
       "source": "https://business.comfortchamber.com/calendar",
       "price": "Free",
       "group": "Comfort"
-    },
-    {
-      "date": "2026-09-20",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Eric Demmer Band",
-      "time": "3pm",
-      "ticket": "https://gruenehall.com/event/eric-demmer-band-20/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-20",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Soul Sessions",
-      "time": "6:30pm",
-      "ticket": "https://gruenehall.com/event/soul-sessions-20/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-09-21",
