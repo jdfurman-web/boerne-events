@@ -1,59 +1,11 @@
 {
-  "generated": "2026-09-23T15:22:07",
+  "generated": "2026-09-24T15:45:22",
   "window": {
-    "start": "2026-09-22",
-    "end": "2026-11-07"
+    "start": "2026-09-23",
+    "end": "2026-11-08"
   },
   "count": 63,
   "events": [
-    {
-      "date": "2026-09-22",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Austin Gilliam & Rich O'Toole",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/austin-gilliam-rich-otoole/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-23",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Night Market",
-      "time": "5pm",
-      "ticket": "https://events.atpearl.com/event/night-market-3/2026-09-23/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-09-23",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "The Georges",
-      "time": "7pm",
-      "ticket": "https://gruenehall.com/event/the-georges-105/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-23",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "The Bad Plus at Stable Hall",
-      "time": "8pm",
-      "ticket": "https://events.atpearl.com/event/the-bad-plus-at-stable-hall/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
     {
       "date": "2026-09-24",
       "venue": "Brauntex Theatre",
@@ -185,6 +137,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Farmers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/farmers-market/2026-09-26/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-09-26",
@@ -734,6 +698,42 @@
       "act": "HERE COME THE MUMMIES",
       "time": "7:30pm",
       "ticket": "https://brauntex.org/event/here-come-the-mummies/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-04",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "THE LORD OF THE RINGS TRILOGY CINEMA SERIES: THE FELLOWSHIP OF THE RING",
+      "time": "6:30pm",
+      "ticket": "https://brauntex.org/event/the-lord-of-the-rings-trilogy-cinema-series-the-fellowship-of-the-ring/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-05",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "THE LORD OF THE RINGS TRILOGY CINEMA SERIES: THE TWO TOWERS",
+      "time": "6:30pm",
+      "ticket": "https://brauntex.org/event/the-lord-of-the-rings-trilogy-cinema-series-the-two-towers/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-06",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "THE LORD OF THE RINGS TRILOGY CINEMA SERIES: THE RETURN OF THE KING",
+      "time": "6:30pm",
+      "ticket": "https://brauntex.org/event/the-lord-of-the-rings-trilogy-cinema-series-the-return-of-the-king/",
       "source": "https://brauntex.org/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
