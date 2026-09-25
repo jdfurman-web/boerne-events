@@ -1,35 +1,11 @@
 {
-  "generated": "2026-09-24T15:45:22",
+  "generated": "2026-09-25T15:45:54",
   "window": {
-    "start": "2026-09-23",
-    "end": "2026-11-08"
+    "start": "2026-09-24",
+    "end": "2026-11-09"
   },
-  "count": 63,
+  "count": 62,
   "events": [
-    {
-      "date": "2026-09-24",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Theater/Arts",
-      "act": "Bob Wills’ Texas Playboys under the direction of Jason Roberts",
-      "time": "7:30pm",
-      "ticket": "https://brauntex.org/event/bob-wills-texas-playboys-under-the-direction-of-jason-roberts/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-24",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Whitey Morgan and the 78's",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/whitey-morgan-and-the-78s-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-09-25",
       "venue": "Gruene Hall",
@@ -233,6 +209,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-09-30",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Night Market",
+      "time": "5pm",
+      "ticket": "https://events.atpearl.com/event/night-market-3/2026-09-30/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-09-30",
