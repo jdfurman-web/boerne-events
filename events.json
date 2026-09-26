@@ -1,47 +1,11 @@
 {
-  "generated": "2026-09-25T15:45:54",
+  "generated": "2026-09-26T14:55:35",
   "window": {
-    "start": "2026-09-24",
-    "end": "2026-11-09"
+    "start": "2026-09-25",
+    "end": "2026-11-10"
   },
-  "count": 62,
+  "count": 59,
   "events": [
-    {
-      "date": "2026-09-25",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Friday Afternoon Club",
-      "time": "4pm",
-      "ticket": "https://gruenehall.com/event/friday-afternoon-club-13/2026-09-25/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-25",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-09-25/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-09-25",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Wade Forster",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/wade-forster/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-09-26",
       "venue": "Gruene Hall",
