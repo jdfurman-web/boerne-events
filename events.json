@@ -1,107 +1,11 @@
 {
-  "generated": "2026-09-26T14:55:35",
+  "generated": "2026-09-27T15:33:41",
   "window": {
-    "start": "2026-09-25",
-    "end": "2026-11-10"
+    "start": "2026-09-26",
+    "end": "2026-11-11"
   },
-  "count": 59,
+  "count": 52,
   "events": [
-    {
-      "date": "2026-09-26",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Dan Whitaker",
-      "time": "11am",
-      "ticket": "https://gruenehall.com/event/dan-whitaker/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-26",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Bo Phillips",
-      "time": "1pm",
-      "ticket": "https://gruenehall.com/event/bo-phillips-20/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-26",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "NAVA at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/nava-at-singing-water-vineyards-3/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-09-26",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Hunter Billingsley at Singing Water Vineyards",
-      "time": "5pm",
-      "ticket": "https://theboernelife.com/events/hunter-billingsley-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-09-26",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Music",
-      "act": "DONNY EDWARDS - TRIBUTE TO \"THE KING\"",
-      "time": "7:30pm",
-      "ticket": "https://brauntex.org/event/donny-edwards-tribute-to-the-king/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-26",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-09-26/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-09-26",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Farmers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/farmers-market/2026-09-26/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-09-26",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Creed Fisher",
-      "time": "9pm",
-      "ticket": "https://gruenehall.com/event/creed-fisher-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-09-27",
       "venue": "Gruene Hall",
@@ -269,6 +173,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-10-03",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Farmers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/farmers-market/2026-10-03/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-10-04",
