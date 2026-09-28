@@ -1,59 +1,11 @@
 {
-  "generated": "2026-09-27T15:33:41",
+  "generated": "2026-09-28T18:32:32",
   "window": {
-    "start": "2026-09-26",
-    "end": "2026-11-11"
+    "start": "2026-09-27",
+    "end": "2026-11-12"
   },
-  "count": 52,
+  "count": 48,
   "events": [
-    {
-      "date": "2026-09-27",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Lee Mathis & The Brutally Handsome Band",
-      "time": "11:30am",
-      "ticket": "https://gruenehall.com/event/lee-mathis-the-brutally-handsome-band-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-27",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Andy Garcia at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/andy-garcia-at-singing-water-vineyards-3/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-09-27",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Theater/Arts",
-      "act": "RICKY SKAGGS & KENTUCKY THUNDER",
-      "time": "7:30pm",
-      "ticket": "https://brauntex.org/event/ricky-skaggs-kentucky-thunder/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-27",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Wade Forster",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/wade-forster-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-09-28",
       "venue": "Gruene Hall",
@@ -385,7 +337,7 @@
       "category": "Theater/Arts",
       "act": "BALLET TEXAS PRESENTS SALEM",
       "time": "7pm",
-      "ticket": "https://brauntex.org/event/ballet-texas-presents-salem/",
+      "ticket": "https://brauntex.org/event/ballet-texas-presents-salem-2/",
       "source": "https://brauntex.org/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
@@ -445,7 +397,7 @@
       "category": "Theater/Arts",
       "act": "BALLET TEXAS PRESENTS SALEM",
       "time": "7pm",
-      "ticket": "https://brauntex.org/event/ballet-texas-presents-salem-2/",
+      "ticket": "https://brauntex.org/event/ballet-texas-presents-salem-3/",
       "source": "https://brauntex.org/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
