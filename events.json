@@ -1,23 +1,11 @@
 {
-  "generated": "2026-09-29T16:49:57",
+  "generated": "2026-09-30T16:44:31",
   "window": {
-    "start": "2026-09-28",
-    "end": "2026-11-13"
+    "start": "2026-09-29",
+    "end": "2026-11-14"
   },
-  "count": 50,
+  "count": 51,
   "events": [
-    {
-      "date": "2026-09-29",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Tony Taylor",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/tony-taylor-4/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-09-30",
       "venue": "The Pearl",
@@ -85,7 +73,7 @@
       "category": "Festival/Market",
       "act": "Farmers Market",
       "time": "10am",
-      "ticket": "https://events.atpearl.com/event/farmers-market-2/",
+      "ticket": "https://events.atpearl.com/event/farmers-market-2/2026-10-03/",
       "source": "https://events.atpearl.com/events/",
       "price": "",
       "group": "Hill Country / N. San Antonio"
@@ -158,6 +146,18 @@
       "act": "Author Visit at Twig Book Shop: Carmen Gray at Pearl Night Market",
       "time": "5pm",
       "ticket": "https://events.atpearl.com/event/author-visit-at-twig-book-shop-carmen-gray-at-pearl-night-market/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-10-07",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Night Market",
+      "time": "5pm",
+      "ticket": "https://events.atpearl.com/event/night-market-3/2026-10-07/",
       "source": "https://events.atpearl.com/events/",
       "price": "",
       "group": "Hill Country / N. San Antonio"
@@ -602,6 +602,18 @@
       "act": "Live Music at The Bevy Hotel",
       "time": "7pm",
       "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-11-13/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-11-14",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-11-14/",
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
