@@ -1,45 +1,21 @@
 {
-  "generated": "2026-09-30T16:44:31",
+  "generated": "2026-10-01T17:18:44",
   "window": {
-    "start": "2026-09-29",
-    "end": "2026-11-14"
+    "start": "2026-09-30",
+    "end": "2026-11-15"
   },
-  "count": 51,
+  "count": 76,
   "events": [
     {
-      "date": "2026-09-30",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Night Market",
-      "time": "5pm",
-      "ticket": "https://events.atpearl.com/event/night-market-3/2026-09-30/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "venue": "Gruene Hall",
       "area": "Gruene",
       "category": "Music",
-      "act": "Adam Johnson Band",
+      "act": "Matt Kirk",
       "time": "6pm",
-      "ticket": "https://gruenehall.com/event/adam-johnson-band-14/",
+      "ticket": "https://gruenehall.com/event/jamie-richards-3/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-09-30",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Theater/Arts",
-      "act": "The High Kings - Rocky Road To Dublin - 2026 Tour",
-      "time": "7:30pm",
-      "ticket": "https://brauntex.org/event/the-high-kings-rocky-road-to-dublin/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
       "group": "Gruene / New Braunfels"
     },
     {
@@ -56,6 +32,18 @@
     },
     {
       "date": "2026-10-02",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Friday Afternoon Club",
+      "time": "4pm",
+      "ticket": "https://gruenehall.com/event/friday-afternoon-club-13/2026-10-02/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-02",
       "venue": "The Bevy Hotel",
       "area": "Boerne",
       "category": "Music",
@@ -65,6 +53,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-10-02",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Casey Donahew",
+      "time": "8pm",
+      "ticket": "https://gruenehall.com/event/casey-donahew-7/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-10-03",
@@ -77,6 +77,30 @@
       "source": "https://events.atpearl.com/events/",
       "price": "",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-10-03",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Gage Gardiner",
+      "time": "11am",
+      "ticket": "https://gruenehall.com/event/gage-gardiner/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-03",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Matthew Ryan Band",
+      "time": "1pm",
+      "ticket": "https://gruenehall.com/event/matthew-ryan-band-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-10-03",
@@ -115,6 +139,18 @@
       "group": "Boerne"
     },
     {
+      "date": "2026-10-03",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Casey Donahew",
+      "time": "9pm",
+      "ticket": "https://gruenehall.com/event/casey-donahew-8/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
       "date": "2026-10-04",
       "venue": "The Pearl",
       "area": "San Antonio – Pearl",
@@ -128,6 +164,18 @@
     },
     {
       "date": "2026-10-04",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Kathy Murray & The Killowatts",
+      "time": "11:30am",
+      "ticket": "https://gruenehall.com/event/kathy-murray-the-killowatts/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-04",
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
       "category": "Music",
@@ -137,6 +185,54 @@
       "source": "https://theboernelife.com/venue/singing-water-vineyards/",
       "price": "",
       "group": "Comfort"
+    },
+    {
+      "date": "2026-10-04",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Bret Graham",
+      "time": "3pm",
+      "ticket": "https://gruenehall.com/event/bret-graham-148/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-04",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Mark Hummel and Anson Funderburgh",
+      "time": "6:30pm",
+      "ticket": "https://gruenehall.com/event/mark-hummel-band-with-special-guests/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-05",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Andi Holleman & The Highroad",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/andi-holleman-the-highroad-10/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-06",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Slim Bawb",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/slim-bawb-11/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-10-07",
@@ -161,6 +257,54 @@
       "source": "https://events.atpearl.com/events/",
       "price": "",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-10-07",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Anthony Wright Band",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/anthony-wright-band-13/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-08",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Friday Afternoon Club",
+      "time": "4pm",
+      "ticket": "https://gruenehall.com/event/friday-afternoon-club-14/",
+      "source": "https://gruenehall.com/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-08",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Robert Earl Keen: Then And Now Tour",
+      "time": "8pm",
+      "ticket": "https://gruenehall.com/event/robert-earl-keen-then-and-now-tour/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-09",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Stars & Guitars with Shane Smith & The Saints",
+      "time": "5pm",
+      "ticket": "https://gruenehall.com/event/stars-guitars-with-shane-smith-the-saints/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-10-09",
@@ -199,6 +343,18 @@
       "group": "Boerne"
     },
     {
+      "date": "2026-10-09",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Shane Smith & The Saints (Friday Night Concert)",
+      "time": "9:30pm",
+      "ticket": "https://gruenehall.com/event/shane-smith-the-saints-friday-night-concert/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
       "date": "2026-10-10",
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
@@ -235,6 +391,30 @@
       "group": "Boerne"
     },
     {
+      "date": "2026-10-10",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "The SteelDrivers",
+      "time": "9pm",
+      "ticket": "https://gruenehall.com/event/the-steeldrivers-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-11",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Sunday All-Star Playlist",
+      "time": "1pm",
+      "ticket": "https://gruenehall.com/event/sunday-all-star-playlist/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
       "date": "2026-10-11",
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
@@ -245,6 +425,42 @@
       "source": "https://theboernelife.com/venue/singing-water-vineyards/",
       "price": "",
       "group": "Comfort"
+    },
+    {
+      "date": "2026-10-12",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Bret Graham",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/bret-graham-149/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-13",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Ted Russel Kamp",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/ted-russel-kamp/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-14",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "The Georges",
+      "time": "7pm",
+      "ticket": "https://gruenehall.com/event/the-georges-106/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-10-14",
@@ -271,6 +487,30 @@
       "group": "Gruene / New Braunfels"
     },
     {
+      "date": "2026-10-15",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Graham St. Clair Band",
+      "time": "7pm",
+      "ticket": "https://gruenehall.com/event/graham-st-clair-band/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-15",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Jake Bush",
+      "time": "8:30pm",
+      "ticket": "https://gruenehall.com/event/jake-bush/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
       "date": "2026-10-16",
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
@@ -293,6 +533,42 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-10-16",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Dylan Wheeler",
+      "time": "8pm",
+      "ticket": "https://gruenehall.com/event/dylan-wheeler-4/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-17",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Jamie Cameron",
+      "time": "11am",
+      "ticket": "https://gruenehall.com/event/jamie-cameron-3/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-17",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Lee Mathis & The Brutally Handsome Band",
+      "time": "1pm",
+      "ticket": "https://gruenehall.com/event/lee-mathis-the-brutally-handsome-band-4/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-10-17",
@@ -329,6 +605,30 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-10-17",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Max Stalling w/ special guest Owen Temple",
+      "time": "8:30pm",
+      "ticket": "https://gruenehall.com/event/max-stalling-w-special-guest-owen-temple/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-18",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Jackson Avenue Band",
+      "time": "11:30am",
+      "ticket": "https://gruenehall.com/event/jackson-avenue-band-6/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-10-18",
