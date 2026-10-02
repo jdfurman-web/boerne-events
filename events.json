@@ -1,35 +1,11 @@
 {
-  "generated": "2026-10-01T17:18:44",
+  "generated": "2026-10-02T16:33:45",
   "window": {
-    "start": "2026-09-30",
-    "end": "2026-11-15"
+    "start": "2026-10-01",
+    "end": "2026-11-16"
   },
-  "count": 76,
+  "count": 75,
   "events": [
-    {
-      "date": "2026-10-01",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Matt Kirk",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/jamie-richards-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-01",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Theater/Arts",
-      "act": "KATHY MATTEA",
-      "time": "7:30pm",
-      "ticket": "https://brauntex.org/event/kathy-mattea/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-10-02",
       "venue": "Gruene Hall",
@@ -251,9 +227,9 @@
       "venue": "The Pearl",
       "area": "San Antonio – Pearl",
       "category": "Festival/Market",
-      "act": "Night Market",
+      "act": "HEB Quest for Texas Best at Night Market",
       "time": "5pm",
-      "ticket": "https://events.atpearl.com/event/night-market-3/2026-10-07/",
+      "ticket": "https://events.atpearl.com/event/night-market-3-2/",
       "source": "https://events.atpearl.com/events/",
       "price": "",
       "group": "Hill Country / N. San Antonio"
@@ -641,6 +617,18 @@
       "source": "https://theboernelife.com/venue/singing-water-vineyards/",
       "price": "",
       "group": "Comfort"
+    },
+    {
+      "date": "2026-10-18",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Linda Gail Lewis",
+      "time": "3pm",
+      "ticket": "https://gruenehall.com/event/linda-gail-lewis-18/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-10-23",
