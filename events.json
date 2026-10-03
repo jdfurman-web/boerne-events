@@ -1,47 +1,11 @@
 {
-  "generated": "2026-10-02T16:33:45",
+  "generated": "2026-10-03T15:05:18",
   "window": {
-    "start": "2026-10-01",
-    "end": "2026-11-16"
+    "start": "2026-10-02",
+    "end": "2026-11-17"
   },
-  "count": 75,
+  "count": 76,
   "events": [
-    {
-      "date": "2026-10-02",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Friday Afternoon Club",
-      "time": "4pm",
-      "ticket": "https://gruenehall.com/event/friday-afternoon-club-13/2026-10-02/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-02",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-10-02/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-10-02",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Casey Donahew",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/casey-donahew-7/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-10-03",
       "venue": "The Pearl",
@@ -260,6 +224,18 @@
     },
     {
       "date": "2026-10-08",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Boerne After Hours Mixer at Singing Water Vineyards",
+      "time": "4pm",
+      "ticket": "https://theboernelife.com/events/boerne-after-hours-mixer-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-10-08",
       "venue": "Gruene Hall",
       "area": "Gruene",
       "category": "Music",
@@ -329,6 +305,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Ticketed",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-10",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Farmers Market",
+      "time": "10am",
+      "ticket": "https://events.atpearl.com/event/farmers-market-2/2026-10-10/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-10-10",
@@ -626,6 +614,30 @@
       "act": "Linda Gail Lewis",
       "time": "3pm",
       "ticket": "https://gruenehall.com/event/linda-gail-lewis-18/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-18",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "AmberLynn Browning & Her Texas Highway Men",
+      "time": "6:30pm",
+      "ticket": "https://gruenehall.com/event/amberlynn-browning-her-texas-highway-men/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-19",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Cody Bolden",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/cody-bolden-2/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
