@@ -1,95 +1,11 @@
 {
-  "generated": "2026-10-03T15:05:18",
+  "generated": "2026-10-04T15:42:42",
   "window": {
-    "start": "2026-10-02",
-    "end": "2026-11-17"
+    "start": "2026-10-03",
+    "end": "2026-11-18"
   },
-  "count": 76,
+  "count": 74,
   "events": [
-    {
-      "date": "2026-10-03",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Farmers Market",
-      "time": "10am",
-      "ticket": "https://events.atpearl.com/event/farmers-market-2/2026-10-03/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-10-03",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Gage Gardiner",
-      "time": "11am",
-      "ticket": "https://gruenehall.com/event/gage-gardiner/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-03",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Matthew Ryan Band",
-      "time": "1pm",
-      "ticket": "https://gruenehall.com/event/matthew-ryan-band-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-03",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Matt Kersh at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/matt-kersh-at-singing-water-vineyards-2/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-10-03",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Dreams – A Tribute to Fleetwood Mac at Singing Water Vineyards",
-      "time": "6pm",
-      "ticket": "https://theboernelife.com/events/dreams-a-tribute-to-fleetwood-mac-at-singing-water-vineyards-2/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-10-03",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-10-03/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-10-03",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Casey Donahew",
-      "time": "9pm",
-      "ticket": "https://gruenehall.com/event/casey-donahew-8/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-10-04",
       "venue": "The Pearl",
@@ -320,6 +236,18 @@
     },
     {
       "date": "2026-10-10",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "Oklahoma vs Texas: Red River Rivalry Football Game Showing at Stable Hall",
+      "time": "1:30pm",
+      "ticket": "https://events.atpearl.com/event/oklahoma-vs-texas-red-river-rivalry-football-game-showing-at-stable-hall/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-10-10",
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
       "category": "Music",
@@ -365,6 +293,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Ticketed",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-11",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Makers Market",
+      "time": "10am",
+      "ticket": "https://events.atpearl.com/event/makers-market-4/2026-10-11/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-10-11",
@@ -638,6 +578,42 @@
       "act": "Cody Bolden",
       "time": "6pm",
       "ticket": "https://gruenehall.com/event/cody-bolden-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-20",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Bradley Thomas Stivers",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/bradley-thomas-stivers-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-21",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Allan Hendrickson",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/allan-hendrickson-14/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-22",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Coby Rotan & The Naturals",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/coby-rotan-the-naturals/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
