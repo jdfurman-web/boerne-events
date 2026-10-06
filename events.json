@@ -1,83 +1,11 @@
 {
-  "generated": "2026-10-04T15:42:42",
+  "generated": "2026-10-06T17:05:34",
   "window": {
-    "start": "2026-10-03",
-    "end": "2026-11-18"
+    "start": "2026-10-05",
+    "end": "2026-11-20"
   },
   "count": 74,
   "events": [
-    {
-      "date": "2026-10-04",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Makers Market",
-      "time": "10am",
-      "ticket": "https://events.atpearl.com/event/makers-market-4/2026-10-04/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-10-04",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Kathy Murray & The Killowatts",
-      "time": "11:30am",
-      "ticket": "https://gruenehall.com/event/kathy-murray-the-killowatts/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-04",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Bruce Smith at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/bruce-smith-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-10-04",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Bret Graham",
-      "time": "3pm",
-      "ticket": "https://gruenehall.com/event/bret-graham-148/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-04",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Mark Hummel and Anson Funderburgh",
-      "time": "6:30pm",
-      "ticket": "https://gruenehall.com/event/mark-hummel-band-with-special-guests/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-05",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Andi Holleman & The Highroad",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/andi-holleman-the-highroad-10/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-10-06",
       "venue": "Gruene Hall",
@@ -236,6 +164,18 @@
     },
     {
       "date": "2026-10-10",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Dalton Shackelford",
+      "time": "11am",
+      "ticket": "https://gruenehall.com/event/dalton-shackelford-3/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-10",
       "venue": "The Pearl",
       "area": "San Antonio – Pearl",
       "category": "Music",
@@ -245,6 +185,18 @@
       "source": "https://events.atpearl.com/events/",
       "price": "",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-10-10",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Red Iron Push",
+      "time": "1pm",
+      "ticket": "https://gruenehall.com/event/red-iron-push-25/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-10-10",
@@ -619,6 +571,18 @@
       "group": "Gruene / New Braunfels"
     },
     {
+      "date": "2026-10-22",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Love & Chaos",
+      "time": "8pm",
+      "ticket": "https://gruenehall.com/event/love-chaos/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
       "date": "2026-10-23",
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
@@ -652,6 +616,18 @@
       "ticket": "https://brauntex.org/event/ballet-texas-2026-2027-season-subscription/",
       "source": "https://brauntex.org/events/",
       "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-23",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Cody Hibbard",
+      "time": "8pm",
+      "ticket": "https://gruenehall.com/event/cody-hibbard/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
       "group": "Gruene / New Braunfels"
     },
     {
@@ -890,6 +866,30 @@
       "act": "Live Music at The Bevy Hotel",
       "time": "7pm",
       "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-11-14/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-11-19",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "CHOIR! CHOIR! CHOIR! PRESENTS: LANDSLIDE: AN EPIC FLEETWOOD MAC SING-ALONG!",
+      "time": "7:30pm",
+      "ticket": "https://brauntex.org/event/choir-choir-choir-presents-landslide-an-epic-fleetwood-mac-sing-along/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-20",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-11-20/",
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
