@@ -1,23 +1,11 @@
 {
-  "generated": "2026-10-06T17:05:34",
+  "generated": "2026-10-07T17:42:50",
   "window": {
-    "start": "2026-10-05",
-    "end": "2026-11-20"
+    "start": "2026-10-06",
+    "end": "2026-11-21"
   },
-  "count": 74,
+  "count": 77,
   "events": [
-    {
-      "date": "2026-10-06",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Slim Bawb",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/slim-bawb-11/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-10-07",
       "venue": "The Pearl",
@@ -308,6 +296,18 @@
     },
     {
       "date": "2026-10-14",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Night Market",
+      "time": "5pm",
+      "ticket": "https://events.atpearl.com/event/night-market-3/2026-10-14/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-10-14",
       "venue": "Gruene Hall",
       "area": "Gruene",
       "category": "Music",
@@ -364,6 +364,18 @@
       "ticket": "https://gruenehall.com/event/jake-bush/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-16",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Friday Afternoon Club",
+      "time": "4pm",
+      "ticket": "https://gruenehall.com/event/friday-afternoon-club-16/2026-10-16/",
+      "source": "https://gruenehall.com/events/",
+      "price": "",
       "group": "Gruene / New Braunfels"
     },
     {
@@ -584,6 +596,18 @@
     },
     {
       "date": "2026-10-23",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Friday Afternoon Club",
+      "time": "4pm",
+      "ticket": "https://gruenehall.com/event/friday-afternoon-club-16/2026-10-23/",
+      "source": "https://gruenehall.com/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-23",
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
       "category": "Theater/Arts",
@@ -616,18 +640,6 @@
       "ticket": "https://brauntex.org/event/ballet-texas-2026-2027-season-subscription/",
       "source": "https://brauntex.org/events/",
       "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-23",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Cody Hibbard",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/cody-hibbard/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
       "group": "Gruene / New Braunfels"
     },
     {
@@ -890,6 +902,30 @@
       "act": "Live Music at The Bevy Hotel",
       "time": "7pm",
       "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-11-20/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-11-21",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "BALLET TEXAS PRESENTS THE WURST NUTCRACKER",
+      "time": "7pm",
+      "ticket": "https://brauntex.org/event/ballet-texas-presents-the-wurst-nutcracker-2/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-21",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-11-21/",
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
