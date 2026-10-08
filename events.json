@@ -1,47 +1,11 @@
 {
-  "generated": "2026-10-07T17:42:50",
+  "generated": "2026-10-08T17:47:31",
   "window": {
-    "start": "2026-10-06",
-    "end": "2026-11-21"
+    "start": "2026-10-07",
+    "end": "2026-11-22"
   },
   "count": 77,
   "events": [
-    {
-      "date": "2026-10-07",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Author Visit at Twig Book Shop: Carmen Gray at Pearl Night Market",
-      "time": "5pm",
-      "ticket": "https://events.atpearl.com/event/author-visit-at-twig-book-shop-carmen-gray-at-pearl-night-market/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-10-07",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "HEB Quest for Texas Best at Night Market",
-      "time": "5pm",
-      "ticket": "https://events.atpearl.com/event/night-market-3-2/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-10-07",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Anthony Wright Band",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/anthony-wright-band-13/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-10-08",
       "venue": "Gruene Hall",
@@ -356,6 +320,18 @@
     },
     {
       "date": "2026-10-15",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "Randall King at Stable Hall",
+      "time": "7pm",
+      "ticket": "https://events.atpearl.com/event/randall-king-at-stable-hall/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-10-15",
       "venue": "Gruene Hall",
       "area": "Gruene",
       "category": "Music",
@@ -640,6 +616,18 @@
       "ticket": "https://brauntex.org/event/ballet-texas-2026-2027-season-subscription/",
       "source": "https://brauntex.org/events/",
       "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-23",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Cody Hibbard",
+      "time": "8pm",
+      "ticket": "https://gruenehall.com/event/cody-hibbard/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
       "group": "Gruene / New Braunfels"
     },
     {
@@ -929,6 +917,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-11-22",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "THE POLAR EXPRESS EXPERIENCE",
+      "time": "3:30pm",
+      "ticket": "https://brauntex.org/event/the-polar-express-experience-2/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
     }
   ]
 }
