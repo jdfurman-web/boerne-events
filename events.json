@@ -1,47 +1,11 @@
 {
-  "generated": "2026-10-08T17:47:31",
+  "generated": "2026-10-09T17:23:02",
   "window": {
-    "start": "2026-10-07",
-    "end": "2026-11-22"
+    "start": "2026-10-08",
+    "end": "2026-11-23"
   },
-  "count": 77,
+  "count": 79,
   "events": [
-    {
-      "date": "2026-10-08",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Friday Afternoon Club",
-      "time": "4pm",
-      "ticket": "https://gruenehall.com/event/friday-afternoon-club-14/",
-      "source": "https://gruenehall.com/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-08",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Boerne After Hours Mixer at Singing Water Vineyards",
-      "time": "4pm",
-      "ticket": "https://theboernelife.com/events/boerne-after-hours-mixer-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-10-08",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Robert Earl Keen: Then And Now Tour",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/robert-earl-keen-then-and-now-tour/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-10-09",
       "venue": "Gruene Hall",
@@ -380,6 +344,18 @@
     },
     {
       "date": "2026-10-16",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "Jimmie Vaughan & The Tilt-A-Whirl Band at Stable Hall",
+      "time": "7pm",
+      "ticket": "https://events.atpearl.com/event/jimmie-vaughan-the-tilt-a-whirl-band-at-stable-hall/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-10-16",
       "venue": "Gruene Hall",
       "area": "Gruene",
       "category": "Music",
@@ -389,6 +365,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Ticketed",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-17",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Farmers Market",
+      "time": "10am",
+      "ticket": "https://events.atpearl.com/event/farmers-market-2/2026-10-17/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-10-17",
@@ -461,6 +449,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Ticketed",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-18",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Makers Market",
+      "time": "10am",
+      "ticket": "https://events.atpearl.com/event/makers-market-4/2026-10-18/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-10-18",
@@ -628,6 +628,30 @@
       "ticket": "https://gruenehall.com/event/cody-hibbard/",
       "source": "https://gruenehall.com/events/",
       "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-24",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Tony Taylor",
+      "time": "11am",
+      "ticket": "https://gruenehall.com/event/tony-taylor-5/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-24",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Bo Phillips",
+      "time": "1pm",
+      "ticket": "https://gruenehall.com/event/bo-phillips-22/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
       "group": "Gruene / New Braunfels"
     },
     {
