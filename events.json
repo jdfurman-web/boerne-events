@@ -1,47 +1,11 @@
 {
-  "generated": "2026-10-11T16:35:30",
+  "generated": "2026-10-12T20:10:59",
   "window": {
-    "start": "2026-10-10",
-    "end": "2026-11-25"
+    "start": "2026-10-11",
+    "end": "2026-11-26"
   },
-  "count": 72,
+  "count": 71,
   "events": [
-    {
-      "date": "2026-10-11",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Makers Market",
-      "time": "10am",
-      "ticket": "https://events.atpearl.com/event/makers-market-4/2026-10-11/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-10-11",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Sunday All-Star Playlist",
-      "time": "1pm",
-      "ticket": "https://gruenehall.com/event/sunday-all-star-playlist/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-11",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Maplewood Brothers at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/maplewood-brothers-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
     {
       "date": "2026-10-12",
       "venue": "Gruene Hall",
@@ -392,6 +356,18 @@
     },
     {
       "date": "2026-10-21",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Night Market",
+      "time": "5pm",
+      "ticket": "https://events.atpearl.com/event/night-market-3/2026-10-21/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-10-21",
       "venue": "Gruene Hall",
       "area": "Gruene",
       "category": "Music",
@@ -640,6 +616,18 @@
       "ticket": "https://brauntex.org/event/brothers-of-the-heart-2/",
       "source": "https://brauntex.org/events/",
       "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-27",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Tom Gillam",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/tom-gillam-3/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
       "group": "Gruene / New Braunfels"
     },
     {
