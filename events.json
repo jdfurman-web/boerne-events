@@ -1,23 +1,11 @@
 {
-  "generated": "2026-10-12T20:10:59",
+  "generated": "2026-10-13T18:03:35",
   "window": {
-    "start": "2026-10-11",
-    "end": "2026-11-26"
+    "start": "2026-10-12",
+    "end": "2026-11-27"
   },
-  "count": 71,
+  "count": 72,
   "events": [
-    {
-      "date": "2026-10-12",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Bret Graham",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/bret-graham-149/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-10-13",
       "venue": "Gruene Hall",
@@ -857,6 +845,30 @@
       "source": "https://brauntex.org/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-27",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Band of Confusion: A Genesis Tribute at Singing Water Vineyards",
+      "time": "6pm",
+      "ticket": "https://theboernelife.com/events/band-of-confusion-a-genesis-tribute-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-11-27",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-11-27/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
     }
   ]
 }
