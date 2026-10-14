@@ -1,23 +1,11 @@
 {
-  "generated": "2026-10-13T18:03:35",
+  "generated": "2026-10-14T15:44:58",
   "window": {
-    "start": "2026-10-12",
-    "end": "2026-11-27"
+    "start": "2026-10-13",
+    "end": "2026-11-28"
   },
-  "count": 72,
+  "count": 73,
   "events": [
-    {
-      "date": "2026-10-13",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Ted Russel Kamp",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/ted-russel-kamp/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-10-14",
       "venue": "The Pearl",
@@ -619,6 +607,18 @@
       "group": "Gruene / New Braunfels"
     },
     {
+      "date": "2026-10-28",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "The Georges",
+      "time": "7pm",
+      "ticket": "https://gruenehall.com/event/the-georges-107/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
       "date": "2026-10-29",
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
@@ -866,6 +866,18 @@
       "act": "Live Music at The Bevy Hotel",
       "time": "7pm",
       "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-11-27/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-11-28",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-11-28/",
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
