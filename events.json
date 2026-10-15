@@ -1,47 +1,11 @@
 {
-  "generated": "2026-10-14T15:44:58",
+  "generated": "2026-10-15T15:32:04",
   "window": {
-    "start": "2026-10-13",
-    "end": "2026-11-28"
+    "start": "2026-10-14",
+    "end": "2026-11-29"
   },
-  "count": 73,
+  "count": 83,
   "events": [
-    {
-      "date": "2026-10-14",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Night Market",
-      "time": "5pm",
-      "ticket": "https://events.atpearl.com/event/night-market-3/2026-10-14/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-10-14",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "The Georges",
-      "time": "7pm",
-      "ticket": "https://gruenehall.com/event/the-georges-106/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-14",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Boerne “Thrive After 55” Senior Expo at The Bevy Hotel",
-      "time": "9am",
-      "ticket": "https://theboernelife.com/events/boerne-thrive-after-55-senior-expo-at-the-bevy-hotel/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
     {
       "date": "2026-10-15",
       "venue": "Brauntex Theatre",
@@ -295,18 +259,6 @@
       "group": "Gruene / New Braunfels"
     },
     {
-      "date": "2026-10-18",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "Mark Chesnutt at Stable Hall",
-      "time": "7pm",
-      "ticket": "https://events.atpearl.com/event/mark-chesnutt-at-stable-hall/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
       "date": "2026-10-19",
       "venue": "Gruene Hall",
       "area": "Gruene",
@@ -329,18 +281,6 @@
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-21",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Night Market",
-      "time": "5pm",
-      "ticket": "https://events.atpearl.com/event/night-market-3/2026-10-21/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-10-21",
@@ -620,6 +560,18 @@
     },
     {
       "date": "2026-10-29",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "West Bound Hearts",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/west-bound-hearts-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-29",
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
       "category": "Theater/Arts",
@@ -627,6 +579,18 @@
       "time": "7:30pm",
       "ticket": "https://brauntex.org/event/gene-watson/",
       "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-30",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Friday Afternoon Club",
+      "time": "4pm",
+      "ticket": "https://gruenehall.com/event/friday-afternoon-club-16/2026-10-30/",
+      "source": "https://gruenehall.com/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
     },
@@ -692,6 +656,18 @@
     },
     {
       "date": "2026-11-01",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Jeff Wood at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/jeff-wood-at-singing-water-vineyards-3/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-11-01",
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
       "category": "Theater/Arts",
@@ -752,6 +728,30 @@
     },
     {
       "date": "2026-11-07",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Saturday Wine Club Pick Up Party with Matt Kirk at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/saturday-wine-club-pick-up-party-with-matt-kirk-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-11-07",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "John Moore at Singing Water Vineyards",
+      "time": "5pm",
+      "ticket": "https://theboernelife.com/events/john-moore-at-singing-water-vineyards-3/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-11-07",
       "venue": "The Bevy Hotel",
       "area": "Boerne",
       "category": "Music",
@@ -761,6 +761,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-11-08",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Sunday Wine Club Pick Up Party with Noah Kurtis at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/sunday-wine-club-pick-up-party-with-noah-kurtis-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
     },
     {
       "date": "2026-11-13",
@@ -776,6 +788,30 @@
     },
     {
       "date": "2026-11-14",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Henry Lee at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/henry-lee-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-11-14",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Noelle Goforthe at Singing Water Vineyards",
+      "time": "5pm",
+      "ticket": "https://theboernelife.com/events/noelle-goforthe-at-singing-water-vineyards-2/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-11-14",
       "venue": "The Bevy Hotel",
       "area": "Boerne",
       "category": "Music",
@@ -785,6 +821,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-11-15",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Jeremy Parsons at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/jeremy-parsons-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
     },
     {
       "date": "2026-11-19",
@@ -812,6 +860,30 @@
     },
     {
       "date": "2026-11-21",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "David Selbo at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/david-selbo-at-singing-water-vineyards-2/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-11-21",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Hunter Billingsley at Singing Water Vineyards",
+      "time": "5pm",
+      "ticket": "https://theboernelife.com/events/hunter-billingsley-at-singing-water-vineyards-2/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-11-21",
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
       "category": "Theater/Arts",
@@ -836,6 +908,18 @@
     },
     {
       "date": "2026-11-22",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Julian Escobedo at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/julian-escobedo-at-singing-water-vineyards-2/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-11-22",
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
       "category": "Theater/Arts",
@@ -845,6 +929,18 @@
       "source": "https://brauntex.org/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-25",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Philip Smith at Singing Water Vineyards",
+      "time": "5pm",
+      "ticket": "https://theboernelife.com/events/philip-smith-at-singing-water-vineyards-2/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
     },
     {
       "date": "2026-11-27",
@@ -872,6 +968,18 @@
     },
     {
       "date": "2026-11-28",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Sam and Lilly Platts at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/sam-and-lilly-platts-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-11-28",
       "venue": "The Bevy Hotel",
       "area": "Boerne",
       "category": "Music",
@@ -881,6 +989,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-11-29",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Jeff Jacobs at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/jeff-jacobs-at-singing-water-vineyards-2/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
     }
   ]
 }
