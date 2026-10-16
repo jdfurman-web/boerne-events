@@ -1,59 +1,11 @@
 {
-  "generated": "2026-10-15T15:32:04",
+  "generated": "2026-10-16T15:18:33",
   "window": {
-    "start": "2026-10-14",
-    "end": "2026-11-29"
+    "start": "2026-10-15",
+    "end": "2026-11-30"
   },
   "count": 83,
   "events": [
-    {
-      "date": "2026-10-15",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Theater/Arts",
-      "act": "HOME FREE",
-      "time": "7:30pm",
-      "ticket": "https://brauntex.org/event/home-free/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-15",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Graham St. Clair Band",
-      "time": "7pm",
-      "ticket": "https://gruenehall.com/event/graham-st-clair-band/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-15",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "Randall King at Stable Hall",
-      "time": "7pm",
-      "ticket": "https://events.atpearl.com/event/randall-king-at-stable-hall/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-10-15",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Jake Bush",
-      "time": "8:30pm",
-      "ticket": "https://gruenehall.com/event/jake-bush/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-10-16",
       "venue": "Gruene Hall",
@@ -257,6 +209,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-18",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "Mark Chesnutt at Stable Hall",
+      "time": "7pm",
+      "ticket": "https://events.atpearl.com/event/mark-chesnutt-at-stable-hall/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-10-19",
@@ -616,6 +580,42 @@
       "ticket": "https://brauntex.org/event/the-rocky-horror-picture-show/",
       "source": "https://brauntex.org/events/",
       "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-30",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Cory Morrow",
+      "time": "8pm",
+      "ticket": "https://gruenehall.com/event/cory-morrow-8/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-31",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Austin Gilliam",
+      "time": "11am",
+      "ticket": "https://gruenehall.com/event/austin-gilliam-12/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-31",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Truck Stop Gamblers",
+      "time": "1pm",
+      "ticket": "https://gruenehall.com/event/truck-stop-gamblers-3/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
       "group": "Gruene / New Braunfels"
     },
     {
