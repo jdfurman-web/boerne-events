@@ -1,71 +1,11 @@
 {
-  "generated": "2026-10-16T15:18:33",
+  "generated": "2026-10-17T14:06:37",
   "window": {
-    "start": "2026-10-15",
-    "end": "2026-11-30"
+    "start": "2026-10-16",
+    "end": "2026-12-01"
   },
-  "count": 83,
+  "count": 82,
   "events": [
-    {
-      "date": "2026-10-16",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Friday Afternoon Club",
-      "time": "4pm",
-      "ticket": "https://gruenehall.com/event/friday-afternoon-club-16/2026-10-16/",
-      "source": "https://gruenehall.com/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-16",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Theater/Arts",
-      "act": "JOSH WEATHERS",
-      "time": "7:30pm",
-      "ticket": "https://brauntex.org/event/josh-weathers/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-16",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-10-16/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-10-16",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "Jimmie Vaughan & The Tilt-A-Whirl Band at Stable Hall",
-      "time": "7pm",
-      "ticket": "https://events.atpearl.com/event/jimmie-vaughan-the-tilt-a-whirl-band-at-stable-hall/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-10-16",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Dylan Wheeler",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/dylan-wheeler-4/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-10-17",
       "venue": "Gruene Hall",
@@ -245,6 +185,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-21",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Night Market",
+      "time": "5pm",
+      "ticket": "https://events.atpearl.com/event/night-market-3/2026-10-21/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-10-21",
@@ -644,6 +596,18 @@
     },
     {
       "date": "2026-10-31",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Hill Country Revival",
+      "time": "7pm",
+      "ticket": "https://gruenehall.com/event/hill-country-revival-3/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-31",
       "venue": "The Bevy Hotel",
       "area": "Boerne",
       "category": "Music",
@@ -653,6 +617,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-10-31",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Ghosts of Hill County",
+      "time": "9:30pm",
+      "ticket": "https://gruenehall.com/event/ghosts-of-hill-county/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-11-01",
@@ -1001,6 +977,18 @@
       "source": "https://theboernelife.com/venue/singing-water-vineyards/",
       "price": "",
       "group": "Comfort"
+    },
+    {
+      "date": "2026-12-01",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "Mariachi Herencia de México – A Mariachi Christmas",
+      "time": "7:30pm",
+      "ticket": "https://brauntex.org/event/mariachi-herencia-de-mexico-a-mariachi-christmas/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
     }
   ]
 }
