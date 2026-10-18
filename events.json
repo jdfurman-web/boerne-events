@@ -1,95 +1,11 @@
 {
-  "generated": "2026-10-17T14:06:37",
+  "generated": "2026-10-18T14:23:11",
   "window": {
-    "start": "2026-10-16",
-    "end": "2026-12-01"
+    "start": "2026-10-17",
+    "end": "2026-12-02"
   },
-  "count": 82,
+  "count": 75,
   "events": [
-    {
-      "date": "2026-10-17",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Jamie Cameron",
-      "time": "11am",
-      "ticket": "https://gruenehall.com/event/jamie-cameron-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-17",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Lee Mathis & The Brutally Handsome Band",
-      "time": "1pm",
-      "ticket": "https://gruenehall.com/event/lee-mathis-the-brutally-handsome-band-4/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-17",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Erica Daniels at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/erica-daniels-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-10-17",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Greggie and the Jets: An Elton John Tribute at Singing Water Vineyards",
-      "time": "6pm",
-      "ticket": "https://theboernelife.com/events/greggie-and-the-jets-an-elton-john-tribute-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-10-17",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-10-17/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-10-17",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Max Stalling w/ special guest Owen Temple",
-      "time": "8:30pm",
-      "ticket": "https://gruenehall.com/event/max-stalling-w-special-guest-owen-temple/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-17",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Farmers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/farmers-market-2/2026-10-17/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
     {
       "date": "2026-10-18",
       "venue": "The Pearl",
