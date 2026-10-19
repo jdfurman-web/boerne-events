@@ -1,83 +1,11 @@
 {
-  "generated": "2026-10-18T14:23:11",
+  "generated": "2026-10-19T17:22:49",
   "window": {
-    "start": "2026-10-17",
-    "end": "2026-12-02"
+    "start": "2026-10-18",
+    "end": "2026-12-03"
   },
-  "count": 75,
+  "count": 69,
   "events": [
-    {
-      "date": "2026-10-18",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Makers Market",
-      "time": "10am",
-      "ticket": "https://events.atpearl.com/event/makers-market-4/2026-10-18/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-10-18",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Jackson Avenue Band",
-      "time": "11:30am",
-      "ticket": "https://gruenehall.com/event/jackson-avenue-band-6/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-18",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Ruben Pacheco at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/ruben-pacheco-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-10-18",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Linda Gail Lewis",
-      "time": "3pm",
-      "ticket": "https://gruenehall.com/event/linda-gail-lewis-18/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-18",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "AmberLynn Browning & Her Texas Highway Men",
-      "time": "6:30pm",
-      "ticket": "https://gruenehall.com/event/amberlynn-browning-her-texas-highway-men/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-18",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "Mark Chesnutt at Stable Hall",
-      "time": "7pm",
-      "ticket": "https://events.atpearl.com/event/mark-chesnutt-at-stable-hall/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
     {
       "date": "2026-10-19",
       "venue": "Gruene Hall",
