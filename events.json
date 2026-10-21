@@ -1,23 +1,11 @@
 {
-  "generated": "2026-10-20T15:35:18",
+  "generated": "2026-10-21T15:52:39",
   "window": {
-    "start": "2026-10-19",
-    "end": "2026-12-04"
+    "start": "2026-10-20",
+    "end": "2026-12-05"
   },
-  "count": 70,
+  "count": 73,
   "events": [
-    {
-      "date": "2026-10-20",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Bradley Thomas Stivers",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/bradley-thomas-stivers-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-10-21",
       "venue": "The Pearl",
@@ -127,6 +115,18 @@
       "group": "Gruene / New Braunfels"
     },
     {
+      "date": "2026-10-23",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "Iron & Wine",
+      "time": "8pm",
+      "ticket": "https://events.atpearl.com/event/iron-wine/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
       "date": "2026-10-24",
       "venue": "Gruene Hall",
       "area": "Gruene",
@@ -197,6 +197,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-10-24",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Farmers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/farmers-market-2/2026-10-24/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-10-24",
@@ -842,6 +854,30 @@
       "act": "Live Music at The Bevy Hotel",
       "time": "7pm",
       "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-12-04/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-12-05",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "The Grand Ol’ Christmas Show",
+      "time": "7:30pm",
+      "ticket": "https://brauntex.org/event/the-grand-ol-christmas-show-4/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-12-05",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-12-05/",
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
