@@ -1,59 +1,11 @@
 {
-  "generated": "2026-10-22T15:49:18",
+  "generated": "2026-10-23T15:40:18",
   "window": {
-    "start": "2026-10-21",
-    "end": "2026-12-06"
+    "start": "2026-10-22",
+    "end": "2026-12-07"
   },
-  "count": 73,
+  "count": 71,
   "events": [
-    {
-      "date": "2026-10-21",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Night Market",
-      "time": "5pm",
-      "ticket": "https://events.atpearl.com/event/night-market-3/2026-10-21/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-10-21",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Allan Hendrickson",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/allan-hendrickson-14/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-22",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Coby Rotan & The Naturals",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/coby-rotan-the-naturals/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-22",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Love & Chaos",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/love-chaos/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-10-23",
       "venue": "Gruene Hall",
@@ -224,6 +176,18 @@
     },
     {
       "date": "2026-10-25",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Makers Market",
+      "time": "10am",
+      "ticket": "https://events.atpearl.com/event/makers-market-4/2026-10-25/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-10-25",
       "venue": "Gruene Hall",
       "area": "Gruene",
       "category": "Music",
@@ -269,6 +233,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-25",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "Demola Live! at Stable Hall",
+      "time": "7pm",
+      "ticket": "https://events.atpearl.com/event/demola-live-at-stable-hall/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-10-26",
