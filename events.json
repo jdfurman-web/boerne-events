@@ -1,47 +1,11 @@
 {
-  "generated": "2026-10-23T15:40:18",
+  "generated": "2026-10-24T14:22:25",
   "window": {
-    "start": "2026-10-22",
-    "end": "2026-12-07"
+    "start": "2026-10-23",
+    "end": "2026-12-08"
   },
-  "count": 71,
+  "count": 66,
   "events": [
-    {
-      "date": "2026-10-23",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Friday Afternoon Club",
-      "time": "4pm",
-      "ticket": "https://gruenehall.com/event/friday-afternoon-club-16/2026-10-23/",
-      "source": "https://gruenehall.com/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-23",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Theater/Arts",
-      "act": "BALLET TEXAS PRESENTS SALEM",
-      "time": "7pm",
-      "ticket": "https://brauntex.org/event/ballet-texas-presents-salem-2/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-23",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-10-23/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
     {
       "date": "2026-10-23",
       "venue": "Brauntex Theatre",
@@ -53,30 +17,6 @@
       "source": "https://brauntex.org/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-23",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Cody Hibbard",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/cody-hibbard/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-23",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "Iron & Wine",
-      "time": "8pm",
-      "ticket": "https://events.atpearl.com/event/iron-wine/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-10-24",
