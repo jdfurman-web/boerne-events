@@ -1,119 +1,11 @@
 {
-  "generated": "2026-10-24T14:22:25",
+  "generated": "2026-10-25T14:54:19",
   "window": {
-    "start": "2026-10-23",
-    "end": "2026-12-08"
+    "start": "2026-10-24",
+    "end": "2026-12-09"
   },
-  "count": 66,
+  "count": 59,
   "events": [
-    {
-      "date": "2026-10-23",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Theater/Arts",
-      "act": "Ballet Texas 2026–2027 Season Subscription",
-      "time": "8am",
-      "ticket": "https://brauntex.org/event/ballet-texas-2026-2027-season-subscription/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-24",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Tony Taylor",
-      "time": "11am",
-      "ticket": "https://gruenehall.com/event/tony-taylor-5/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-24",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Bo Phillips",
-      "time": "1pm",
-      "ticket": "https://gruenehall.com/event/bo-phillips-22/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-24",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Julia Rose at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/julia-rose-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-10-24",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "The Lost Shaker of Salt Tribute to Jimmy Buffett at Singing Water Vineyards",
-      "time": "6pm",
-      "ticket": "https://theboernelife.com/events/the-lost-shaker-of-salt-tribute-to-jimmy-buffett-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-10-24",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Theater/Arts",
-      "act": "BALLET TEXAS PRESENTS SALEM",
-      "time": "7pm",
-      "ticket": "https://brauntex.org/event/ballet-texas-presents-salem-3/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-24",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-10-24/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-10-24",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Farmers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/farmers-market-2/2026-10-24/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-10-24",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Tyler Halverson",
-      "time": "9pm",
-      "ticket": "https://gruenehall.com/event/tyler-halverson-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-10-25",
       "venue": "The Pearl",
@@ -221,6 +113,30 @@
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-28",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Author Visit at Twig Book Shop: John Picacio at Pearl Night Market",
+      "time": "5pm",
+      "ticket": "https://events.atpearl.com/event/author-visit-at-twig-book-shop-john-picacio-at-pearl-night-market/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-10-28",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Night Market",
+      "time": "5pm",
+      "ticket": "https://events.atpearl.com/event/night-market-3/2026-10-28/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-10-28",
