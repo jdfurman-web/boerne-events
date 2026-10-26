@@ -1,83 +1,11 @@
 {
-  "generated": "2026-10-25T14:54:19",
+  "generated": "2026-10-26T17:11:56",
   "window": {
-    "start": "2026-10-24",
-    "end": "2026-12-09"
+    "start": "2026-10-25",
+    "end": "2026-12-10"
   },
-  "count": 59,
+  "count": 54,
   "events": [
-    {
-      "date": "2026-10-25",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Makers Market",
-      "time": "10am",
-      "ticket": "https://events.atpearl.com/event/makers-market-4/2026-10-25/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-10-25",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Sour Bridges",
-      "time": "11:30am",
-      "ticket": "https://gruenehall.com/event/sour-bridges-4/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-25",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Brad Blackburn at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/brad-blackburn-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-10-25",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "John Del Toro Richardson",
-      "time": "3pm",
-      "ticket": "https://gruenehall.com/event/john-del-toro-richardson-4/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-25",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Soul Sessions",
-      "time": "6:30pm",
-      "ticket": "https://gruenehall.com/event/soul-sessions-21/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-25",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "Demola Live! at Stable Hall",
-      "time": "7pm",
-      "ticket": "https://events.atpearl.com/event/demola-live-at-stable-hall/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
     {
       "date": "2026-10-26",
       "venue": "Gruene Hall",
@@ -713,6 +641,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-12-10",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "UNDER THE STREETLAMP - HIP TO THE HOLIDAYS",
+      "time": "7:30pm",
+      "ticket": "https://brauntex.org/event/under-the-streetlamp-hip-to-the-holidays/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
     }
   ]
 }
