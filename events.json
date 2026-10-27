@@ -1,35 +1,11 @@
 {
-  "generated": "2026-10-26T17:11:56",
+  "generated": "2026-10-27T16:17:34",
   "window": {
-    "start": "2026-10-25",
-    "end": "2026-12-10"
+    "start": "2026-10-26",
+    "end": "2026-12-11"
   },
   "count": 54,
   "events": [
-    {
-      "date": "2026-10-26",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Bret Graham",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/bret-graham-150/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-26",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Theater/Arts",
-      "act": "BROTHERS OF THE HEART",
-      "time": "7:30pm",
-      "ticket": "https://brauntex.org/event/brothers-of-the-heart-2/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-10-27",
       "venue": "Gruene Hall",
@@ -653,6 +629,30 @@
       "source": "https://brauntex.org/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-12-11",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "TEXAS CELLOS",
+      "time": "7:30pm",
+      "ticket": "https://brauntex.org/event/texas-cellos/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-12-11",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-12-11/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
     }
   ]
 }
