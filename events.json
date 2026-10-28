@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-27T16:17:34",
+  "generated": "2026-10-28T17:03:09",
   "window": {
-    "start": "2026-10-26",
-    "end": "2026-12-11"
+    "start": "2026-10-27",
+    "end": "2026-12-12"
   },
-  "count": 54,
+  "count": 58,
   "events": [
     {
       "date": "2026-10-27",
@@ -101,6 +101,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-10-30",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "Thee Sinseers: Love Stories Tour at Stable Hall",
+      "time": "7pm",
+      "ticket": "https://events.atpearl.com/event/thee-sinseers-love-stories-tour-at-stable-hall/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-10-30",
@@ -209,6 +221,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-10-31",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Farmers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/farmers-market-2/2026-10-31/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-11-01",
@@ -650,6 +674,30 @@
       "act": "Live Music at The Bevy Hotel",
       "time": "7pm",
       "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-12-11/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-12-12",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "An Evening with Peter Billingsley and A Christmas Story",
+      "time": "7:30pm",
+      "ticket": "https://brauntex.org/event/an-evening-with-peter-billingsley-and-a-christmas-story/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-12-12",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-12-12/",
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
