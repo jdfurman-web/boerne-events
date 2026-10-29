@@ -1,59 +1,11 @@
 {
-  "generated": "2026-10-28T17:03:09",
+  "generated": "2026-10-29T17:21:18",
   "window": {
-    "start": "2026-10-27",
-    "end": "2026-12-12"
+    "start": "2026-10-28",
+    "end": "2026-12-13"
   },
-  "count": 58,
+  "count": 55,
   "events": [
-    {
-      "date": "2026-10-27",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Tom Gillam",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/tom-gillam-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-28",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Author Visit at Twig Book Shop: John Picacio at Pearl Night Market",
-      "time": "5pm",
-      "ticket": "https://events.atpearl.com/event/author-visit-at-twig-book-shop-john-picacio-at-pearl-night-market/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-10-28",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Night Market",
-      "time": "5pm",
-      "ticket": "https://events.atpearl.com/event/night-market-3/2026-10-28/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-10-28",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "The Georges",
-      "time": "7pm",
-      "ticket": "https://gruenehall.com/event/the-georges-107/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-10-29",
       "venue": "Gruene Hall",
@@ -209,6 +161,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-10-31",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "Old Crow Medicine Show at Stable Hall",
+      "time": "7pm",
+      "ticket": "https://events.atpearl.com/event/old-crow-medicine-show-at-stable-hall/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-10-31",
