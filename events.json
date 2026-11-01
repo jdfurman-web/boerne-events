@@ -1,119 +1,11 @@
 {
-  "generated": "2026-10-31T15:59:15",
+  "generated": "2026-11-01T17:03:04",
   "window": {
-    "start": "2026-10-30",
-    "end": "2026-12-15"
+    "start": "2026-10-31",
+    "end": "2026-12-16"
   },
-  "count": 51,
+  "count": 72,
   "events": [
-    {
-      "date": "2026-10-31",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Austin Gilliam",
-      "time": "11am",
-      "ticket": "https://gruenehall.com/event/austin-gilliam-12/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-31",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Truck Stop Gamblers",
-      "time": "1pm",
-      "ticket": "https://gruenehall.com/event/truck-stop-gamblers-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-31",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Ty Dillon at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/ty-dillon-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-10-31",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Flower Power 1960s Costume Party at Singing Water Vineyards",
-      "time": "6pm",
-      "ticket": "https://theboernelife.com/events/flower-power-1960s-costume-party-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-10-31",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Hill Country Revival",
-      "time": "7pm",
-      "ticket": "https://gruenehall.com/event/hill-country-revival-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-31",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-10-31/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-10-31",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "Old Crow Medicine Show at Stable Hall",
-      "time": "7pm",
-      "ticket": "https://events.atpearl.com/event/old-crow-medicine-show-at-stable-hall/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-10-31",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Ghosts of Hill County",
-      "time": "9:30pm",
-      "ticket": "https://gruenehall.com/event/ghosts-of-hill-county/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-10-31",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Farmers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/farmers-market-saturdays/2026-10-31/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
     {
       "date": "2026-11-01",
       "venue": "The Pearl",
@@ -125,6 +17,18 @@
       "source": "https://events.atpearl.com/events/",
       "price": "",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-11-01",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Tasman Sharp & The Ripsnorters",
+      "time": "11:30am",
+      "ticket": "https://gruenehall.com/event/tasman-sharp-the-ripsnorters-5/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-11-01",
@@ -140,6 +44,18 @@
     },
     {
       "date": "2026-11-01",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Jackson Avenue Band",
+      "time": "3pm",
+      "ticket": "https://gruenehall.com/event/jackson-avenue-band-7/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-01",
       "venue": "The Pearl",
       "area": "San Antonio – Pearl",
       "category": "Music",
@@ -149,6 +65,18 @@
       "source": "https://events.atpearl.com/events/",
       "price": "",
       "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-11-01",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Owen Stroud Band",
+      "time": "6:30pm",
+      "ticket": "https://gruenehall.com/event/owen-stroud-band/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-11-01",
@@ -175,6 +103,42 @@
       "group": "Gruene / New Braunfels"
     },
     {
+      "date": "2026-11-02",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Glen Collins",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/glen-collins/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-03",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "D'Foy Music",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/michael-monroe-goodman-24/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-04",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Night Market",
+      "time": "5pm",
+      "ticket": "https://events.atpearl.com/event/night-market-3/2026-11-04/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
       "date": "2026-11-04",
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
@@ -187,6 +151,18 @@
       "group": "Gruene / New Braunfels"
     },
     {
+      "date": "2026-11-04",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "JW-Jones",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/jw-jones-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
       "date": "2026-11-05",
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
@@ -195,6 +171,42 @@
       "time": "6:30pm",
       "ticket": "https://brauntex.org/event/the-lord-of-the-rings-trilogy-cinema-series-the-two-towers/",
       "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-05",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Jon Kott Band",
+      "time": "6:30pm",
+      "ticket": "https://gruenehall.com/event/jon-kott-band-3/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-05",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "The Filthy Heathens",
+      "time": "8pm",
+      "ticket": "https://gruenehall.com/event/the-filthy-heathens/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-06",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Friday Afternoon Club",
+      "time": "4pm",
+      "ticket": "https://gruenehall.com/event/friday-afternoon-club-16/2026-11-06/",
+      "source": "https://gruenehall.com/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
     },
@@ -221,6 +233,42 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-11-06",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "James McMurtry",
+      "time": "8pm",
+      "ticket": "https://gruenehall.com/event/james-mcmurtry-4/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-07",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Lindsay Beaver",
+      "time": "11am",
+      "ticket": "https://gruenehall.com/event/lindsay-beaver-15/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-07",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Jake Penrod",
+      "time": "1pm",
+      "ticket": "https://gruenehall.com/event/jake-penrod-4/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-11-07",
@@ -259,6 +307,30 @@
       "group": "Boerne"
     },
     {
+      "date": "2026-11-07",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Triston Marez",
+      "time": "9pm",
+      "ticket": "https://gruenehall.com/event/triston-marez-3/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-08",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Andi Holleman & The Highroad",
+      "time": "11:30am",
+      "ticket": "https://gruenehall.com/event/andi-holleman-the-highroad-11/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
       "date": "2026-11-08",
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
@@ -271,6 +343,102 @@
       "group": "Comfort"
     },
     {
+      "date": "2026-11-08",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Bret Graham",
+      "time": "3pm",
+      "ticket": "https://gruenehall.com/event/bret-graham-151/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-08",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Dani LaCour",
+      "time": "6:30pm",
+      "ticket": "https://gruenehall.com/event/dani-lacour-5/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-09",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Tony Taylor & Friends",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/tony-taylor-friends-31/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-10",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Chris Ruest",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/chris-ruest-14/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-11",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "The Georges",
+      "time": "7pm",
+      "ticket": "https://gruenehall.com/event/the-georges-109/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-12",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Jakota Wass",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/jakota-wass/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-12",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Heath Walker",
+      "time": "7:30pm",
+      "ticket": "https://gruenehall.com/event/heath-walker-5/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-13",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Friday Afternoon Club",
+      "time": "4pm",
+      "ticket": "https://gruenehall.com/event/friday-afternoon-club-16/2026-11-13/",
+      "source": "https://gruenehall.com/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
       "date": "2026-11-13",
       "venue": "The Bevy Hotel",
       "area": "Boerne",
@@ -281,6 +449,42 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-11-13",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Ray Wylie Hubbard & Friends: 80th Birthday Celebration",
+      "time": "8pm",
+      "ticket": "https://gruenehall.com/event/ray-wylie-hubbard-friends-80th-birthday-celebration/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-14",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Gage Gardiner",
+      "time": "11am",
+      "ticket": "https://gruenehall.com/event/gage-gardiner-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-14",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Bo Phillips",
+      "time": "1pm",
+      "ticket": "https://gruenehall.com/event/bo-phillips-23/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-11-14",
@@ -319,6 +523,30 @@
       "group": "Boerne"
     },
     {
+      "date": "2026-11-14",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Ray Wylie Hubbard & Friends: 80th Birthday Celebration",
+      "time": "8pm",
+      "ticket": "https://gruenehall.com/event/ray-wylie-hubbard-friends-80th-birthday-celebration-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-15",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Jacque Walker Band",
+      "time": "11:30am",
+      "ticket": "https://gruenehall.com/event/jacque-walker-band/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
       "date": "2026-11-15",
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
@@ -329,6 +557,30 @@
       "source": "https://theboernelife.com/venue/singing-water-vineyards/",
       "price": "",
       "group": "Comfort"
+    },
+    {
+      "date": "2026-11-15",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Eric Demmer Band",
+      "time": "3pm",
+      "ticket": "https://gruenehall.com/event/eric-demmer-band-21/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-15",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Soul Sessions",
+      "time": "6:30pm",
+      "ticket": "https://gruenehall.com/event/soul-sessions-22/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-11-19",
