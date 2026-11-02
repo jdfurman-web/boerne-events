@@ -1,107 +1,11 @@
 {
-  "generated": "2026-11-01T17:03:04",
+  "generated": "2026-11-02T20:40:38",
   "window": {
-    "start": "2026-10-31",
-    "end": "2026-12-16"
+    "start": "2026-11-01",
+    "end": "2026-12-17"
   },
-  "count": 72,
+  "count": 70,
   "events": [
-    {
-      "date": "2026-11-01",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Farmers Market",
-      "time": "10am",
-      "ticket": "https://events.atpearl.com/event/farmers-market-sundays/2026-11-01/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-11-01",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Tasman Sharp & The Ripsnorters",
-      "time": "11:30am",
-      "ticket": "https://gruenehall.com/event/tasman-sharp-the-ripsnorters-5/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-01",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Jeff Wood at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/jeff-wood-at-singing-water-vineyards-3/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-11-01",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Jackson Avenue Band",
-      "time": "3pm",
-      "ticket": "https://gruenehall.com/event/jackson-avenue-band-7/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-01",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "Sabores de México at Pearl: A Día de Muertos Celebration",
-      "time": "3pm",
-      "ticket": "https://events.atpearl.com/event/sabores-de-mexico-at-pearl-a-dia-de-muertos-celebration/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-11-01",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Owen Stroud Band",
-      "time": "6:30pm",
-      "ticket": "https://gruenehall.com/event/owen-stroud-band/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-01",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "Recuérdame: Campanas at Stable Hall",
-      "time": "6pm",
-      "ticket": "https://events.atpearl.com/event/recuerdame-campanas-at-stable-hall/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-11-01",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Theater/Arts",
-      "act": "HERE COME THE MUMMIES",
-      "time": "7:30pm",
-      "ticket": "https://brauntex.org/event/here-come-the-mummies/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-11-02",
       "venue": "Gruene Hall",
@@ -197,6 +101,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-05",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "Grateful Shred at Stable Hall",
+      "time": "8pm",
+      "ticket": "https://events.atpearl.com/event/grateful-shred-at-stable-hall/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-11-06",
@@ -308,6 +224,18 @@
     },
     {
       "date": "2026-11-07",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Farmers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/farmers-market-saturdays/2026-11-07/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-11-07",
       "venue": "Gruene Hall",
       "area": "Gruene",
       "category": "Music",
@@ -317,6 +245,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Ticketed",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-08",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Farmers Market",
+      "time": "10am",
+      "ticket": "https://events.atpearl.com/event/farmers-market-sundays/2026-11-08/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-11-08",
@@ -578,6 +518,30 @@
       "act": "Soul Sessions",
       "time": "6:30pm",
       "ticket": "https://gruenehall.com/event/soul-sessions-22/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-16",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Bret Graham",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/bret-graham-152/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-17",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "River Town Relics",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/river-town-relics-8/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
@@ -869,6 +833,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-12-17",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "BALLET TEXAS PRESENTS THE NUTCRACKER",
+      "time": "7pm",
+      "ticket": "https://brauntex.org/event/ballet-texas-presents-the-nutcracker-11/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
     }
   ]
 }
