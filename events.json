@@ -1,23 +1,11 @@
 {
-  "generated": "2026-11-02T20:40:38",
+  "generated": "2026-11-03T18:18:10",
   "window": {
-    "start": "2026-11-01",
-    "end": "2026-12-17"
+    "start": "2026-11-02",
+    "end": "2026-12-18"
   },
-  "count": 70,
+  "count": 72,
   "events": [
-    {
-      "date": "2026-11-02",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Glen Collins",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/glen-collins/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-11-03",
       "venue": "Gruene Hall",
@@ -547,6 +535,18 @@
       "group": "Gruene / New Braunfels"
     },
     {
+      "date": "2026-11-18",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "The Georges",
+      "time": "7pm",
+      "ticket": "https://gruenehall.com/event/the-georges-110/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
       "date": "2026-11-19",
       "venue": "Brauntex Theatre",
       "area": "New Braunfels",
@@ -845,6 +845,30 @@
       "source": "https://brauntex.org/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-12-18",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "BALLET TEXAS PRESENTS THE NUTCRACKER",
+      "time": "7pm",
+      "ticket": "https://brauntex.org/event/ballet-texas-presents-the-nutcracker-10/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-12-18",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-12-18/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
     }
   ]
 }
