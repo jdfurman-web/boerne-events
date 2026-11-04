@@ -1,23 +1,11 @@
 {
-  "generated": "2026-11-03T18:18:10",
+  "generated": "2026-11-04T18:31:06",
   "window": {
-    "start": "2026-11-02",
-    "end": "2026-12-18"
+    "start": "2026-11-03",
+    "end": "2026-12-19"
   },
-  "count": 72,
+  "count": 75,
   "events": [
-    {
-      "date": "2026-11-03",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "D'Foy Music",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/michael-monroe-goodman-24/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-11-04",
       "venue": "The Pearl",
@@ -95,6 +83,18 @@
       "venue": "The Pearl",
       "area": "San Antonio – Pearl",
       "category": "Music",
+      "act": "An Evening with Grateful Shred at Stable Hall",
+      "time": "8pm",
+      "ticket": "https://events.atpearl.com/event/an-evening-with-grateful-shred-at-stable-hall-26/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-11-05",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
       "act": "Grateful Shred at Stable Hall",
       "time": "8pm",
       "ticket": "https://events.atpearl.com/event/grateful-shred-at-stable-hall/",
@@ -149,6 +149,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Ticketed",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-06",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "Gimme Gimme Disco at Stable Hall",
+      "time": "8pm",
+      "ticket": "https://events.atpearl.com/event/gimme-gimme-disco-at-stable-hall-26/2026-11-06/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-11-07",
@@ -866,6 +878,30 @@
       "act": "Live Music at The Bevy Hotel",
       "time": "7pm",
       "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-12-18/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-12-19",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "BALLET TEXAS PRESENTS THE NUTCRACKER",
+      "time": "2pm",
+      "ticket": "https://brauntex.org/event/ballet-texas-presents-the-nutcracker-9/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-12-19",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-12-19/",
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
