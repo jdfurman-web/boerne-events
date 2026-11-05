@@ -1,47 +1,11 @@
 {
-  "generated": "2026-11-04T18:31:06",
+  "generated": "2026-11-05T18:35:53",
   "window": {
-    "start": "2026-11-03",
-    "end": "2026-12-19"
+    "start": "2026-11-04",
+    "end": "2026-12-20"
   },
-  "count": 75,
+  "count": 73,
   "events": [
-    {
-      "date": "2026-11-04",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Night Market",
-      "time": "5pm",
-      "ticket": "https://events.atpearl.com/event/night-market-3/2026-11-04/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-11-04",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Theater/Arts",
-      "act": "THE LORD OF THE RINGS TRILOGY CINEMA SERIES: THE FELLOWSHIP OF THE RING",
-      "time": "6:30pm",
-      "ticket": "https://brauntex.org/event/the-lord-of-the-rings-trilogy-cinema-series-the-fellowship-of-the-ring/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-04",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "JW-Jones",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/jw-jones-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-11-05",
       "venue": "Brauntex Theatre",
@@ -77,18 +41,6 @@
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-05",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "An Evening with Grateful Shred at Stable Hall",
-      "time": "8pm",
-      "ticket": "https://events.atpearl.com/event/an-evening-with-grateful-shred-at-stable-hall-26/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-11-05",
@@ -571,6 +523,18 @@
       "group": "Gruene / New Braunfels"
     },
     {
+      "date": "2026-11-19",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Isaac Jacob Band",
+      "time": "7pm",
+      "ticket": "https://gruenehall.com/event/isaac-jacob-band/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
       "date": "2026-11-20",
       "venue": "The Bevy Hotel",
       "area": "Boerne",
@@ -905,6 +869,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-12-20",
+      "venue": "Brauntex Theatre",
+      "area": "New Braunfels",
+      "category": "Theater/Arts",
+      "act": "BALLET TEXAS PRESENTS THE NUTCRACKER",
+      "time": "2pm",
+      "ticket": "https://brauntex.org/event/ballet-texas-presents-the-nutcracker-7/",
+      "source": "https://brauntex.org/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
     }
   ]
 }
