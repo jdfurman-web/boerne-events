@@ -1,59 +1,11 @@
 {
-  "generated": "2026-11-05T18:35:53",
+  "generated": "2026-11-06T17:51:53",
   "window": {
-    "start": "2026-11-04",
-    "end": "2026-12-20"
+    "start": "2026-11-05",
+    "end": "2026-12-21"
   },
-  "count": 73,
+  "count": 71,
   "events": [
-    {
-      "date": "2026-11-05",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Theater/Arts",
-      "act": "THE LORD OF THE RINGS TRILOGY CINEMA SERIES: THE TWO TOWERS",
-      "time": "6:30pm",
-      "ticket": "https://brauntex.org/event/the-lord-of-the-rings-trilogy-cinema-series-the-two-towers/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-05",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Jon Kott Band",
-      "time": "6:30pm",
-      "ticket": "https://gruenehall.com/event/jon-kott-band-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-05",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "The Filthy Heathens",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/the-filthy-heathens/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-05",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "Grateful Shred at Stable Hall",
-      "time": "8pm",
-      "ticket": "https://events.atpearl.com/event/grateful-shred-at-stable-hall/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
     {
       "date": "2026-11-06",
       "venue": "Gruene Hall",
@@ -530,6 +482,30 @@
       "act": "Isaac Jacob Band",
       "time": "7pm",
       "ticket": "https://gruenehall.com/event/isaac-jacob-band/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-19",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Chuck Briseno",
+      "time": "8:30pm",
+      "ticket": "https://gruenehall.com/event/chuck-briseno-3/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-20",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Austin Gilliam",
+      "time": "12pm",
+      "ticket": "https://gruenehall.com/event/austin-gilliam-13/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
