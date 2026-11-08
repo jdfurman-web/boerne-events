@@ -1,95 +1,11 @@
 {
-  "generated": "2026-11-07T16:46:35",
+  "generated": "2026-11-08T16:57:34",
   "window": {
-    "start": "2026-11-06",
-    "end": "2026-12-22"
+    "start": "2026-11-07",
+    "end": "2026-12-23"
   },
-  "count": 68,
+  "count": 65,
   "events": [
-    {
-      "date": "2026-11-07",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Lindsay Beaver",
-      "time": "11am",
-      "ticket": "https://gruenehall.com/event/lindsay-beaver-15/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-07",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Jake Penrod",
-      "time": "1pm",
-      "ticket": "https://gruenehall.com/event/jake-penrod-4/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-07",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Saturday Wine Club Pick Up Party with Matt Kirk at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/saturday-wine-club-pick-up-party-with-matt-kirk-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-11-07",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "John Moore at Singing Water Vineyards",
-      "time": "5pm",
-      "ticket": "https://theboernelife.com/events/john-moore-at-singing-water-vineyards-3/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-11-07",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-11-07/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-11-07",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Farmers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/farmers-market-saturdays/2026-11-07/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-11-07",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Triston Marez",
-      "time": "9pm",
-      "ticket": "https://gruenehall.com/event/triston-marez-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-11-08",
       "venue": "The Pearl",
@@ -173,6 +89,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-11",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Author Visit at Pearl Night Market: Doc Watkins at Pearl Night Markets",
+      "time": "5pm",
+      "ticket": "https://events.atpearl.com/event/author-visit-at-pearl-night-market-doc-watkins-at-pearl-night-markets-26/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-11-11",
@@ -488,6 +416,30 @@
     },
     {
       "date": "2026-11-21",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Dalton Shackelford",
+      "time": "11am",
+      "ticket": "https://gruenehall.com/event/dalton-shackelford-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-21",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Red Iron Push",
+      "time": "1pm",
+      "ticket": "https://gruenehall.com/event/red-iron-push-23/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-21",
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
       "category": "Music",
@@ -533,6 +485,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-11-21",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Giovannie & The Hired Guns",
+      "time": "9pm",
+      "ticket": "https://gruenehall.com/event/giovannie-the-hired-guns-6/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-11-22",
