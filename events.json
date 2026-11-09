@@ -1,71 +1,11 @@
 {
-  "generated": "2026-11-08T16:57:34",
+  "generated": "2026-11-09T21:20:44",
   "window": {
-    "start": "2026-11-07",
-    "end": "2026-12-23"
+    "start": "2026-11-08",
+    "end": "2026-12-24"
   },
-  "count": 65,
+  "count": 64,
   "events": [
-    {
-      "date": "2026-11-08",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Farmers Market",
-      "time": "10am",
-      "ticket": "https://events.atpearl.com/event/farmers-market-sundays/2026-11-08/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-11-08",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Andi Holleman & The Highroad",
-      "time": "11:30am",
-      "ticket": "https://gruenehall.com/event/andi-holleman-the-highroad-11/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-08",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Sunday Wine Club Pick Up Party with Noah Kurtis at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/sunday-wine-club-pick-up-party-with-noah-kurtis-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-11-08",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Bret Graham",
-      "time": "3pm",
-      "ticket": "https://gruenehall.com/event/bret-graham-151/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-08",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Dani LaCour",
-      "time": "6:30pm",
-      "ticket": "https://gruenehall.com/event/dani-lacour-5/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-11-09",
       "venue": "Gruene Hall",
@@ -98,6 +38,18 @@
       "act": "Author Visit at Pearl Night Market: Doc Watkins at Pearl Night Markets",
       "time": "5pm",
       "ticket": "https://events.atpearl.com/event/author-visit-at-pearl-night-market-doc-watkins-at-pearl-night-markets-26/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-11-11",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Night Market",
+      "time": "5pm",
+      "ticket": "https://events.atpearl.com/event/night-market-3/2026-11-11/",
       "source": "https://events.atpearl.com/events/",
       "price": "",
       "group": "Hill Country / N. San Antonio"
@@ -500,6 +452,18 @@
     },
     {
       "date": "2026-11-22",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Bradley Thomas Stivers",
+      "time": "11:30am",
+      "ticket": "https://gruenehall.com/event/bradley-thomas-stivers-3/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-22",
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
       "category": "Music",
@@ -520,6 +484,30 @@
       "ticket": "https://brauntex.org/event/the-polar-express-experience-2/",
       "source": "https://brauntex.org/events/",
       "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-22",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Tanner Burch",
+      "time": "3pm",
+      "ticket": "https://gruenehall.com/event/tanner-burch-3/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-22",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "B3",
+      "time": "7pm",
+      "ticket": "https://gruenehall.com/event/b3/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
       "group": "Gruene / New Braunfels"
     },
     {
