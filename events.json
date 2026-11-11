@@ -1,23 +1,11 @@
 {
-  "generated": "2026-11-10T18:31:12",
+  "generated": "2026-11-11T18:29:35",
   "window": {
-    "start": "2026-11-09",
-    "end": "2026-12-25"
+    "start": "2026-11-10",
+    "end": "2026-12-26"
   },
-  "count": 65,
+  "count": 68,
   "events": [
-    {
-      "date": "2026-11-10",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Chris Ruest",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/chris-ruest-14/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-11-11",
       "venue": "The Pearl",
@@ -115,6 +103,18 @@
       "group": "Gruene / New Braunfels"
     },
     {
+      "date": "2026-11-13",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "Sara Evans at Stable Hall",
+      "time": "8pm",
+      "ticket": "https://events.atpearl.com/event/sara-evans-at-stable-hall/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
       "date": "2026-11-14",
       "venue": "Gruene Hall",
       "area": "Gruene",
@@ -185,6 +185,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Ticketed",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-14",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Farmers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/farmers-market-saturdays/2026-11-14/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-11-15",
@@ -511,6 +523,18 @@
       "group": "Gruene / New Braunfels"
     },
     {
+      "date": "2026-11-23",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Dylan Rhys",
+      "time": "11am",
+      "ticket": "https://gruenehall.com/event/dylan-rhys-3/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
       "date": "2026-11-25",
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
@@ -782,6 +806,18 @@
       "act": "Live Music at The Bevy Hotel",
       "time": "7pm",
       "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-12-25/",
+      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
+      "price": "",
+      "group": "Boerne"
+    },
+    {
+      "date": "2026-12-26",
+      "venue": "The Bevy Hotel",
+      "area": "Boerne",
+      "category": "Music",
+      "act": "Live Music at The Bevy Hotel",
+      "time": "7pm",
+      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-12-26/",
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
