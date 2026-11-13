@@ -1,35 +1,11 @@
 {
-  "generated": "2026-11-12T18:45:07",
+  "generated": "2026-11-13T18:26:42",
   "window": {
-    "start": "2026-11-11",
-    "end": "2026-12-27"
+    "start": "2026-11-12",
+    "end": "2026-12-28"
   },
   "count": 85,
   "events": [
-    {
-      "date": "2026-11-12",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Jakota Wass",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/jakota-wass/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-12",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Heath Walker",
-      "time": "7:30pm",
-      "ticket": "https://gruenehall.com/event/heath-walker-5/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-11-13",
       "venue": "Gruene Hall",
@@ -595,6 +571,18 @@
       "group": "Gruene / New Braunfels"
     },
     {
+      "date": "2026-11-24",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Tejas Cajun",
+      "time": "12pm",
+      "ticket": "https://gruenehall.com/event/trevor-underwood-3/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
       "date": "2026-11-27",
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
@@ -1022,6 +1010,18 @@
       "act": "Live Music with Steve Garry Duo at Singing Water Vineyards",
       "time": "1pm",
       "ticket": "https://theboernelife.com/events/live-music-with-steve-garry-duo-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-12-28",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Live Music with Christopher Lirette at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/live-music-with-christopher-lirette-at-singing-water-vineyards/",
       "source": "https://theboernelife.com/venue/singing-water-vineyards/",
       "price": "",
       "group": "Comfort"
