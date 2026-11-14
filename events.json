@@ -1,59 +1,11 @@
 {
-  "generated": "2026-11-13T18:26:42",
+  "generated": "2026-11-14T16:53:51",
   "window": {
-    "start": "2026-11-12",
-    "end": "2026-12-28"
+    "start": "2026-11-13",
+    "end": "2026-12-29"
   },
   "count": 85,
   "events": [
-    {
-      "date": "2026-11-13",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Friday Afternoon Club",
-      "time": "4pm",
-      "ticket": "https://gruenehall.com/event/friday-afternoon-club-16/2026-11-13/",
-      "source": "https://gruenehall.com/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-13",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-11-13/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-11-13",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Ray Wylie Hubbard & Friends: 80th Birthday Celebration",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/ray-wylie-hubbard-friends-80th-birthday-celebration/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-13",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "Sara Evans at Stable Hall",
-      "time": "8pm",
-      "ticket": "https://events.atpearl.com/event/sara-evans-at-stable-hall/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
     {
       "date": "2026-11-14",
       "venue": "Gruene Hall",
@@ -185,6 +137,18 @@
       "source": "https://theboernelife.com/venue/singing-water-vineyards/",
       "price": "",
       "group": "Comfort"
+    },
+    {
+      "date": "2026-11-15",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "Canceled - Moonlight Princesses at Stable Hall",
+      "time": "2pm",
+      "ticket": "https://events.atpearl.com/event/moonlight-princesses-at-stable-hall/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-11-15",
@@ -578,6 +542,30 @@
       "act": "Tejas Cajun",
       "time": "12pm",
       "ticket": "https://gruenehall.com/event/trevor-underwood-3/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-24",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Two Ton Tuesday Thanksgiving Show",
+      "time": "8:30pm",
+      "ticket": "https://gruenehall.com/event/two-ton-tuesday-thanksgiving-show-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-25",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Sarah Schafer",
+      "time": "11am",
+      "ticket": "https://gruenehall.com/event/sarah-schafer-2/",
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
@@ -1022,6 +1010,18 @@
       "act": "Live Music with Christopher Lirette at Singing Water Vineyards",
       "time": "1pm",
       "ticket": "https://theboernelife.com/events/live-music-with-christopher-lirette-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-12-29",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Live Music with Tim Russo at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/live-music-with-tim-russo-at-singing-water-vineyards/",
       "source": "https://theboernelife.com/venue/singing-water-vineyards/",
       "price": "",
       "group": "Comfort"
