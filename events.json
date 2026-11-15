@@ -1,107 +1,11 @@
 {
-  "generated": "2026-11-14T16:53:51",
+  "generated": "2026-11-15T17:37:26",
   "window": {
-    "start": "2026-11-13",
-    "end": "2026-12-29"
+    "start": "2026-11-14",
+    "end": "2026-12-30"
   },
-  "count": 85,
+  "count": 81,
   "events": [
-    {
-      "date": "2026-11-14",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Gage Gardiner",
-      "time": "11am",
-      "ticket": "https://gruenehall.com/event/gage-gardiner-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-14",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Bo Phillips",
-      "time": "1pm",
-      "ticket": "https://gruenehall.com/event/bo-phillips-23/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-14",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Henry Lee at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/henry-lee-at-singing-water-vineyards/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-11-14",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Noelle Goforthe at Singing Water Vineyards",
-      "time": "5pm",
-      "ticket": "https://theboernelife.com/events/noelle-goforthe-at-singing-water-vineyards-2/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-11-14",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-11-14/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-11-14",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Ray Wylie Hubbard & Friends: 80th Birthday Celebration",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/ray-wylie-hubbard-friends-80th-birthday-celebration-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-14",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "Makaya McCraven at Stable Hall",
-      "time": "8pm",
-      "ticket": "https://events.atpearl.com/event/makaya-mccraven-at-stable-hall/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-11-14",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Farmers Market",
-      "time": "9am",
-      "ticket": "https://events.atpearl.com/event/farmers-market-saturdays/2026-11-14/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
     {
       "date": "2026-11-15",
       "venue": "The Pearl",
@@ -571,6 +475,42 @@
       "group": "Gruene / New Braunfels"
     },
     {
+      "date": "2026-11-25",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Shinyribs",
+      "time": "8pm",
+      "ticket": "https://gruenehall.com/event/shinyribs-6/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-27",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Heath Walker",
+      "time": "12pm",
+      "ticket": "https://gruenehall.com/event/heath-walker-6/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-27",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Friday Afternoon Club",
+      "time": "4pm",
+      "ticket": "https://gruenehall.com/event/friday-afternoon-club-16/2026-11-27/",
+      "source": "https://gruenehall.com/events/",
+      "price": "",
+      "group": "Gruene / New Braunfels"
+    },
+    {
       "date": "2026-11-27",
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
@@ -1022,6 +962,18 @@
       "act": "Live Music with Tim Russo at Singing Water Vineyards",
       "time": "1pm",
       "ticket": "https://theboernelife.com/events/live-music-with-tim-russo-at-singing-water-vineyards/",
+      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
+      "price": "",
+      "group": "Comfort"
+    },
+    {
+      "date": "2026-12-30",
+      "venue": "Singing Water Vineyards",
+      "area": "Comfort",
+      "category": "Music",
+      "act": "Live Music with Brad Blackburn at Singing Water Vineyards",
+      "time": "1pm",
+      "ticket": "https://theboernelife.com/events/live-music-with-brad-blackburn-at-singing-water-vineyards/",
       "source": "https://theboernelife.com/venue/singing-water-vineyards/",
       "price": "",
       "group": "Comfort"
