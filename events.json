@@ -1,23 +1,11 @@
 {
-  "generated": "2026-11-16T20:52:04",
+  "generated": "2026-11-17T19:41:17",
   "window": {
-    "start": "2026-11-15",
-    "end": "2026-12-31"
+    "start": "2026-11-16",
+    "end": "2027-01-01"
   },
-  "count": 79,
+  "count": 81,
   "events": [
-    {
-      "date": "2026-11-16",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Bret Graham",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/bret-graham-152/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-11-17",
       "venue": "Gruene Hall",
@@ -38,6 +26,30 @@
       "act": "Evan Honer at Stable Hall",
       "time": "8pm",
       "ticket": "https://events.atpearl.com/event/evan-honer-at-stable-hall/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-11-18",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Night Market",
+      "time": "5pm",
+      "ticket": "https://events.atpearl.com/event/night-market-3/2026-11-18/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-11-18",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Author Visit at Pearl Night Market: Tom Fremantle",
+      "time": "6pm",
+      "ticket": "https://events.atpearl.com/event/author-visit-at-pearl-night-market-tom-fremantle-26/",
       "source": "https://events.atpearl.com/events/",
       "price": "",
       "group": "Hill Country / N. San Antonio"
@@ -545,6 +557,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-11-28",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Aaron Watson: Horse Named Texas Tour w/ special guest Jake Watson",
+      "time": "9pm",
+      "ticket": "https://gruenehall.com/event/aaron-watson-horse-named-texas-tour-w-special-guest-jake-watson-2/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-11-29",
