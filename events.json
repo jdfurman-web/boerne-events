@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-17T19:41:17",
+  "generated": "2026-11-18T19:17:31",
   "window": {
-    "start": "2026-11-16",
-    "end": "2027-01-01"
+    "start": "2026-11-17",
+    "end": "2027-01-02"
   },
   "count": 81,
   "events": [
@@ -17,18 +17,6 @@
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-17",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "Evan Honer at Stable Hall",
-      "time": "8pm",
-      "ticket": "https://events.atpearl.com/event/evan-honer-at-stable-hall/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-11-18",
@@ -113,6 +101,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-19",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "Better Than Ezra at Stable Hall",
+      "time": "8pm",
+      "ticket": "https://events.atpearl.com/event/better-than-ezra-at-stable-hall/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-11-20",
