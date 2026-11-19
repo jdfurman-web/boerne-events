@@ -1,59 +1,11 @@
 {
-  "generated": "2026-11-18T19:17:31",
+  "generated": "2026-11-19T19:25:33",
   "window": {
-    "start": "2026-11-17",
-    "end": "2027-01-02"
+    "start": "2026-11-18",
+    "end": "2027-01-03"
   },
-  "count": 81,
+  "count": 82,
   "events": [
-    {
-      "date": "2026-11-17",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "River Town Relics",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/river-town-relics-8/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-18",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Night Market",
-      "time": "5pm",
-      "ticket": "https://events.atpearl.com/event/night-market-3/2026-11-18/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-11-18",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Author Visit at Pearl Night Market: Tom Fremantle",
-      "time": "6pm",
-      "ticket": "https://events.atpearl.com/event/author-visit-at-pearl-night-market-tom-fremantle-26/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-11-18",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "The Georges",
-      "time": "7pm",
-      "ticket": "https://gruenehall.com/event/the-georges-110/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-11-19",
       "venue": "Singing Water Vineyards",
@@ -149,6 +101,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-20",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "Armadillo Ball at Stable Hall",
+      "time": "6pm",
+      "ticket": "https://events.atpearl.com/event/armadillo-ball-at-stable-hall/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-11-20",
@@ -257,6 +221,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-11-21",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Farmers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/farmers-market-saturdays/2026-11-21/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-11-21",
@@ -439,6 +415,18 @@
       "group": "Gruene / New Braunfels"
     },
     {
+      "date": "2026-11-26",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Closed for Thanksgiving",
+      "time": "11am",
+      "ticket": "https://gruenehall.com/event/closed-for-thanksgiving-3/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
       "date": "2026-11-27",
       "venue": "Gruene Hall",
       "area": "Gruene",
@@ -572,6 +560,18 @@
     },
     {
       "date": "2026-11-29",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Adam Johnson Band",
+      "time": "11:30am",
+      "ticket": "https://gruenehall.com/event/adam-johnson-band-15/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-29",
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
       "category": "Music",
@@ -581,6 +581,18 @@
       "source": "https://theboernelife.com/venue/singing-water-vineyards/",
       "price": "",
       "group": "Comfort"
+    },
+    {
+      "date": "2026-11-29",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Aaron Watson: Horse Named Texas Tour w/ special guest Jake Watson",
+      "time": "7pm",
+      "ticket": "https://gruenehall.com/event/aaron-watson-horse-named-texas-tour-w-special-guest-jake-watson-3/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
     },
     {
       "date": "2026-12-01",
@@ -719,9 +731,9 @@
       "venue": "Singing Water Vineyards",
       "area": "Comfort",
       "category": "Music",
-      "act": "Live Music with Bill Goodge at Singing Water Vineyards",
+      "act": "Live Music with Lucas Taylor at Singing Water Vineyards",
       "time": "1pm",
-      "ticket": "https://theboernelife.com/events/live-music-with-bill-goodge-at-singing-water-vineyards/",
+      "ticket": "https://theboernelife.com/events/live-music-with-lucas-taylor-at-singing-water-vineyards/",
       "source": "https://theboernelife.com/venue/singing-water-vineyards/",
       "price": "",
       "group": "Comfort"
