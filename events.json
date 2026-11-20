@@ -1,71 +1,11 @@
 {
-  "generated": "2026-11-19T19:25:33",
+  "generated": "2026-11-20T19:00:08",
   "window": {
-    "start": "2026-11-18",
-    "end": "2027-01-03"
+    "start": "2026-11-19",
+    "end": "2027-01-04"
   },
-  "count": 82,
+  "count": 80,
   "events": [
-    {
-      "date": "2026-11-19",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "“Chasing The Sun” Art Show at Singing Water Vineyards",
-      "time": "12pm",
-      "ticket": "https://theboernelife.com/events/chasing-the-sun-art-show-at-singing-water-vineyards/2026-11-19/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-11-19",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Theater/Arts",
-      "act": "CHOIR! CHOIR! CHOIR! PRESENTS: LANDSLIDE: AN EPIC FLEETWOOD MAC SING-ALONG!",
-      "time": "7:30pm",
-      "ticket": "https://brauntex.org/event/choir-choir-choir-presents-landslide-an-epic-fleetwood-mac-sing-along/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-19",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Isaac Jacob Band",
-      "time": "7pm",
-      "ticket": "https://gruenehall.com/event/isaac-jacob-band/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-19",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Chuck Briseno",
-      "time": "8:30pm",
-      "ticket": "https://gruenehall.com/event/chuck-briseno-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-19",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "Better Than Ezra at Stable Hall",
-      "time": "8pm",
-      "ticket": "https://events.atpearl.com/event/better-than-ezra-at-stable-hall/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
     {
       "date": "2026-11-20",
       "venue": "Gruene Hall",
@@ -226,6 +166,18 @@
       "date": "2026-11-21",
       "venue": "The Pearl",
       "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "Dexter and the Moonrocks at Stable Hall",
+      "time": "8pm",
+      "ticket": "https://events.atpearl.com/event/dexter-and-the-moonrocks-at-stable-hall/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
+    },
+    {
+      "date": "2026-11-21",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
       "category": "Festival/Market",
       "act": "Farmers Market",
       "time": "9am",
@@ -245,6 +197,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Ticketed",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-22",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Farmers Market",
+      "time": "10am",
+      "ticket": "https://events.atpearl.com/event/farmers-market-sundays/2026-11-22/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-11-22",
@@ -592,6 +556,18 @@
       "ticket": "https://gruenehall.com/event/aaron-watson-horse-named-texas-tour-w-special-guest-jake-watson-3/",
       "source": "https://gruenehall.com/events/",
       "price": "Ticketed",
+      "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-30",
+      "venue": "Gruene Hall",
+      "area": "Gruene",
+      "category": "Music",
+      "act": "Bret Graham",
+      "time": "6pm",
+      "ticket": "https://gruenehall.com/event/bret-graham-153/",
+      "source": "https://gruenehall.com/events/",
+      "price": "Free",
       "group": "Gruene / New Braunfels"
     },
     {
