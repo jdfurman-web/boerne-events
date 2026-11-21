@@ -1,83 +1,11 @@
 {
-  "generated": "2026-11-20T19:00:08",
+  "generated": "2026-11-21T17:54:45",
   "window": {
-    "start": "2026-11-19",
-    "end": "2027-01-04"
+    "start": "2026-11-20",
+    "end": "2027-01-05"
   },
-  "count": 80,
+  "count": 75,
   "events": [
-    {
-      "date": "2026-11-20",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Austin Gilliam",
-      "time": "12pm",
-      "ticket": "https://gruenehall.com/event/austin-gilliam-13/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-20",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "“Chasing The Sun” Art Show at Singing Water Vineyards",
-      "time": "12pm",
-      "ticket": "https://theboernelife.com/events/chasing-the-sun-art-show-at-singing-water-vineyards/2026-11-20/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-11-20",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Friday Afternoon Club",
-      "time": "4pm",
-      "ticket": "https://gruenehall.com/event/friday-afternoon-club-16/2026-11-20/",
-      "source": "https://gruenehall.com/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-20",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "Armadillo Ball at Stable Hall",
-      "time": "6pm",
-      "ticket": "https://events.atpearl.com/event/armadillo-ball-at-stable-hall/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-11-20",
-      "venue": "The Bevy Hotel",
-      "area": "Boerne",
-      "category": "Music",
-      "act": "Live Music at The Bevy Hotel",
-      "time": "7pm",
-      "ticket": "https://theboernelife.com/events/live-music-at-the-bevy-hotel/2026-11-20/",
-      "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
-      "price": "",
-      "group": "Boerne"
-    },
-    {
-      "date": "2026-11-20",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Tab Benoit w/ Jesse Dayton: Soul of the Swamp",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/tab-benoit-w-jesse-dayton-soul-of-the-swamp/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-11-21",
       "venue": "Gruene Hall",
@@ -281,6 +209,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-22",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "The Band of Heathens Stable Hall",
+      "time": "8pm",
+      "ticket": "https://events.atpearl.com/event/the-band-of-heathens-at-stable-hall/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-11-22",
