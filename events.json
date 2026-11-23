@@ -1,119 +1,11 @@
 {
-  "generated": "2026-11-22T18:21:10",
+  "generated": "2026-11-23T22:29:24",
   "window": {
-    "start": "2026-11-21",
-    "end": "2027-01-06"
+    "start": "2026-11-22",
+    "end": "2027-01-07"
   },
-  "count": 65,
+  "count": 57,
   "events": [
-    {
-      "date": "2026-11-22",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Farmers Market",
-      "time": "10am",
-      "ticket": "https://events.atpearl.com/event/farmers-market-sundays/2026-11-22/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-11-22",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Bradley Thomas Stivers",
-      "time": "11:30am",
-      "ticket": "https://gruenehall.com/event/bradley-thomas-stivers-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-22",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "“Chasing The Sun” Art Show at Singing Water Vineyards",
-      "time": "12pm",
-      "ticket": "https://theboernelife.com/events/chasing-the-sun-art-show-at-singing-water-vineyards/2026-11-22/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-11-22",
-      "venue": "Singing Water Vineyards",
-      "area": "Comfort",
-      "category": "Music",
-      "act": "Julian Escobedo at Singing Water Vineyards",
-      "time": "1pm",
-      "ticket": "https://theboernelife.com/events/julian-escobedo-at-singing-water-vineyards-2/",
-      "source": "https://theboernelife.com/venue/singing-water-vineyards/",
-      "price": "",
-      "group": "Comfort"
-    },
-    {
-      "date": "2026-11-22",
-      "venue": "Brauntex Theatre",
-      "area": "New Braunfels",
-      "category": "Theater/Arts",
-      "act": "THE POLAR EXPRESS EXPERIENCE",
-      "time": "3:30pm",
-      "ticket": "https://brauntex.org/event/the-polar-express-experience-2/",
-      "source": "https://brauntex.org/events/",
-      "price": "",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-22",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Tanner Burch",
-      "time": "3pm",
-      "ticket": "https://gruenehall.com/event/tanner-burch-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-22",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "B3",
-      "time": "7pm",
-      "ticket": "https://gruenehall.com/event/b3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-22",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Music",
-      "act": "The Band of Heathens Stable Hall",
-      "time": "8pm",
-      "ticket": "https://events.atpearl.com/event/the-band-of-heathens-at-stable-hall/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-11-22",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Lowland Revelry",
-      "time": "9pm",
-      "ticket": "https://gruenehall.com/event/lowland-revelry-5/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-11-23",
       "venue": "Gruene Hall",
@@ -185,6 +77,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Free",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-25",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Night Market",
+      "time": "5pm",
+      "ticket": "https://events.atpearl.com/event/night-market-3/2026-11-25/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-11-25",
