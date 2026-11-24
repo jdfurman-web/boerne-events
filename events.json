@@ -1,47 +1,11 @@
 {
-  "generated": "2026-11-23T22:29:24",
+  "generated": "2026-11-24T21:01:36",
   "window": {
-    "start": "2026-11-22",
-    "end": "2027-01-07"
+    "start": "2026-11-23",
+    "end": "2027-01-08"
   },
-  "count": 57,
+  "count": 54,
   "events": [
-    {
-      "date": "2026-11-23",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Dylan Rhys",
-      "time": "11am",
-      "ticket": "https://gruenehall.com/event/dylan-rhys-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-23",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Jesse Jennings",
-      "time": "2:30pm",
-      "ticket": "https://gruenehall.com/event/jesse-jennings-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-23",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Lee Mathis Duo",
-      "time": "6pm",
-      "ticket": "https://gruenehall.com/event/lee-mathis-duo-5/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-11-24",
       "venue": "Gruene Hall",
