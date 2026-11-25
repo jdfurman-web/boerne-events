@@ -1,35 +1,11 @@
 {
-  "generated": "2026-11-24T21:01:36",
+  "generated": "2026-11-25T20:24:37",
   "window": {
-    "start": "2026-11-23",
-    "end": "2027-01-08"
+    "start": "2026-11-24",
+    "end": "2027-01-09"
   },
-  "count": 54,
+  "count": 53,
   "events": [
-    {
-      "date": "2026-11-24",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Tejas Cajun",
-      "time": "12pm",
-      "ticket": "https://gruenehall.com/event/trevor-underwood-3/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-24",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Two Ton Tuesday Thanksgiving Show",
-      "time": "8:30pm",
-      "ticket": "https://gruenehall.com/event/two-ton-tuesday-thanksgiving-show-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-11-25",
       "venue": "Gruene Hall",
@@ -137,6 +113,18 @@
       "source": "https://gruenehall.com/events/",
       "price": "Ticketed",
       "group": "Gruene / New Braunfels"
+    },
+    {
+      "date": "2026-11-27",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Music",
+      "act": "Tatiana Retro Pop at Stable Hall",
+      "time": "8pm",
+      "ticket": "https://events.atpearl.com/event/tatiana-retro-pop-at-stable-hall/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-11-28",
