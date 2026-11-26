@@ -1,47 +1,11 @@
 {
-  "generated": "2026-11-25T20:24:37",
+  "generated": "2026-11-26T20:01:28",
   "window": {
-    "start": "2026-11-24",
-    "end": "2027-01-09"
+    "start": "2026-11-25",
+    "end": "2027-01-10"
   },
-  "count": 53,
+  "count": 51,
   "events": [
-    {
-      "date": "2026-11-25",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Sarah Schafer",
-      "time": "11am",
-      "ticket": "https://gruenehall.com/event/sarah-schafer-2/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Free",
-      "group": "Gruene / New Braunfels"
-    },
-    {
-      "date": "2026-11-25",
-      "venue": "The Pearl",
-      "area": "San Antonio – Pearl",
-      "category": "Festival/Market",
-      "act": "Night Market",
-      "time": "5pm",
-      "ticket": "https://events.atpearl.com/event/night-market-3/2026-11-25/",
-      "source": "https://events.atpearl.com/events/",
-      "price": "",
-      "group": "Hill Country / N. San Antonio"
-    },
-    {
-      "date": "2026-11-25",
-      "venue": "Gruene Hall",
-      "area": "Gruene",
-      "category": "Music",
-      "act": "Shinyribs",
-      "time": "8pm",
-      "ticket": "https://gruenehall.com/event/shinyribs-6/",
-      "source": "https://gruenehall.com/events/",
-      "price": "Ticketed",
-      "group": "Gruene / New Braunfels"
-    },
     {
       "date": "2026-11-26",
       "venue": "Gruene Hall",
@@ -185,6 +149,18 @@
       "source": "https://theboernelife.com/venue/the-bevy-hotel-boerne/",
       "price": "",
       "group": "Boerne"
+    },
+    {
+      "date": "2026-11-28",
+      "venue": "The Pearl",
+      "area": "San Antonio – Pearl",
+      "category": "Festival/Market",
+      "act": "Farmers Market",
+      "time": "9am",
+      "ticket": "https://events.atpearl.com/event/farmers-market-saturdays/2026-11-28/",
+      "source": "https://events.atpearl.com/events/",
+      "price": "",
+      "group": "Hill Country / N. San Antonio"
     },
     {
       "date": "2026-11-28",
